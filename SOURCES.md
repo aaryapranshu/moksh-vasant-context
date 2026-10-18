@@ -109,7 +109,6 @@ Every external link cited across the repo, grouped by type. Researched October 1
 - <https://www.linkedin.com/in/aditya-vohra-06a60b20a/>
 - <https://www.youtube.com/@mokshvasant>
 - <https://www.youtube.com/@mokshvasanttestimonials>
-- <https://www.youtube.com/channel/UCsqGTbGrDsq6CNxczCZmaJA>
 
 ## Data tools used during research
 

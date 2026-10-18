@@ -57,6 +57,8 @@ Full profile: [00-identity/profile.md](00-identity/profile.md)
 
 ## Keeping this repo current
 
+- **Six videos are incomplete.** Their files in `04-videos/` say `transcript_access: description only` or `metadata only` (IDs qSNYWCyKGyo, C4ckCV1xmj8, w5ONkdV9OZw, 9nLoz2BYIUc, W3uYWLXJ4-A, pyYGdcb1V48). When a transcript for any of them appears in `transcripts/`, rebuild that file with the full template used by the complete video files (core thesis, walkthrough, mental models, stories and numbers, script anatomy, voice notes), set `transcript_access` and `confidence` accordingly, fold any new models into `01-mental-models/` and `03-content-playbook/`, regenerate the row in `04-videos/README.md`, and remove the IDs from item 12 of `OPEN-QUESTIONS.md`. Do not guess their content before then.
+
 - After each new upload: run `python scripts/fetch_transcripts.py` (on a laptop, not a server) to pull the transcript into `transcripts/`, then add a breakdown to `04-videos/` using the same template as the existing files and update `04-videos/README.md`.
 - When a belief changes, update the model in `01-mental-models/` and note the change under "Evolution / confidence" instead of deleting the old view.
 - When Moksh answers an item in `OPEN-QUESTIONS.md`, fix the affected files and remove the item.

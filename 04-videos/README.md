@@ -22,10 +22,10 @@ Era summaries: [early-era-synthesis.md](early-era-synthesis.md) (what the creato
 | 2026-09-12 | [for millionaires, from gstaad (your personal brand sucks)](2026-09-12__for-millionaires-from-gstaad.md) | talking head, numbered list, filmed against a Swiss Alps view | 7,928 | full |
 | approx 2026-08 | [AI & Personal branding is a 9 figure play.. @AryanXMahajan](2026-08__ai-personal-branding-aryan-mahajan.md) | collab, long-form unscripted podcast conversation | 5,314 | partial |
 | 2026-08-26 | [millions don't equal a strong personal brand (here's why)](2026-08-26__millions-dont-equal-strong-brand.md) | unknown | 1,377 | description only |
-| 2026-07-29 | [i'm just 22 and i work with multi-millionaires to build their personal brands.](2026-07-29__just-22-multi-millionaires.md) | studio film / identity and proof video | 8,029 | metadata only |
-| 2026-07-22 | [how to build a cult, not an audience.](2026-07-22__cult-not-audience.md) | unknown | 3,669 | metadata only |
-| 2026-05-30 | [don't build a personal brand in 2026 without watching this...](2026-05-30__dont-build-personal-brand-2026.md) | unknown | 6,595 | description only |
-| 2026-05-23 | [How i scaled a 24 year old ecommerce millionaire's personal brand (in 60 days)](2026-05-23__24-year-old-ecommerce-millionaire.md) | case study call | 2,158 | description only |
+| 2026-07-29 | [i'm just 22 and i work with multi-millionaires to build their personal brands.](2026-07-29__just-22-multi-millionaires.md) | unknown; probably the Meteoric studio film shown on the site as "This Is Meteoric" | 8,029 | description only |
+| 2026-07-22 | [how to build a cult, not an audience.](2026-07-22__cult-not-audience.md) | unknown | 3,669 | description only |
+| 2026-05-30 | [don't build a personal brand in 2026 without watching this...](2026-05-30__dont-build-personal-brand-2026.md) | unknown | 6,603 | description only |
+| 2026-05-23 | [How i scaled a 24 year old ecommerce millionaire's personal brand (in 60 days)](2026-05-23__24-year-old-ecommerce-millionaire.md) | unknown; probably a client case study, like its series sibling sD4R8Z4H6U4 | 3,187 | description only |
 | 2026-05-21 | [This ECOM founder built an illegally profitable personal brand with us](2026-05-21__ecom-founder-illegally-profitable.md) | client testimonial | 156 | metadata only |
 | approx 2026-04 | [High status aesthetics to attract the top 1% (breakdown)](2026-04__high-status-aesthetics.md) | long-form teaching breakdown, filmed on a trip with in-person clients | 10,075 | full |
 | 2026-03-30 | [How i scaled a 22 year old Millionaire's personal brand (within 60 days)](2026-03-30__22-year-old-millionaire-case-study.md) | case study call | 2,708 | full |
