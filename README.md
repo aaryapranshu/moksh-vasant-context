@@ -16,8 +16,9 @@ CLAUDE.md                 start here (for the AI): who you are, rules, which fil
 04-videos/                one breakdown per YouTube video (2021 to 2026)
 05-appearances/           Wiser Together EP.28, EP.52, EP.60, The Sanskar Show #226, Breaking down businesses
 06-writing/               the Epiphanies newsletter
-transcripts/              drop zone for full transcripts
-scripts/                  fetch_transcripts.py
+transcripts/              full transcripts, synced automatically (see INDEX.md)
+scripts/                  transcript sync and fetch scripts
+.claude/settings.json     session hook that keeps transcripts/ current
 SOURCES.md                every source, linked
 OPEN-QUESTIONS.md         gaps and conflicts only you can answer
 ```
@@ -28,16 +29,9 @@ OPEN-QUESTIONS.md         gaps and conflicts only you can answer
 
 **Claude.ai Projects:** upload the folders to the project's knowledge. Upload `CLAUDE.md` too and tell the project to read it first.
 
-## Add your full transcripts (5 minutes)
+## Transcripts fill themselves
 
-The video files here are detailed breakdowns. For word-for-word context, pull your transcripts on your own laptop:
-
-```bash
-pip install yt-dlp youtube-transcript-api
-python scripts/fetch_transcripts.py
-```
-
-It grabs every video on your channel and the testimonials channel and saves them to `transcripts/`. Details in [transcripts/README.md](transcripts/README.md).
+Nothing to run. The first time the AI opens this repo, a session hook starts a background sync that pulls the full transcript of every video on your channel, the testimonials channel, and each podcast appearance into `transcripts/` (about 10 to 15 minutes, then a refresh every 3 days). The six videos whose breakdowns are still incomplete are fetched first, and the AI rebuilds those breakdowns as soon as their transcripts land. Needs Python 3.9+ on a normal internet connection. Details in [transcripts/README.md](transcripts/README.md).
 
 ## Make it more accurate
 

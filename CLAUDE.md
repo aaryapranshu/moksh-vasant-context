@@ -21,7 +21,7 @@ Full profile: [00-identity/profile.md](00-identity/profile.md)
 ## Ground rules for using this repo
 
 1. **Numbers are self-reported.** Revenue, client counts, and client results come from Moksh's own videos, site, and podcasts. They are not audited, and several conflict with each other. Keep the qualifier when you repeat them, and check [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) before stating a number as fact.
-2. **Files are paraphrased breakdowns, not transcripts.** For exact wording, use `transcripts/` (empty until Moksh runs `scripts/fetch_transcripts.py`). If a transcript exists for a video, it overrides the breakdown.
+2. **Breakdowns first, transcripts for exact wording.** `04-videos/` and `05-appearances/` hold structured breakdowns. `transcripts/` holds full word-for-word transcripts that sync automatically (see below). When a transcript exists for a video, it is the source of truth over the breakdown.
 3. **Newer beats older.** His views moved from self-improvement creator (2021 to 2024) to founder and CEO (2025 onward). When sources disagree, prefer the most recent unless the question is about his history.
 4. **Do not fill gaps by guessing.** If something is not in the repo, say so, or ask Moksh.
 5. **Writing as Moksh:** follow [03-content-playbook/voice-and-language.md](03-content-playbook/voice-and-language.md). Lowercase "i" in titles, proof before identity, calm peer-to-peer tone in scripted videos, no generic AI phrasing, no em dashes.
@@ -37,7 +37,7 @@ Full profile: [00-identity/profile.md](00-identity/profile.md)
 | [04-videos/](04-videos/) | One breakdown per YouTube video, 2021 to 2026 |
 | [05-appearances/](05-appearances/) | Podcasts and interviews: Wiser Together x3, The Sanskar Show, Breaking down businesses |
 | [06-writing/](06-writing/) | The Epiphanies newsletter (Dec 2024 to May 2025) |
-| [transcripts/](transcripts/) | Drop zone for full transcripts, plus instructions |
+| [transcripts/](transcripts/) | Full transcripts, synced automatically; [INDEX.md](transcripts/INDEX.md) shows what's there |
 | [SOURCES.md](SOURCES.md) | Every source used, with links |
 | [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) | Gaps and conflicts only Moksh can resolve |
 
@@ -55,10 +55,18 @@ Full profile: [00-identity/profile.md](00-identity/profile.md)
 | Bio, intro, or speaker profile | `00-identity/profile.md`, `00-identity/timeline.md` |
 | Draft a newsletter issue | `06-writing/epiphanies-newsletter.md`, `voice-and-language.md` |
 
+## Transcript sync (automatic)
+
+A SessionStart hook (`.claude/settings.json`) runs `scripts/sync_transcripts.py` every session. It starts a background download of all transcripts when one is due and prints a line beginning `[transcript sync]` into your context.
+
+- If that line says **ACTION**, rebuild the listed breakdowns from their transcripts before other work, unless the user's request is urgent (then do it right after).
+- If you see no `[transcript sync]` line in a session (for example because this repo is nested inside a larger workspace, so the hook didn't fire), check `transcripts/_sync_status.json`. If it is missing or its `finished` time is more than 3 days old, run `python3 scripts/sync_transcripts.py` from this repo's root yourself (it returns immediately and syncs in the background), then carry on.
+- If transcripts have been arriving but some videos have no breakdown yet (listed at the bottom of `transcripts/INDEX.md`), add breakdowns for the ones about business, brand, sales, or content when there is time, using the template of the existing files.
+
 ## Keeping this repo current
 
 - **Six videos are incomplete.** Their files in `04-videos/` say `transcript_access: description only` or `metadata only` (IDs qSNYWCyKGyo, C4ckCV1xmj8, w5ONkdV9OZw, 9nLoz2BYIUc, W3uYWLXJ4-A, pyYGdcb1V48). When a transcript for any of them appears in `transcripts/`, rebuild that file with the full template used by the complete video files (core thesis, walkthrough, mental models, stories and numbers, script anatomy, voice notes), set `transcript_access` and `confidence` accordingly, fold any new models into `01-mental-models/` and `03-content-playbook/`, regenerate the row in `04-videos/README.md`, and remove the IDs from item 12 of `OPEN-QUESTIONS.md`. Do not guess their content before then.
 
-- After each new upload: run `python scripts/fetch_transcripts.py` (on a laptop, not a server) to pull the transcript into `transcripts/`, then add a breakdown to `04-videos/` using the same template as the existing files and update `04-videos/README.md`.
+- New uploads arrive in `transcripts/` through the automatic sync. Add a breakdown to `04-videos/` for each one using the same template as the existing files, then update `04-videos/README.md`.
 - When a belief changes, update the model in `01-mental-models/` and note the change under "Evolution / confidence" instead of deleting the old view.
 - When Moksh answers an item in `OPEN-QUESTIONS.md`, fix the affected files and remove the item.

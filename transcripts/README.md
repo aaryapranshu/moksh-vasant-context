@@ -1,46 +1,35 @@
 # transcripts/
 
-Drop zone for the full, word-for-word transcripts of your videos.
+Full, word-for-word transcripts of every video on @mokshvasant, the Meteoric Boost testimonials channel, and each podcast appearance. This folder fills itself. Nobody needs to run anything.
 
-The rest of this repo holds structured breakdowns of each video (in `videos/`). This folder is for the raw source, so the AI can quote you exactly and pick up phrasing the breakdowns don't capture.
+## How it fills
 
-## Option 1: one command (recommended)
+The repo ships with a Claude Code session hook (`.claude/settings.json`). Every time the AI opens this repo, `scripts/sync_transcripts.py` runs for well under a second. When a sync is due, it starts a background job that:
 
-Run this on your own laptop. YouTube blocks most cloud servers, so it won't work from a hosted environment.
+1. Sets up a private Python environment in `.transcript-tools/` on the first run (nothing is installed system-wide).
+2. Pulls the six videos whose breakdowns are waiting on a transcript first, then every upload and podcast appearance.
+3. Saves one file per video here as `<video_id>__<title-slug>.md`, with the title, URL, date, duration, views, description, and timestamped transcript.
+4. Rebuilds [INDEX.md](INDEX.md) and writes `_sync_status.json`.
 
-```bash
-pip install yt-dlp youtube-transcript-api
-python scripts/fetch_transcripts.py
-```
+The first sync takes roughly 10 to 15 minutes in the background. After that it refreshes every 3 days and only downloads new uploads. If YouTube rate-limits the connection, it stops and resumes on the next session.
 
-It lists every video on `@mokshvasant` (long-form, Shorts, lives) and the Meteoric Boost testimonials channel, then saves one file per video here:
+When transcripts arrive for videos whose breakdowns are incomplete, the hook tells the AI, and `CLAUDE.md` instructs it to rebuild those breakdowns and update the mental models. New uploads get picked up the same way.
 
-```
-transcripts/<video_id>__<title-slug>.md
-```
+## Requirements
 
-Each file has a small header (title, URL, date, duration, views, description) and the transcript with timestamps. Re-running skips videos already saved, so you can run it after every upload.
+Python 3.9 or newer on the machine running the AI. It must be a normal home or office connection: YouTube blocks most cloud servers.
 
-Useful flags:
+## If the repo sits inside a bigger workspace
 
-```bash
-python scripts/fetch_transcripts.py --ids Ze4JOAAvAq8 qYIKwqRvIyU   # specific videos
-python scripts/fetch_transcripts.py --langs en hi                    # language priority
-python scripts/fetch_transcripts.py --overwrite                      # refresh everything
-```
+Claude Code only runs hooks from the workspace root's `.claude/settings.json`. If this folder is nested inside a larger project, `CLAUDE.md` tells the AI to start the sync itself. To make it a hook too, copy the `SessionStart` block from this repo's `.claude/settings.json` into the workspace's settings and change the path to `<this-folder>/scripts/sync_transcripts.py`.
 
-## Option 2: YouTube Studio
-
-Studio > Content > pick a video > Subtitles > the "..." next to a language > Download (.srt or .txt). Save it here as `<video_id>__<title>.txt`.
-
-## Podcasts
-
-Wiser Together and the Sanskar Goyal episode are on other people's channels. Their YouTube versions work with `--ids`:
+## Manual commands (optional)
 
 ```bash
-python scripts/fetch_transcripts.py --ids 6SYJFqH-RPQ n1vbE3e8XuE Y0fC8dizX0o k-f2AMd8-ek
+python3 scripts/sync_transcripts.py --now     # full sync in the foreground, with a log
+python3 scripts/sync_transcripts.py --index   # rebuild INDEX.md only
 ```
 
 ## Scripts and drafts
 
-If you have the original scripts you wrote before filming, put them in `transcripts/scripts/`. Those are even more valuable than transcripts for teaching the AI how you write, because they show the structure before delivery.
+Original scripts written before filming are even more useful than transcripts for teaching the AI how Moksh writes. Drop them in `transcripts/scripts/`.

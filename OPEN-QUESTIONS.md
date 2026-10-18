@@ -58,14 +58,8 @@ Things public sources couldn't settle. Answering these makes every other file mo
 
 ## Content not reachable from public sources
 
-12. **Transcripts.** Six recent videos had no readable captions from any public source in October 2026 (YouTube was blocking transcript services): qSNYWCyKGyo, C4ckCV1xmj8, w5ONkdV9OZw, 9nLoz2BYIUc, W3uYWLXJ4-A, pyYGdcb1V48. Their files hold verified metadata only. Pull exactly these six on a laptop with:
-
-    ```bash
-    python scripts/fetch_transcripts.py --ids qSNYWCyKGyo C4ckCV1xmj8 w5ONkdV9OZw 9nLoz2BYIUc W3uYWLXJ4-A pyYGdcb1V48
-    ```
-
-    Then ask the AI to rebuild those six breakdowns (CLAUDE.md tells it how). Two early videos (EDDyx-uqmLE, 4tQJUr7N14M) have only music or garbled captions; a line on what they cover would help.
-13. **The rest of the channel.** @mokshvasant has 169 uploads; about 40 are broken down here. The rest are mostly Shorts and early vlogs. The script pulls all of them.
+12. **Transcripts.** Six recent videos had no readable captions from any public source in October 2026 (YouTube was blocking transcript services): qSNYWCyKGyo, C4ckCV1xmj8, w5ONkdV9OZw, 9nLoz2BYIUc, W3uYWLXJ4-A, pyYGdcb1V48. Their files hold verified metadata only. No action needed: the automatic transcript sync fetches these six first the first time the AI opens the repo, and the AI then rebuilds their breakdowns. Two early videos (EDDyx-uqmLE, 4tQJUr7N14M) have only music or garbled captions; a line on what they cover would help.
+13. **The rest of the channel.** @mokshvasant has 169 uploads; about 40 are broken down here. The rest are mostly Shorts and early vlogs. The automatic sync pulls all of them into `transcripts/`.
 14. **Instagram.** Reels, captions, and hooks couldn't be read (Instagram blocks automated access). Exporting your top 20 reels' scripts and captions into `transcripts/instagram/` would sharpen the short-form playbook more than anything else.
 15. **LinkedIn.** Profile and posts weren't readable. Paste your About section and best posts into `06-writing/`.
 16. **Thumbnails.** Not visible to the research. A short note on your thumbnail rules would complete the packaging section.

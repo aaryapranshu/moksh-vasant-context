@@ -21,7 +21,7 @@ A 16-minute long-form video from 22 Jul 2026 that his description frames as refl
 - **Watch page (re-read Oct 2026):** confirms title, channel and the 22 Jul 2026 date. The description shows only in truncated form. There are no chapters, no pinned comment, no visible comments, and no caption text. A bot wall hid views, likes and duration.
 - **Web search:** the exact title, the video ID, and "Moksh Vasant cult audience" (plus variants with Meteoric Boost, Instagram, reels, LinkedIn) found no reposts, clips, Shorts, summaries or posts that quote this video. Results were only unrelated "cult brand" articles.
 - **Stats:** duration 16:22 and 3,669 views from Piped search. Return YouTube Dislike (Oct 2026) shows the same 3,669 views, 191 likes and 12 dislikes, and first logged the video on 15 Aug 2026.
-- **Do not reconstruct what he says in this video from its title.** Rebuild this file once a transcript exists (run `scripts/fetch_transcripts.py` on a laptop and drop the output in `transcripts/`).
+- **Do not reconstruct what he says in this video from its title.** Rebuild this file once its transcript arrives in `transcripts/` (the automatic sync fetches it first; see CLAUDE.md).
 
 ## Core thesis
 Unknown. The title sets up a contrast: a cult (a devoted following that identifies with the creator) against an audience (people who just watch). That is the packaging, not a verified argument.

@@ -6,7 +6,7 @@ last_updated: 2026-10-18
 
 # Video index
 
-Breakdowns of 31 of Moksh's YouTube videos, plus two era summaries. Each file has the core thesis, a section-by-section walkthrough, mental models, script anatomy, and voice notes. Views are as of October 2026. Videos marked description or metadata only had no readable captions; run `scripts/fetch_transcripts.py` to fill them in.
+Breakdowns of 31 of Moksh's YouTube videos, plus two era summaries. Each file has the core thesis, a section-by-section walkthrough, mental models, script anatomy, and voice notes. Views are as of October 2026. Videos marked description or metadata only had no readable captions in October 2026; the automatic transcript sync fetches them first and the AI rebuilds those files (see CLAUDE.md). Full transcripts live in [../transcripts/](../transcripts/INDEX.md).
 
 Era summaries: [early-era-synthesis.md](early-era-synthesis.md) (what the creator years explain about how he builds brands now) and [early-vlogs-2020-2022.md](early-vlogs-2020-2022.md) (school, the move to Sydney, early systems and productivity).
 
@@ -62,4 +62,4 @@ Era summaries: [early-era-synthesis.md](early-era-synthesis.md) (what the creato
 
 ## Not yet covered
 
-The channel has 169 uploads. Most of the rest are Shorts and 2020 to 2022 vlogs that public sources don't list. `scripts/fetch_transcripts.py` pulls all of them.
+The channel has 169 uploads. Most of the rest are Shorts and 2020 to 2022 vlogs that public sources don't list. The automatic transcript sync pulls all of them into `transcripts/`, and the AI adds breakdowns for the useful ones.

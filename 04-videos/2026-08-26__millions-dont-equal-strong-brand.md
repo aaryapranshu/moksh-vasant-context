@@ -19,7 +19,7 @@ A 9-minute contrarian video aimed at wealthy founders, built on the claim that m
 ## Access status
 - **No transcript.** Across three research passes, youtubetotranscript.com returned client errors every time (including two tries on 18 Oct 2026). youtube-transcript.io and the YouTube RSS feed are blocked by robots rules. youtubetranscript.com, NoteGPT, and Tactiq only serve empty tool pages, the Piped API errored, and the YouTube watch page sits behind a bot wall with no captions. Thumbnail download is blocked from this environment.
 - **No secondary coverage.** Searches on the exact title, the video ID, and "Moksh Vasant millions personal brand" found no summaries, reposts, clips, or posts quoting it. The only summary-site hit was for his Sanskar Show episode (Ai9lJxoOeDg), a different video.
-- **Do not reconstruct what he says in this video.** Replace this file once a transcript exists (run `scripts/fetch_transcripts.py` on a laptop).
+- **Do not reconstruct what he says in this video.** Rebuild this file once its transcript arrives in `transcripts/` (the automatic sync fetches it first; see CLAUDE.md).
 
 ## Verified metadata
 | Field | Value | Source |
