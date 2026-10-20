@@ -1,460 +1,486 @@
 ---
 title: Mindset and life
 type: mental-models
-sources: [https://www.youtube.com/watch?v=6SYJFqH-RPQ, https://www.youtube.com/watch?v=Y0fC8dizX0o, https://www.youtube.com/watch?v=k-f2AMd8-ek, https://www.youtube.com/watch?v=-MGRRBmou1U, https://www.youtube.com/watch?v=Ym_hrgh7TJo, https://www.youtube.com/watch?v=nnMuox4BtbU, https://www.youtube.com/watch?v=IEuERGHU3wA, https://www.youtube.com/watch?v=n1vbE3e8XuE, https://www.youtube.com/watch?v=9SBwERbSze4, https://www.youtube.com/watch?v=xQUlUeG46hs, https://www.youtube.com/watch?v=HPCsujvgIvE, https://www.youtube.com/watch?v=n9GXQoWsYvE, https://www.youtube.com/watch?v=kz4QLIEy5aA, https://www.youtube.com/watch?v=AVzCiJvNAI0, https://mokshs-newsletter-eea609.beehiiv.com/, https://www.peakform.site/]
-last_updated: 2026-10-18
+sources: [6SYJFqH-RPQ, Y0fC8dizX0o, k-f2AMd8-ek, j-2phVRezVY, uoW1RWMXWng, VfrcYnG5KlY, yfVG-XkTcBw, UQEP8Ko8x18, nnMuox4BtbU, IEuERGHU3wA, n1vbE3e8XuE, 9SBwERbSze4, xQUlUeG46hs, HPCsujvgIvE, 9Ma2bozEqGM, -MGRRBmou1U, Ym_hrgh7TJo, hAYX4s6YbCU, QtwotES26x8, V6RXQ1_T_DA, U07BFLrEMus, AVzCiJvNAI0, n9GXQoWsYvE, 4tQJUr7N14M, HqF_6fwZwgA, oo7xrSKhcLw, kz4QLIEy5aA, c-axXKkYvfc, CXGUs1zZd44, GLT7Eg0yqWM, s2qUWD9woRw, 0MPbEYQDK7Q, p6Qg2wproJo, My3MtBPw97I, xJ8soSnkuRY, 8mofJlMfHew, G0UVN3E2ZKU, ZUKQyLhLbS4, Vy_u2IsOewo, lS9uUb_j8bQ, p7ZODv8gmiA, kE2C3Lt5-QI, BfIHUKWKwZQ, vav49XjP6yM, o4YJhytDJco, mwuknwrdVe8, 7KzjZKryW6k, KrPQX-qdYRI, "https://mokshs-newsletter-eea609.beehiiv.com/", "https://www.peakform.site/"]
+last_updated: 2026-10-20
 confidence: high
 ---
 
 # Mindset and life: how Moksh thinks
 
-Moksh believes outer results lag inner work: self-image, a trained ability to watch his own mind, health, and bets on himself come first, and money and status follow.
+Moksh believes outer results lag inner work: self-image, a trained ability to watch his own mind, a body treated like an athlete's, and bets on himself come first, and money and status follow. "How you do one thing is how you do everything."
 
-Context for any agent loading only this file: Moksh Vasant grew up in Jamnagar, Gujarat, turned 21 in December 2024, studied economics at the University of Sydney, and founded Meteoric Boost (a personal brand studio for founders) in 2025. His inner-game views come mostly from three Wiser Together podcast episodes (ages 19, 20 and 22), his YouTube videos and his Epiphanies newsletter. On Wiser Together the hosts bring much of the spiritual and metaphysical framing. This file keeps only what Moksh himself said and marks host ideas as such.
+Context for any agent loading only this file: Moksh Vasant was born on 16 Dec 2003 and grew up in Jamnagar, Gujarat ("a very small town ... everyone knows everyone", Y0fC8dizX0o [18:07]); he is based in Bombay today [Aarya, 20 Oct 2026]. He studied economics at the University of Sydney (Feb 2022 to mid 2025) and founded Meteoric Boost in 2025. His inner-game views come from three Wiser Together episodes (ages 19, 20 and 22), his YouTube essays and Shorts, and the Epiphanies newsletter. On Wiser Together the hosts (Parmeet Kumar; co-host Anas on EP.28) bring much of the spiritual framing. Since the 20 Oct 2026 transcript pass, every line below is checked for speaker; host lines are listed at the end. Timestamps are `[mm:ss]` in the video named by its ID.
 
 ## Top 5 in one line each
-1. **Self-image drives outcomes:** he credits *Psycho-Cybernetics* with turning him into a winner. You stay balanced only while moving toward the self you picture.
-2. **Act like your future self:** set the identity, not the money target, then behave as that person now (character list, vision diary, CEO reminders).
-3. **The watcher:** observe your thoughts, pain and mistakes without judging or becoming them (Osho via his father, later *The Inner Game of Tennis*).
-4. **Bet on yourself before you're ready:** put money or reputation on the line so the situation is do-or-die.
-5. **Bamboo growth:** years of invisible root-building come before visible growth. Results lag effort.
+
+1. **Self-image drives outcomes:** "Psycho-Cybernetics, I would say, turned me into a winner." You stay balanced only while moving toward the self you picture.
+2. **Act like your future self:** "I'm a big believer in acting like the person I know I want to be rather than acting like the person I am today."
+3. **The watcher:** observe thoughts, pain and mistakes without judgment (Osho via his father, later *The Inner Game of Tennis*).
+4. **Trying is action:** "The only way to know what the next 10 steps are is to take those 10 steps and let it reveal itself."
+5. **Bamboo growth:** years of invisible roots come before visible growth.
 
 ---
 
 ### 1. Self-image drives outcomes (*Psycho-Cybernetics*)
-**The idea:** Your results follow the picture you hold of yourself. Change the self-image and behavior changes with it. He credits Maxwell Maltz's *Psycho-Cybernetics* with turning him into a winner.
-**How he applies it:** His own summary of the book (EP.60):
-- People are like bicycles: they only stay balanced while moving toward a goal.
-- Restlessness and low mood often come from not working toward the self you picture.
-- Live as your future self now.
-- Heal old failures, which the book calls mental bruises.
-- Use visualization and meditation.
-- Know the failure traits (fear, anger, uncertainty, fixating on failure) and the success traits (confidence, self-belief).
 
-He recommends it to anyone. He also lists it among his core books, alongside a daily meditation and visualization habit (Breaking down businesses, Oct 2025).
+**The idea:** Results follow the picture you hold of yourself. Change the self-image and behaviour follows. He credits Maxwell Maltz's *Psycho-Cybernetics* with turning him into a winner.
 
-The best advice he has received is to know yourself, so you can act as yourself alone or in any room (The Sanskar Show #226, Mar 2026).
-**Where he said it:** Wiser Together EP.60 (recorded about mid-Dec 2025, published 21 Feb 2026). Breaking down businesses (recorded 9 Oct 2025). The Sanskar Show #226 (21 Mar 2026).
-**Evolution / confidence:** High.
-- **How it started.** By the host's account (not Moksh's), Moksh talked about the book at km 17 or 18 of a Bondi half marathon they ran together, around Dec 2024. He said with conviction that he would be the one to change things for his family.
-- **What came next.** Moksh frames a hard family period that December as what happens right before change, and says his relationship with his parents is now the best it has been in a long time.
-- **A caution.** A Wiser Together Short about becoming your future self (h80LT7xMa8c) is **not confirmed as Moksh speaking**. Do not quote it as his.
+**How he applies it:**
+- His summary: "you're a bicycle ... the only way a bicycle can stay in equilibrium is if it's moving towards something"; low mood comes from not moving toward the self you picture; live as your future self now; heal old "mental bruises"; visualize and meditate (6SYJFqH-RPQ [23:17 to 25:04]).
+- Daily meditation and visualization of his vision, from the book; setbacks as feedback (IEuERGHU3wA [34:44]).
+- "Know yourself", the best advice he has received (n1vbE3e8XuE [52:30]).
+
+**In his words:** "Psycho-Cybernetics, I would say, turned me into a winner." (6SYJFqH-RPQ [23:17])
+
+**Best sources:** 6SYJFqH-RPQ [23:17 to 25:04] (rec. Dec 2025, pub. 21 Feb 2026); IEuERGHU3wA [34:44] (Oct 2025).
+
+**Evolution / confidence:** The Bondi half-marathon conversation about the book is the host's account (6SYJFqH-RPQ [22:12]). Moksh frames "that year in December" as the worst family turmoil, and now "the best relationship I've had with my parents for the longest time" (6SYJFqH-RPQ [24:04 to 24:13]); year not stated. The Wiser Short h80LT7xMa8c (bicycle, "become that person today") plausibly comes from EP.60 [24:25 to 25:04], but its audio is not checked. High.
 
 ### 2. Act like your future self (identity over goals)
-**The idea:** Don't chase the goal. Decide who the future version of you is and behave like that person today, and the results catch up.
+
+**The idea:** Don't chase the goal. Decide who the future you is and behave like that person today; reality catches up.
+
 **How he applies it:**
-- **2024 morning stack:** 10 to 15 minutes of meditation, about 5 minutes visualizing his goals and character, then a review of a character-trait list on his phone. One trait on it: "I act as if successes are inevitable." (EP.52).
-- **2025 identity rule:** act like a $50k or $100k-a-month entrepreneur before the revenue shows up (Dec 2025, principle 8).
-- **Act as if it's already yours.** Run on the energy you want to receive. He says he expected a strong team, top client results and clients paying in full without objections, and that this is now partly true (Dec 2025, principle 4).
-- **CEO identity before the money.** He kept CEO reminders on his whiteboard before he made money, and points to past predictions that came true (Road to $1M, Feb 2026).
-- **No financial goal for 2026.** The goal is who he becomes, with revenue as a by-product (EP.60).
-**Where he said it:** Wiser Together EP.52 (10 Nov 2024). How i made 2025 my best year yet (30 Dec 2025). Road to $1 million in 2026 (21 Feb 2026). Wiser Together EP.60 (published 21 Feb 2026).
-**Evolution / confidence:** High. It moved from a trait list (age 20) to revenue-tier identities and a vision diary (age 22). One open tension: having no financial goal for 2026 (EP.60) sits against a "Road to $1 million in 2026" title published the same day, and against a stated goal of six-figure USD months within three to five years (Oct 2025). Read the $1M as packaging and the identity focus as his stated stance (see model 11).
+- Sep 2024 Short: "Thinking and acting like an Entrepreneur before I become one" (CXGUs1zZd44).
+- Nov 2024 morning stack: 10 to 15 minutes of meditation, about 5 minutes visualizing, then a trait list on his phone: "I am not my thoughts but I'm present in the moment", "wherever I go, I go with me", "I act as if successes are inevitable" (k-f2AMd8-ek [07:21 to 07:47], [09:21]).
+- Dec 2025: "Craft and embody an identity that already has it all"; "What does Mo tomorrow do that Mo today doesn't do?"; "Acting like a 50k a month entrepreneur, 100k a month entrepreneur right now is what is going to get me to those numbers"; a vision diary visualized daily (nnMuox4BtbU [16:29 to 17:56]).
+- "CEO code" on his whiteboard before any revenue (9SBwERbSze4 [05:01]).
+- No financial goal for 2026; the goal is who he becomes (6SYJFqH-RPQ [21:07]).
+- Sep 2026: 15 minutes of morning meditation, "visualizing the type of person I want to be ... and then I operate through that frequency" (xQUlUeG46hs [06:45 to 07:11]).
+
+**In his words:** "I'm a big believer in acting like the person I know I want to be rather than acting like the person I am today." (n1vbE3e8XuE [40:12])
+
+**Best sources:** k-f2AMd8-ek [07:21 to 07:47] (10 Nov 2024); nnMuox4BtbU [16:29 to 17:56] (30 Dec 2025); n1vbE3e8XuE [40:12] (Mar 2026).
+
+**Evolution / confidence:** A Short slogan (Sep 2024), a trait list (Nov 2024), revenue-tier identities and a vision diary (Dec 2025), daily identity visualization (Sep 2026). Tension: no 2026 financial goal (EP.60) vs the "Road to $1 million" title the same day; read the $1M as packaging. He uses the same frame on prospects ([offers, pricing and sales](offers-pricing-sales.md), model 13). High.
 
 ### 3. The watcher: observe without judgment
-**The idea:** You are the witness of your body, mind and feelings, not those things themselves. Watching thoughts, pain and mistakes with calm curiosity, instead of riding every high and low, is his base mental tool.
-**How he applies it:**
-- **Where it comes from.** His father has visited the Osho resort in Pune since the 1990s and introduced the family to it. Moksh calls meditation the biggest gift from his parents, especially his father (EP.28; 19th birthday vlog).
-- **At 19 (2022):**
-  - He ended each day with a 10-minute Osho talk.
-  - He had tried Kundalini, Dynamic, evening and Golden Light meditations.
-  - He practiced watchfulness while walking, thinking and taking in his surroundings.
-  - He saw Osho as an ordinary man who designed 100+ meditations, not as a spiritual leader.
-- **2021.** He dates his first lasting watchful state to that year (EP.52).
-- **In use (EP.52, age 20):**
-  - It lets him notice a bad loop instead of becoming it. Loops are inevitable, and the skill is getting out faster.
-  - In his marathon he observed the pain without being swallowed by it.
-- **The 2025 version, from *The Inner Game of Tennis* (EP.60):**
-  - He retells the mirror story: a player failed under coaching, but seeing himself in a mirror made him curious instead of angry.
-  - Practice without praise or criticism, and keep a steady mental state.
-  - Example: he paid a fine that morning and felt neither upset nor elated. He calls calm acceptance of setbacks the most powerful state for personal and financial success.
-  - After a running analogy, his summary line was: "Everything is perception."
-**Where he said it:** Wiser Together EP.28 (29 Oct 2023). Wisdom from a 19 year old boy (premiered 20 Jan 2023). Wiser Together EP.52 (10 Nov 2024). Wiser Together EP.60 (published 21 Feb 2026). Epiphanies #1 (Dec 2024), where he is reading an Osho book.
-**Evolution / confidence:** High. This is the most stable idea across all his ages: explained as a gift at 19, used in practice at 20, re-sourced through Gallwey at 22.
-- **The hosts' additions, not Moksh's:** comparing it to the Stoic dichotomy of control (EP.28), and rockets and planes correcting course from feedback (EP.60).
-- **Unsure:** ages for his first ashram visit (about 4) and first formal practice (about 12) come from inconsistent captions.
 
-### 4. Bet on yourself before you're ready (overleverage)
-**The idea:** Put real money or reputation on the line so the situation becomes do-or-die. The stake forces the execution.
+**The idea:** You are the witness of your body, mind and feelings, not those things. Watching thoughts, pain and mistakes with calm curiosity is his base mental tool.
+
 **How he applies it:**
-- **The April 2025 bet.** On 28 April 2025, four days after his grandfather died, he signed up for an offer-launch program with a past mentor that he couldn't afford. His runway was about a quarter of the price. He paid in instalments and tied the next instalment to signing three clients.
-- **What happened.** He locked in through the Sydney winter (about nine hours of sleep, the gym three times a week, work the rest). The first client signed on 8 June 2025 and three were in before the second instalment (EP.60; The Sanskar Show).
-- **He names the principle "overleveraging."** Deliberately raise the stakes. Effort means working until it's done, not hours logged (Dec 2025, principle 1).
-- **The leap to India.**
-  - He stopped applying for jobs in February 2025, trusting he would figure it out.
-  - He chose to go all in on building in India over a finance or consulting job in Sydney (Epiphanies #14, Apr 2025).
-  - He finished university with no job lined up (EP.60).
-- **Money on mentors.** He says he has paid top mentors tens of thousands of dollars (Feb 2026, self-reported).
-**Where he said it:** Wiser Together EP.60 (published 21 Feb 2026). The Sanskar Show #226 (21 Mar 2026). How i made 2025 my best year yet (30 Dec 2025). Epiphanies #14 (23 Apr 2025). Road to $1 million (21 Feb 2026).
-**Evolution / confidence:** High.
-- **Nuance, readiness over rush.** At 16 he backed out of finishing school in Singapore because he felt too immature, and went abroad two years later when he felt ready (university departure vlog, about Feb 2022). He bets big when the stake is chosen, not out of impatience.
-- **Not confirmed as Moksh.** The bet to drop out after two $50k months in the Road to $1M video has an **unconfirmed speaker** and conflicts with sources saying he finished his degree. Do not present it as his bet.
+- Origin: his father first visited the Osho ashram in Pune "I think 1994"; Moksh was first taken at 4 ("they told me"); formal practice from 12, starting with Kundalini (one hour, four stages) (Y0fC8dizX0o [09:35 to 10:41]). The watcher [11:09].
+- At 19: a 10-minute Osho discourse each night; visits "at least once every two years" (-MGRRBmou1U [07:18 to 07:33]).
+- At 20: loops are inevitable, the skill is exiting faster; he watched marathon cramps without being swallowed (k-f2AMd8-ek [06:27 to 08:01]). First lasting watchful state in 2021 (k-f2AMd8-ek [56:20]). Meditate between tasks to switch contexts (k-f2AMd8-ek [09:33]).
+- At 22, via *The Inner Game of Tennis*: zero feedback, no praise, no criticism; the mirror story; he paid "a pretty hefty fine" that morning and felt neither upset nor elated (6SYJFqH-RPQ [26:04 to 28:28]).
+- Presence through subtraction: "we're not human doings"; "with time you start enjoying the emptiness" (QtwotES26x8 [00:49], [12:22], Jun 2023). Stillness: "my quality of life is determined by how present and still I can be" (xQUlUeG46hs [06:08]).
+
+**In his words:** "I am not my thoughts but I'm present in the moment." (k-f2AMd8-ek [07:21])
+
+**Best sources:** Y0fC8dizX0o [09:35 to 11:09] (29 Oct 2023); k-f2AMd8-ek [06:27 to 09:33], [56:20] (10 Nov 2024); 6SYJFqH-RPQ [26:04 to 28:28] (pub. Feb 2026).
+
+**Evolution / confidence:** His most stable idea from 4 to 22. Osho visit frequency conflicts ("every year", Oct 2021, vs "at least once every two years", Dec 2022). Host additions: the Stoic dichotomy of control (EP.28); rockets correcting course (EP.60). High.
+
+### 4. Trying is action (let the steps reveal themselves)
+
+**The idea:** Smart people see ten steps ahead and talk themselves out of acting. Act, read the feedback, try again. Volume makes failure impossible because every attempt adds to your war chest.
+
+**How he applies it:**
+- "Trying is actually action"; "The smart person can see 10 steps ahead and convince himself that he shouldn't take that course of action"; "by trying so many times ... It's impossible to fail"; skills stay "part of your war chest" (6SYJFqH-RPQ [33:56 to 35:19]). The smart-person line is Moksh's (the old repo credited the host).
+- The Palm run: you only learn the route by running it (6SYJFqH-RPQ [35:42 to 36:06]).
+- "Take dumb action if that's what it takes"; negative feedback means change course, positive means double down (IEuERGHU3wA [09:29 to 09:54]).
+- At 19: "if you don't shoot the shot it's a definite miss"; "the fear of rejection is real, which if you can get past, you're limitless" (U07BFLrEMus [08:05 to 08:19]).
+- Shorts: actions as MVPs, "the lean startup approach, but for life" (GLT7Eg0yqWM [00:15]); "most people confuse execution for progress but progress comes from [deliberate] practice" (ZUKQyLhLbS4 [00:24 to 00:37]).
+- "Doing perfect work is never what's going to make you win. Being loud about your work and going out there and selling is" (9Ma2bozEqGM [13:11]).
+- Business version (act, prove twice, systematize): [business and operations](business-and-operations.md), model 1.
+
+**In his words:** "The only way to know what the next 10 steps are is to take those 10 steps and let it reveal itself." (6SYJFqH-RPQ [35:30])
+
+**Best sources:** 6SYJFqH-RPQ [33:56 to 36:06] (pub. Feb 2026); IEuERGHU3wA [09:29 to 09:54] (Oct 2025); U07BFLrEMus [08:05 to 08:19] (22 Mar 2023).
+
+**Evolution / confidence:** "Delusion ... a superpower" is the host's line; Moksh answers "Exactly. Pure delusion" [34:47]. A counterweight: preparation creates confidence (Epiphanies #4; his race prep, model 15). High.
 
 ### 5. Bamboo growth (results lag the roots)
-**The idea:** Bamboo spends years building roots underground, then shoots up fast. What looks like overnight success is a long, invisible foundation. His line from the 2023 film: trust the process and trust the bamboo growth.
+
+**The idea:** Bamboo builds roots underground for years, then shoots up fast. Overnight success is a long invisible foundation. The idea comes from *Atomic Habits*.
+
 **How he applies it:**
-- **The order of operations (Jul 2023 film):** foundation, then self-belief, then long, medium and short-term goals.
-- **His "underground phase" (third semester, at home in India):**
-  - the gym 5 to 6 times a week
-  - a daily ice bath
-  - about 10 to 11 self-improvement books
-  - then emerging in Sydney in Feb 2023
-- **The "Bamboo Growth" reel series (2023).**
-- **His Notion template** was first called "bamboo brain" (EP.52).
-- **2025 as compounding.** He frames 2025 as about four to five years of inner work finally showing up as outer results (EP.60), and as 5 to 6 years of compounding since he started talking to a camera in 2017 (Dec 2025).
-- **Inflection points.** Small efforts compound into sudden jumps (Epiphanies #10).
-- **Consistency on YouTube.** He committed to posting through low views in May 2021, which led to a breakout and 1,000 subscribers about a year later (2022 milestone vlog).
-**Where he said it:** this self improvement theory transformed my life (Ym_hrgh7TJo, 22 Jul 2023; about 20k views, his strongest early video). Wiser Together EP.28 (29 Oct 2023). Wiser Together EP.52 (10 Nov 2024). Epiphanies #10 (12 Mar 2025). Wiser Together EP.60 (published 21 Feb 2026). How i made 2025 my best year yet (30 Dec 2025). Milestone vlog kz4QLIEy5aA (about 2022).
-**Evolution / confidence:** High. It started as a self-improvement metaphor at 19, then became his explanation for his business results at 22. It also underpins the long-horizon promise he makes to clients (a "five-year game" on the studio site).
+- "That's what I got bamboo grow concept" from *Atomic Habits* (Y0fC8dizX0o [26:49]); about 5 years of roots, about 90 days to shoot up 6 to 8 feet; the hidden work includes "courage to be alone" (Y0fC8dizX0o [43:26 to 44:19]). "They just see the tip of the iceberg" [44:31].
+- The Jul 2023 film: foundation, then self-belief, then goals; "trust the process and trust the bamboo growth" (Ym_hrgh7TJo [00:26], [08:22]).
+- His "underground phase": home in India from 6 Dec 2022 to early Feb 2023: gym, daily reading, ice baths (j-2phVRezVY [01:38]); then back to Sydney.
+- Notion OS first called "bamboo brain" (k-f2AMd8-ek [1:04:26]).
+- 2025 as the payoff: "It's a year that was in the making for, I would say, at least 5 years" (6SYJFqH-RPQ [02:12]); outer results lag inner growth (6SYJFqH-RPQ [02:25]).
 
-### 6. Vision diary and daily visualization
-**The idea:** Picture the next stage of your life in detail every day, and feel it as already real, so your behavior lines up with it.
+**In his words:** "Trust the process and trust the bamboo growth." (Ym_hrgh7TJo [08:22])
+
+**Best sources:** Ym_hrgh7TJo [00:26 to 08:22] (23 Jul 2023); Y0fC8dizX0o [26:49], [43:26 to 44:31] (29 Oct 2023); 6SYJFqH-RPQ [02:12 to 02:25] (pub. Feb 2026).
+
+**Evolution / confidence:** A self-improvement metaphor at 19, his explanation for business results at 22, and the root of the long-horizon client promise ([personal brand](personal-brand.md), model 27). Corrections: the film's "third semester" is the Sydney semester Feb to Jun 2023, not a semester at home; root length varies ("five to six years", V6RXQ1_T_DA [03:41], vs "three to five years", Ym_hrgh7TJo [00:26]). He also says "I don't feel like internally there's been a lot of growth" this year (6SYJFqH-RPQ [02:25]), so don't quote "inner growth exploded". High.
+
+### 6. Bet on yourself before you're ready (overleverage)
+
+**The idea:** Put money or reputation on the line so the situation becomes do-or-die. The stake forces the execution. Bet when the stake is chosen, not out of impatience.
+
 **How he applies it:**
-- **2023 reset.** He set a clear vision before going back to Sydney at the start of 2023, and calls it a manifestation he largely achieved (EP.28).
-- **2024 morning stack:** meditation, then visualization, then the trait list (EP.52).
-- **Race prep.** The night before his first marathon he meditated for about 40 minutes and visualized the race (EP.52).
-- **2025 vision diary.** A rolling multi-month plan, visualized daily with emotion, part of his 40-day sprints (Dec 2025).
-- **Daily practice:**
-  - meditation and visualization of his future vision, from *Psycho-Cybernetics* (Oct 2025)
-  - a 15-minute visualization meditation (about Sep 2026)
-- **A mood board.** He built a visual board of the life he wanted before he could afford it (High status aesthetics, about Apr 2026).
-**Where he said it:** Wiser Together EP.28 (29 Oct 2023). Wiser Together EP.52 (10 Nov 2024). How i made 2025 my best year yet (30 Dec 2025). Breaking down businesses (recorded 9 Oct 2025). Lessons working with the top 0.1% (about Sep 2026). High status aesthetics to attract the top 1% (HPCsujvgIvE, about Apr 2026).
-**Evolution / confidence:** High. The practice has run every year from 19 to 22, and it gets more structured each year.
+- Apr 2025: grandfather died on 24 Apr; on 28 Apr he signed a mentor's offer-launch program he couldn't afford (runway about 25% of the price), paid in instalments, and tied the next one to signing three clients: "I just put that gun to my head" (6SYJFqH-RPQ [11:08 to 11:58]). On 8 Jun he signed three clients, four days before the 12 Jun payment (n1vbE3e8XuE [10:14 to 10:44]).
+- Lock-in: Sydney winter, about 9 hours of sleep, gym 3 times a week (6SYJFqH-RPQ [11:58]).
+- "Overleveraging myself at times, creating do or die situations" (nnMuox4BtbU [02:48 to 03:02]).
+- He stopped applying for jobs in Feb 2025 and finished university with no job lined up (6SYJFqH-RPQ [08:57]).
+- Readiness: at about 16 he "chickened out" of moving to Singapore for 11th and 12th grade, then went to Sydney at 18 (oo7xrSKhcLw [01:17]).
 
-### 7. The ripple effect (fix one area, the rest follows)
-**The idea:** Improving one part of life, usually the body, spills into everything else. This is his signature cause-and-effect model.
+**In his words:** "I just put that gun to my head." (6SYJFqH-RPQ [11:58])
+
+**Best sources:** 6SYJFqH-RPQ [08:57 to 12:11] (pub. Feb 2026); n1vbE3e8XuE [10:14 to 10:44] (Mar 2026); nnMuox4BtbU [02:48] (30 Dec 2025).
+
+**Evolution / confidence:** Correction: the "drop out of college if we hit two $50k months" bet in Road to $1M is most likely the COO's ("I'm currently still in my third year", 9SBwERbSze4 [17:16]); Moksh graduated in Sydney in 2025 (9Ma2bozEqGM [1:20:59 to 1:22:14]). High.
+
+### 7. How you do one thing is how you do everything (the ripple)
+
+**The idea:** Improving one area, usually the body, spills into everything else. Stay in discomfort until it becomes familiar.
+
 **How he applies it:**
-- **His origin story.** As a kid he was overweight and not sporty, which he publicly frames as his low-confidence starting point. At 16 to 17 he started short home HIIT workouts and planks, privately in his room. That spread into diet, lifestyle, academics and eventually content creation (EP.28).
-- **2019.** He dates the start of his self-improvement habits (working out, reading, meditating, journaling) to that year (Epiphanies #5).
-- **Each body change brings a new version of him.** He says each past body transformation opened up a new version of himself, and wants his best physical shape in 2026 (EP.60).
-**Where he said it:** Wiser Together EP.28 (29 Oct 2023). Epiphanies #5 (20 Jan 2025), #7 (10 Feb 2025). Wiser Together EP.60 (published 21 Feb 2026).
-**Evolution / confidence:** High. It is the root of model 8 and of the fitness-to-identity analogy he uses to sell (the trainer who builds a lifestyle, not a meal plan, Feb 2026).
+- The origin: a "fat kid", shamed at school and bullied at cricket trials (Y0fC8dizX0o [04:17], [06:19]); his father pushed weight loss at 14 to 15; home HIIT and planks at 16 to 17 (Y0fC8dizX0o [06:04]). Then "fitness bled into academics, academics bled into content creation" (Y0fC8dizX0o [07:08]).
+- Comfort zone expands if you "resist, persist" (Y0fC8dizX0o [07:34]).
+- "Every time you go through a transformation, you unlock a new self"; he wants his "best physical form" in 2026 (6SYJFqH-RPQ [17:40 to 17:53]).
+- 2019: first transformation and calisthenics (Y0fC8dizX0o [28:08]); "lost 15 kilos" (mwuknwrdVe8 [00:00]).
 
-### 8. Health is the biggest lever (treat yourself like an athlete)
-**The idea:** Health sets how fully he can show up for himself, his team and his clients, so sleep, training and what he takes in count as business inputs.
+**In his words:** "How you do one thing is how you do everything." (Y0fC8dizX0o [06:43])
+
+**Best sources:** Y0fC8dizX0o [04:17 to 07:34] (29 Oct 2023); 6SYJFqH-RPQ [17:40 to 17:53] (pub. Feb 2026).
+
+**Evolution / confidence:** The root of his fitness-to-identity sales analogy ([personal brand](personal-brand.md), model 25). High.
+
+### 8. Treat yourself like an athlete (energy is the resource)
+
+**The idea:** Energy is the most important resource, so sleep, training, food and what dulls him are business inputs. He calls himself a cognitive or mental athlete.
+
 **How he applies it:**
-- **Health as the master variable.** He calls health the biggest factor in his life (EP.60).
-- **Four daily pillars:** intent, meditation, movement, sleep (Epiphanies #7).
-- **Treat yourself as a cognitive athlete** (Epiphanies #9).
-- **What he does:**
-  - clean eating: no processed food or sugar, high protein (since about late 2022)
-  - calisthenics, then the gym, then hybrid lifting plus running
-  - gym, sauna and ice bath, with recovery days (Feb 2026)
-  - a 32-hour water fast while writing one newsletter (Epiphanies #8)
-- **Sleep:**
-  - About nine hours a night during the May to June 2025 lock-in.
-  - He raised his sleep from about 5.8 to 7+ hours after an early 2025 burnout (Epiphanies #13).
-  - As a teenager he rejected the 5 a.m. myth.
-- **Remove what dulls you.** He went fully sober for 2025 to protect a rare window of energy and opportunity, without moralizing about drinking (Epiphanies #9).
-- **Fitness and business together.** On a client's fitness-coaching site, he credits his best business month to how fit he was (Peakform testimonial).
-**Where he said it:** Wiser Together EP.60 (published 21 Feb 2026). Epiphanies #7, #8, #9, #13 (Feb to Apr 2025). Wisdom from a 19 year old boy (Jan 2023). Road to $1 million (21 Feb 2026). Peakform site (peakform.site, undated).
-**Evolution / confidence:** High. Health was a self-improvement habit from 16 to 20, and by 22 he names it outright as the main lever. He let it slide during Aug to Oct 2025 (model 9).
+- "Life's all about energy. It's the most important resource you have" (hAYX4s6YbCU [01:45], May 2023). "Energy never lies" (Y0fC8dizX0o [22:10]).
+- "I treat myself like a mental athlete. Athletics of the brain" (s2qUWD9woRw [00:00], Sep 2024); "cognitive athlete" (Epiphanies #9).
+- Four daily pillars: intent, meditation, movement, sleep (Epiphanies #7). Sleep raised from about 5.8 to 7+ hours after an early 2025 burnout (Epiphanies #13).
+- Sober for 2025 to protect a window of energy (Epiphanies #9); no alcohol until Dec 2025, then "a couple of drinks" (nnMuox4BtbU [09:53]).
+- 2026: "best physical form" (6SYJFqH-RPQ [17:40]). He credits his best business month to his fitness (peakform.site testimonial, undated).
 
-### 9. Momentum is addictive; rest is part of performance
-**The idea:** Chaos-driven momentum feels productive but becomes a dependency and ends in burnout. Real performance needs structure and deliberate recovery.
+**In his words:** "Life's all about energy. It's the most important resource you have." (hAYX4s6YbCU [01:45])
+
+**Best sources:** hAYX4s6YbCU [01:45] (7 May 2023); s2qUWD9woRw [00:00] (27 Sep 2024); 6SYJFqH-RPQ [17:40] (pub. Feb 2026).
+
+**Evolution / confidence:** Correction: "health is the single biggest factor" on EP.60 is the host's line (6SYJFqH-RPQ [19:14]), not Moksh's. His own words are "energy" (2023) and "best physical form" (2025). He let health slide Aug to Oct 2025 (model 10). High.
+
+### 9. Systems beat motivation (non-negotiables, deep work, accountability)
+
+**The idea:** Motivation runs out, so build systems that make you act: fixed non-negotiables, protected deep work, and accountability that forces the reps. Discipline produces self-respect.
+
 **How he applies it:**
-- **2025 was fight-or-flight.** From August to October his sleep was erratic, he barely exercised or ate properly, and the stress showed physically. He then spent about six weeks in Mumbai on recovery, sleep and routine (EP.60).
-- **Momentum can become a need for chaos.** He says momentum is addictive and can make you depend on chaos. For 2026 he wants a consistent sleep schedule, a planned calendar and planned work (EP.60).
-- **Work and rest like a lion.** 40-day sprints, then 10 to 20 days of rest and travel. Grinding 60 to 180 days straight is counterproductive (Dec 2025, principle 5).
-- **Let work breathe.** Tension comes before insight, an idea from Robert Greene's *Mastery* (Epiphanies #8).
-- **Unplug from hustle culture** (Epiphanies #10, title "Unplugging the goddamn hustle").
-- **A cost he accepts.** He calls paranoia an asset that keeps him sharp, even though it costs rest (about Sep 2026).
-**Where he said it:** Wiser Together EP.60 (published 21 Feb 2026). How i made 2025 my best year yet (30 Dec 2025). Epiphanies #8, #10, #13 (Feb to Apr 2025). Lessons working with the top 0.1% (about Sep 2026).
-**Evolution / confidence:** High, and it is a recurring pattern. Burnout shows up again and again:
-- a teen video titled "I had a burnout ... and recovered :)" (about 2020 to 2021, content unverified)
-- the first Meteoric shutting down from burnout
-- early 2025
-- Aug to Oct 2025
+- At 17: the same wake time even at 9 a.m., a night-before list of 4 to 5 tasks, a goal cascade from yearly to daily (n9GXQoWsYvE [01:17 to 02:31], Jun 2021). "Goal setting does not matter unless you have good systems in place" (V6RXQ1_T_DA [03:28]).
+- At 19: six non-negotiables plus 3 hours of deep work; "go extreme with things and then tone it down" (hAYX4s6YbCU [02:11], [03:03], [08:37]). "I feel like I'm a public project" [00:17].
+- Film it only if you did it: three Bamboo Grow reels a week, filmed only on completed-routine days, shots planned the night before (Y0fC8dizX0o [52:00 to 53:04]).
+- Discipline produces self-respect (k-f2AMd8-ek [15:22]); a friend (Arian, captioned) takes notes on his podcasts and critiques him (k-f2AMd8-ek [37:01]).
+- Shorts era: 45-minute sprints and 15-minute breaks (s2qUWD9woRw [00:11]); add one hour of deep focus a day up to four, "the remaining 20 hours fuel those four" (lS9uUb_j8bQ [00:00 to 00:13]); maker's vs manager's blocks, credited to "Alex Ozi" as captioned (BfIHUKWKwZQ [00:25 to 00:37]).
+- "No crutches": once money is solved, nothing is left to blame (nnMuox4BtbU [07:04 to 08:32]).
 
-Each time it goes overload, crash, rebuilt routine, lesson shared. There is also a tension: in Jan 2025 he argued for high agency over work-life balance, saying standing out takes some obsession (Epiphanies #5).
+**In his words:** "I do not like faking my routine." (Y0fC8dizX0o [52:27])
 
-**Agent rule:** treat his sleep, routine and delegation as business inputs, and flag plans that repeat the overload pattern.
+**Best sources:** n9GXQoWsYvE [01:17 to 02:31] (9 Jun 2021); hAYX4s6YbCU [02:11 to 08:37] (7 May 2023); Y0fC8dizX0o [52:00 to 53:04] (29 Oct 2023).
 
-### 10. Abundance over survival; gratitude as the operating state
-**The idea:** Jealousy and fear come from scarcity. He tries to act from gratitude and abundance, and treats losses as lessons instead of threats.
+**Evolution / confidence:** Accountability moved from public (the camera, 19) to relational (self-respect, a friend critic, 20) to stakes and structure (bets, a team, a calendar, 22). "Motivation only gets you so far" on EP.28 is co-host Anas (Y0fC8dizX0o [30:02]); *Relentless* and "cleaners" are the hosts'. High.
+
+### 10. Sprint, then recover (momentum is addictive)
+
+**The idea:** Chaos-driven momentum feels productive but becomes a dependency and ends in burnout. Work in intense sprints, then recover on purpose. Switch the system when it stops working.
+
 **How he applies it:**
-- **Gratitude over scarcity (Dec 2025, principle 6):**
-  - Run on gratitude, not scarcity.
-  - Treat losses as tuition.
-  - He admits some of his drive comes from insecurity and pain, and tries to be grateful for that pressure.
-- **Gratitude takes reminders.** He grants that a comfortable, privileged upbringing makes gratitude easier, but the mind still drifts toward threats and has to be pointed back (EP.52).
-- **Energy reciprocity (Dec 2025, principle 4).** Kindness without a selfish motive comes back. His example: being consistently kind to staff at a Mumbai rooftop bar, where a waiter later covered his bill.
-- **What he added in EP.60:**
-  - He admits his fight-or-flight year.
-  - He says he can sense scarcity in other people's energy.
-  - His running-partner analogy: the same run feels easy beside a steady partner and hard beside a struggling one.
-- **Giving back.** He sponsored a meal at a shelter for blind children (Epiphanies #4).
-**Where he said it:** How i made 2025 my best year yet (30 Dec 2025). Wiser Together EP.52 (10 Nov 2024). Wiser Together EP.60 (published 21 Feb 2026). Epiphanies #4 (14 Jan 2025).
-**Evolution / confidence:** Medium to high. The episode description frames EP.60 around abundance over survival, but **the host led that section**:
-- a regulated nervous system matters most
-- growth from survival mode breaks you, growth from rest expands you
-- frequency and attraction
-- Naval on choosing your people and city
-- breathwork reaching the subconscious
+- Work and rest like a lion: 40-day sprints (health, sleep, meditation dialled in; 4 to 8 focused hours a day on the bottleneck), then 10 to 20 days of travel and perspective; "You can't work for 60 days, 90 days, 6 months straight" (nnMuox4BtbU [11:29 to 12:45]).
+- "Momentum is addicting ... you sort of latch on to it", so for 2026: consistent sleep, calendar and planning (6SYJFqH-RPQ [16:50 to 17:30]).
+- 2025 fight-or-flight: Aug to Oct "my circadian rhythm was the craziest free flow on earth. It still is"; skin "at the worst" from cortisol; about six weeks in Mumbai on recovery (6SYJFqH-RPQ [16:12 to 16:50]).
+- At 17: a "perfect formula" gives a "false sense of security"; "it's very, very, very essential to switch things up"; "as soon as you hit rock bottom ... is when you actually start getting your life in order" (4tQJUr7N14M [01:18 to 03:03], May 2021).
+- Paranoia keeps him sharp but "never lets me truly rest" (xQUlUeG46hs [05:44 to 06:08]).
 
-Don't attribute those points to Moksh. Gratitude itself is constant from his 2021 school-graduation video to his 2025 year review.
+**In his words:** "Momentum is very like exhilarating, right? And momentum is is addicting at the same time." (6SYJFqH-RPQ [16:50 to 17:03])
 
-### 11. Happiest over richest (money is a crutch)
-**The idea:** Asked to choose between being the richest or the happiest person in the world, he picks happiest. Life is finite, and once money is handled, life shows you the real gaps.
+**Best sources:** nnMuox4BtbU [11:29 to 12:45] (30 Dec 2025); 6SYJFqH-RPQ [16:12 to 17:30] (pub. Feb 2026); 4tQJUr7N14M [01:18 to 03:03] (14 May 2021).
+
+**Evolution / confidence:** Sprint length grew: 14 to 21 days (Epiphanies #3), 90-day quarters (Epiphanies #10), 40 days (Dec 2025). Burnout recurs: May 2021, the end of Meteoric v1, early 2025, Aug to Oct 2025, near burnout before hiring an EA (2026). Each time: overload, crash, new routine, lesson shared. "Regulated nervous system ... that growth isn't really growth, it breaks you inside" (6SYJFqH-RPQ [39:35 to 40:17]) has unclear speaker turns; the old repo credited the host. **Agent rule:** treat sleep, routine and delegation as business inputs and flag plans that repeat the overload pattern. High.
+
+### 11. Gratitude and abundance
+
+**The idea:** Jealousy and panic come from scarcity. He tries to operate from gratitude, treat losses as tuition, and act abundant with people, including clients.
+
 **How he applies it:**
-- **Happiest, after first saying they're intertwined.** Financial security is a base for reflection. A comfort level around "100K" may be enough, though the currency and period weren't clear. What's left at the end is memories, and his year's richness was its experiences, not his bank balance (EP.60).
-- **Money is a crutch until it's solved.** Then you face relationships, character and health (EP.60).
-- **Get it out of your system (Dec 2025, principle 7).** Once early goals are hit, spend some money on experiences, so you feel the hedonic treadmill yourself.
-  - Build an emergency fund first.
-  - He acknowledges a family safety net.
-  - Purchases give short bursts of happiness, while gratitude and experiences last.
-  - In Dubai, the money spent on supercars and fines showed him how fast money disappears.
-- **Change priorities with income.** At about $10k a month, start putting health and relationships first (Dec 2025, principle 3).
-**Where he said it:** Wiser Together EP.60 (published 21 Feb 2026). How i made 2025 my best year yet (30 Dec 2025).
-**Evolution / confidence:** Medium. These are clear statements, but there are two tensions to keep:
-- **His money talk is constant.** Revenue tiers ($10k, $50k, $100k a month) work as identity markers, and Road to $1M names a money goal.
-- **One line isn't his.** The idea that happiness comes from not wanting was said by the host, or the speaker is unclear.
+- "Gratitude is the highest frequency emotion you can operate from"; scarcity shows up as jealousy and panic over a fine; some of his drive comes "from a place of insecurity ... and pain", and he is grateful for it (nnMuox4BtbU [12:56 to 14:18]).
+- Reciprocity: a Mumbai rooftop-bar waiter he always treats well comped his table (nnMuox4BtbU [09:39 to 11:03]).
+- Infinite games: health and relationships; act abundant with clients (IEuERGHU3wA [33:06 to 33:46]).
+- "Abundance is the the real key ... when you're fearful, you're operating out of scarcity" (6SYJFqH-RPQ [40:36]).
 
-### 12. A mindset coach over a business coach
-**The idea:** At his stage, his inner game is the bottleneck. So in 2026 the only mentor he pays is a mindset coach.
+**In his words:** "Gratitude is the highest frequency emotion you can operate from." (nnMuox4BtbU [12:56])
+
+**Best sources:** nnMuox4BtbU [08:45 to 14:18] (30 Dec 2025); IEuERGHU3wA [33:06 to 33:46] (Oct 2025).
+
+**Evolution / confidence:** Constant from his 2021 school-graduation video to 2026. The EP.60 abundance section was led by the host (frequency, Naval on choosing your city, breathwork); keep only his lines. Medium-high.
+
+### 12. Money is a game, then value (happiest over richest)
+
+**The idea:** Money is first a game, then value, then compounding. Once money is solved, life "shows you a mirror". Asked richest or happiest, he picks happiest. Money doesn't buy motion.
+
 **How he applies it:**
-- **His coaches over time:**
-  - an offer-launch mentor (Apr 2025)
-  - a sales coach who reviewed his recorded calls (Jul 2025)
-  - for 2026, a mindset coach only (unnamed, cost not given)
-- **The coach's process:**
-  - diagnose and audit his current thought patterns
-  - rewire them through meditation, breathwork, recovery and cold exposure
-  - by his account, it takes at least 21 days (EP.60)
-- **The wall.** At 22 he says the edge comes from mental models, not tactics. His metaphor: the wall between you and the pot of gold is your mindset and self-discipline. His words: "the wall is your mindset. It is your self-discipline." (about Sep 2026)
-- **Mindset as root cause.** In interviews, mindset is his default explanation for most outcomes (Breaking down businesses, Oct 2025).
-**Where he said it:** Wiser Together EP.60 (published 21 Feb 2026). Lessons working with the top 0.1% (xQUlUeG46hs, about Sep 2026). Breaking down businesses (recorded 9 Oct 2025). The Sanskar Show #226 (Mar 2026).
-**Evolution / confidence:** High. His mentors move from tactics (offer, then sales) to mindset over about eight months.
+- "Money is a game first, then money is value, then value compounds"; money-making as "the highest form of self-improvement" (9Ma2bozEqGM [1:31:18 to 1:32:06]).
+- "Once you've solved for the monetary aspect ... life just shows you a mirror": dating, health, relationships, character (6SYJFqH-RPQ [20:29 to 20:53]).
+- "You can't be spiritual unless you've solved for the financial" (6SYJFqH-RPQ [50:31]).
+- First says both are intertwined, then: "I would probably say happiest person in the world cuz ... there's like a finite few years you want to live" (6SYJFqH-RPQ [48:49], [51:45]); the year's richness was its memories (6SYJFqH-RPQ [52:14]).
+- Get it out of your system: emergency fund first, then spend on experiences once, so you feel the hedonic treadmill; he "blew a lot" and learned "it's gratitude that makes you happy" (nnMuox4BtbU [14:43 to 16:29]). He acknowledges a family safety net (nnMuox4BtbU [15:21]).
+- "Money doesn't buy motion. Motion you got to create as an individual"; "It's life design" (9Ma2bozEqGM [2:12:20]).
 
-### 13. You become what you consume (guard inputs and attention)
-**The idea:** Your headspace is built from what you feed it: books, music, podcasts, feeds and people. So curate inputs on purpose and design your environment rather than relying on willpower.
+**In his words:** "You can't be spiritual unless you've solved for the financial." (6SYJFqH-RPQ [50:31])
+
+**Best sources:** 6SYJFqH-RPQ [20:29 to 20:53], [48:49 to 52:14] (pub. Feb 2026); nnMuox4BtbU [14:43 to 16:29] (30 Dec 2025); 9Ma2bozEqGM [1:31:18], [2:12:20] (11 Aug 2026).
+
+**Evolution / confidence:** Correction: "solve for the financial [with] 100K" is the host's line (6SYJFqH-RPQ [50:40]). Tension: revenue tiers ($10k, $50k, $100k a month) still work as identity markers for him. Medium-high.
+
+### 13. Mindset is the master lever (a mindset coach over a business coach)
+
+**The idea:** At his stage the inner game is the bottleneck. The wall between you and the pot of gold is your mindset and self-discipline, so in 2026 the only mentor he pays is a mindset coach.
+
 **How he applies it:**
-- **Curate inputs.** He deliberately curates books, music and podcasts (EP.28). Daily reading started with *Atomic Habits*.
-- **Design the environment (EP.52):**
-  - a separate Instagram account that follows only inspiring pages
-  - the main app installed only when he needs to post
-  - he points out that feeds reward on an unpredictable schedule, which makes delayed gratification harder
-- **Presence over stimulation (19th birthday):**
-  - no phone the night before, to avoid an early dopamine hit
-  - a cold bath
-  - painting instead of a party
-  - he says conventional "fun" appeals to him less than things that make him feel present and alive
-- **A room built for flow.** At 18 he designed his room loosely around *Steal Like an Artist*, with books kept around as identity cues (room-tour vlog, about Feb 2022).
-- **Curiosity on schedule.** He schedules both random and structured curiosity (Epiphanies #5, #9).
-**Where he said it:** Wiser Together EP.28 (29 Oct 2023). Wiser Together EP.52 (10 Nov 2024). Wisdom from a 19 year old boy (premiered 20 Jan 2023). Room-tour vlog AVzCiJvNAI0 (about Feb 2022). Epiphanies #5, #9 (Jan to Feb 2025).
-**Evolution / confidence:** High and consistent from 18 to 21. Since 2025 his business life has meant constant social media. How he squares that with the 2024 app-deletion habit is not stated.
+- Coaches over time: an offer-launch mentor (Apr 2025), a sales coach reviewing call recordings (Jul 2025), then for 2026 "not a business coach, not a health coach, it's a mindset coach"; rewiring takes "at least 21 days" (6SYJFqH-RPQ [42:11 to 43:28]).
+- "The wall is your mindset. It is your self-discipline. It is how you approach relationships" (xQUlUeG46hs [12:23 to 12:37]). What he learns from older clients is "mostly mental models, not tactics" (xQUlUeG46hs [11:46 to 12:14]).
+- "Half of self-improvement is just letting go of the ego" (9Ma2bozEqGM [1:23:06]).
 
-### 14. Overcoming beats achieving (the marathon mindset)
-**The idea:** What matters is beating your own doubt, not the trophy. When the high of a win fades, raise the bar.
+**In his words:** "Not a business coach, not a health coach, it's a mindset coach." (6SYJFqH-RPQ [42:23])
+
+**Best sources:** 6SYJFqH-RPQ [42:11 to 43:28] (pub. Feb 2026); xQUlUeG46hs [11:46 to 12:37] (6 Sep 2026).
+
+**Evolution / confidence:** Mentors move from tactics to mindset over about eight months. He has paid mentors "tens of thousands of dollars" (9SBwERbSze4 [02:27]). High.
+
+### 14. You become what you consume
+
+**The idea:** Your headspace is built from what you feed it. Curate inputs, design the environment instead of relying on willpower, and read widely to avoid an echo chamber.
+
 **How he applies it:**
-- **His running path:**
-  - He went from a treadmill in Converse sneakers to 2.5K, 5K, 10K, 15K, a half marathon, then a full marathon in Sydney.
-  - He trained himself, alongside university, a side business and weightlifting.
-  - He hit a wall around 24 to 25K on a long run.
-  - He hurt his knee a week before the race.
-- **Race prep:**
-  - about 40 minutes of meditation and visualization
-  - a written plan: carb loading, a gel about every 30 minutes, coconut water against cramps, a playlist
-- **In the race:**
-  - he used the watcher on the pain
-  - he listened to a Virat Kohli podcast
-  - he called it self-exploration whose lessons carried into an internship push and then his business (EP.52)
-- **Raising the bar.** He says the emotional high of the first race fades, which pushes him to keep raising it.
-- **His resilience.** At 19 he credited an inner resilience that keeps him going when peers drop off. He called it an "indomitable spirit": falling is fine as long as you are strong inside. He traces it to his father telling him to get back up stronger (EP.28).
-- **Later runs:** his 7th half marathon in 1:53, his best time, days after his grandfather's death (Epiphanies #15). Runs in Bondi and on the Palm in Dubai (EP.60).
-**Where he said it:** Wiser Together EP.52 (10 Nov 2024). Wiser Together EP.28 (29 Oct 2023). Epiphanies #3 (31 Dec 2024), #15 (13 May 2025). Wiser Together EP.60 (published 21 Feb 2026).
-**Evolution / confidence:** High on the principle. Facts to flag:
-- **The marathon year conflicts.** The EP.52 host places it the year before (so 2023), while Epiphanies #3 lists a marathon in his 2024 recap.
-- **No finish time was given.**
-- **The count of six races since is unverified.** It comes from garbled captions.
+- Curate books, music, podcasts (Y0fC8dizX0o [02:01]). "A creator is only the sum of the content he/she consumes on the regular" (c-axXKkYvfc description, Oct 2022).
+- Environment over willpower: an inspiration-only second Instagram account; the main app installed only to post (k-f2AMd8-ek [13:39]).
+- Three books at once (finance, philosophy, random) to avoid "an echo chamber"; on *48 Laws*: "do not live by this book" (V6RXQ1_T_DA [05:58], [07:40 to 08:19]).
+- "It's very important to have an unread library" (AVzCiJvNAI0 [04:25]); his room designed around *Steal Like an Artist* (Feb 2022).
 
-### 15. Discipline and accountability systems
-**The idea:** Motivation runs out, so he builds systems that make him act, and discipline is where his self-respect comes from.
+**In his words:** "It's almost like an echo chamber." (V6RXQ1_T_DA [08:05])
+
+**Best sources:** Y0fC8dizX0o [02:01] (29 Oct 2023); k-f2AMd8-ek [13:39] (10 Nov 2024); V6RXQ1_T_DA [07:40 to 08:19] (7 Mar 2023).
+
+**Evolution / confidence:** Consistent 18 to 21. How he squares it with full-time social media since 2025 is not stated. High.
+
+### 15. Overcoming beats achieving (chase the stress)
+
+**The idea:** What matters is beating your own doubt, not the trophy. The midday "why am I doing this" moment is the opportunity. Replace negative pictures before the event, plan backwards, stay calm.
+
 **How he applies it:**
-- **Film it only if you did it (2023).** He filmed a "Bamboo Growth" reel only on days he actually finished his routine, at three reels a week. He planned shots the night before so he could start at 6 a.m. on deadline days. The camera forced the gym, the outfit and the study plan (EP.28).
-- **Discipline gives self-respect.** He feels most self-respecting when disciplined, and says it shows in everything else (EP.52).
-- **People as mirrors:**
-  - a candid friend who watches his podcasts, takes notes and gives honest criticism (EP.52)
-  - the podcast itself (EP.28)
-- **No crutches (Dec 2025, principle 3).** Stop using circumstances as excuses and aim to be strong in every area of life.
-- **Internal over external reward.** He prefers the reward of finishing hard things to external pleasures, and avoids sugar triggers (EP.28).
-- **A productivity system before motivation.** At about 17 to 18 he built:
-  - a fixed wake time
-  - planning the night before
-  - four or five tasks, two of them real work
-  - one notebook cleared daily
-  - a goal cascade from yearly to daily
-  (Productivity vlog, about early 2021.)
-**Where he said it:** Wiser Together EP.28 (29 Oct 2023). Wiser Together EP.52 (10 Nov 2024). How i made 2025 my best year yet (30 Dec 2025). Productivity vlog n9GXQoWsYvE (about 2021).
-**Evolution / confidence:** Medium to high. Accountability moved over time:
-- **19:** external and public (the camera).
-- **20:** internal and relational (self-respect, a friend critic).
-- **22:** stakes and structure (bets, a calendar, the team).
+- Overcoming over achieving (k-f2AMd8-ek [25:40]). Chase the stress: the hard moment is where growth is (Y0fC8dizX0o [57:38 to 58:03]).
+- His first full marathon, Sydney, 2024: started running after watching the host's marathon "last year" (k-f2AMd8-ek [38:53]); a DIY two-month plan made "in July I think" [40:26]; build-up 1K to 21K; a wall at 24 to 25K; longest run 31.8K; knee injury a week out [40:55 to 41:35], [44:45]; carb loading, a gel every 30 minutes, coconut water for cramps, a playlist and a Kohli podcast [42:44 to 43:24]; "This is just a fun Sunday" [45:27]. Finish time not given.
+- Negative goal picture: "if I have a negative goal picture in my head I am going to go through that negative goal picture" (k-f2AMd8-ek [42:03]); reverse-calculated plan and night-before protocol (40 minutes of silent meditation) [40:41], [42:31].
+- His 7th half marathon in 1:53, days after his grandfather's death (Epiphanies #15, May 2025).
 
-**Hosts' ideas, not his:**
-- **Discipline beats motivation.** In EP.28 a host introduced it, via Tim Grover's "cleaner" archetype from *Relentless*. Moksh engaged with it.
-- **Self-belief from keeping promises to yourself** (EP.52). This is the host's line, though Moksh agreed.
+**In his words:** "This is just a fun Sunday." (k-f2AMd8-ek [45:27])
 
-**Also:** "stop negotiating with yourself." (May 2023, about 17k views) argues for a small set of fixed non-negotiables you stop renegotiating daily, plus deep work, and closes on going extreme with a new habit before pulling back to what lasts ([video](../04-videos/2023-05-06__stop-negotiating-with-yourself.md)).
+**Best sources:** k-f2AMd8-ek [25:40], [38:53 to 47:12] (10 Nov 2024); Y0fC8dizX0o [57:38 to 58:03] (29 Oct 2023).
 
-### 16. Comparison: manage it downward, aim it upward
-**The idea:** Comparison never fully goes away. So he limits the kind that drains him, and deliberately puts himself in rooms that reset what he thinks is possible.
+**Evolution / confidence:** Corrections: the first marathon was 2024, not 2023. "Six marathons in the past two, three months" and "felt nothing at the latest one" are the **host's**, as are the injured-after-20K marathon and "I can do the 100K" (k-f2AMd8-ek [26:06], [50:41]). High.
+
+### 16. Comparison and reference points
+
+**The idea:** Comparison never fully goes away, so limit the kind that drains you and put yourself in rooms that reset what feels possible. New places, people and skills are "map unlocks".
+
 **How he applies it:**
-- **He still compares.** He admitted he had compared himself to others that very evening. It is mostly subconscious and depends on how he is doing. Social media is a tool, and how you use it decides what it does to you (EP.52).
-- **Use inferiority as fuel (2023).** Surrounded by more experienced students in a consulting society, he chose to use feeling inferior as fuel and learn by osmosis (bamboo film).
-- **Get your reality shattered (Dec 2025, principle 2).** Regularly be in rooms with people far ahead of you:
-  - founders doing $50k to $300k a month
-  - a yacht worth several times his net worth
-  - he said his own last month was about $31k (self-reported)
+- "I still compare myself, even this evening" (k-f2AMd8-ek [13:13]); "If that person can do it why can I not do it" (k-f2AMd8-ek [36:47]); on Kohli: "If he can do this, why can't I?" (Y0fC8dizX0o [25:30]).
+- At 19: "use that feeling of inferiority to push me to grow" (Ym_hrgh7TJo [01:59]).
+- Get your reality shattered: founders doing $50k to $300k months; a yacht "10 times my net worth"; "I made $31,000 last month and that's nothing"; "That is your new normal. That is your baseline. That is your hygiene standard" (nnMuox4BtbU [04:20 to 06:13]).
+- Reference points and map unlocks: travel and spending a little above his means make him lock in to make it normal; high-ticket sales "added to my war chest"; paid media next (xQUlUeG46hs [07:11 to 08:35]).
 
-  Comparing yourself to top performers pulls you toward their level, and a bit of ego is useful.
-- **Reference points.** Travel and high-skill abilities like closing reset what feels possible, opening up new parts of the map (about Sep 2026).
-- **Peers, not idols.** Meet people a few steps ahead instead of idolizing them from afar (Aug and Sep 2025; see [personal-brand.md](personal-brand.md)).
-**Where he said it:** Wiser Together EP.52 (10 Nov 2024). this self improvement theory transformed my life (22 Jul 2023). How i made 2025 my best year yet (30 Dec 2025). Lessons working with the top 0.1% (about Sep 2026).
-**Evolution / confidence:** High. He went from defending against comparison at 20 to using it on purpose at 22.
+**In his words:** "That is your new normal. That is your baseline. That is your hygiene standard." (nnMuox4BtbU [05:35])
 
-### 17. Act first, and learn the route by moving
-**The idea:** Overthinking stalls you. Act, read the feedback, adjust. Pressure and doubt never leave, but they're useful when they force action.
+**Best sources:** nnMuox4BtbU [04:20 to 06:13] (30 Dec 2025); xQUlUeG46hs [07:11 to 09:12] (6 Sep 2026); k-f2AMd8-ek [13:13] (10 Nov 2024).
+
+**Evolution / confidence:** Defending against comparison at 20, using it on purpose at 22. High.
+
+### 17. Your circle shapes you
+
+**The idea:** The people around you set your energy and standards. Change your circle when you change, accept the loneliness, keep sincerity for people who earn it, and value people as obsessed as you.
+
 **How he applies it:**
-- **Learn the route by running it.** Before running the Palm in Dubai, he said you learn a route by moving through it, not by planning it, and that he is learning to embrace uncertainty (EP.60).
-- **Feedback is data.** Negative feedback means change course, positive means double down. Action beats perfection (Breaking down businesses, Oct 2025).
-- **Pressure is useful.** Doubt and pressure are constant, and pressure is useful when it forces action (Oct 2025).
-- **Take the shot.** His first video back in Sydney in 2023 argued that a shot you don't take is already missed (bamboo film). He has a 2023 video titled "I'm putting myself out there."
-- **A counterweight from his cricket.** Preparation creates confidence (Epiphanies #4), as in his race prep.
-**Where he said it:** Wiser Together EP.60 (published 21 Feb 2026). Breaking down businesses (recorded 9 Oct 2025). this self improvement theory transformed my life (22 Jul 2023). Epiphanies #4 (14 Jan 2025).
-**Evolution / confidence:** Medium to high. **Much of the EP.60 chapter on action over overthinking is the host's:**
-- a winner is whoever tries again
-- very smart people talk themselves out of acting
-- "delusion" as a superpower
-- Hormozi on any goal being a number of tries away
-- Bob Proctor on goals that stretch you
+- First semester in Sydney he slipped (sleep at 4 a.m., skipped classes, groups he didn't connect with), then pruned his circle: "courage to be alone" (Y0fC8dizX0o [22:50], [44:19], [47:25]).
+- "Shrewd outside, pure inside": after being taken advantage of in Sydney, sincerity is earned (Y0fC8dizX0o [19:01]).
+- "Being surrounded by people that push themselves as hard as you push yourself is a blessing" (U07BFLrEMus [10:59]).
+- "We play the game of business because we enjoy building things with other people that are as obsessed as us" (nnMuox4BtbU [22:16 to 22:28]).
+- A steady partner makes the same run easier; he can sense scarcity in others (6SYJFqH-RPQ [46:10]).
+- Feminine energy: his mother growing up and a "fairly fresh" relationship make him "want to be a better man"; he frames work as feminine energy he conquers (xQUlUeG46hs [11:09 to 11:46]).
 
-Moksh's own contribution was the Palm run analogy. The business version of this model is in [business-and-operations.md](business-and-operations.md), model 1.
+**In his words:** "Being surrounded by people that push themselves as hard as you push yourself is a blessing." (U07BFLrEMus [10:59])
 
-### 18. No regrets: the past is material
-**The idea:** Regret has no value, because the past is what built him. Setbacks become data or tuition.
+**Best sources:** Y0fC8dizX0o [19:01 to 47:25] (29 Oct 2023); U07BFLrEMus [10:59] (22 Mar 2023); nnMuox4BtbU [22:16] (30 Dec 2025).
+
+**Evolution / confidence:** Parents, his own account: "you're my number one" [24:04]; his mother chose to be the disciplinarian so he wouldn't have "daddy issues" (and threw slippers) [28:13 to 28:38]; with his father things "switched around when I crossed 18" to respect and "man to man talk", and he "never placed any expectations on me" [30:32 to 31:50] (all k-f2AMd8-ek). The "most successful person in the world" mother and tough-love father in that episode are the **host's** parents. "My father is a flamboyant man. I guess I got my finesse from him" (0MPbEYQDK7Q [00:14]). Business networking: [business and operations](business-and-operations.md), model 14. Medium-high.
+
+### 18. Decisive, not cruel (killer instinct)
+
+**The idea:** "Ruthless" means decisive and competitive in status games, never harm. Intent over outcome. Paranoia keeps him sharp.
+
 **How he applies it:**
-- **He wouldn't change anything.** He would just tell his younger self to keep going (EP.60; Breaking down businesses).
-- **Losses are lessons.** He reframes losses, like a costly fine, as lessons (Dec 2025).
-- **Hard periods come before change.** He frames hard family and personal periods as what comes right before change (EP.60).
-- **Contrast gives meaning.** Low periods often make sense later (EP.52). The attribution between him and the host is unsure.
-**Where he said it:** Wiser Together EP.60 (published 21 Feb 2026). Breaking down businesses (recorded 9 Oct 2025). How i made 2025 my best year yet (30 Dec 2025). Wiser Together EP.52 (10 Nov 2024).
-**Evolution / confidence:** High for 2025 to 2026. At 19 he was more openly self-critical: he said he had stopped journaling and felt he was running at maybe 10 to 15% of his capacity (EP.28).
+- Ruthless "does not mean cause harm"; business and status games are competitive (a client, a lead, a car, a dollar someone else wants); the Lord Shiva archetype of "detached energy", with a mala as a reminder; on sales calls it means pressing on pain and quoting a high enough price (nnMuox4BtbU [18:09 to 19:48]).
+- Intent over outcome: give 100 to 120% and stop worrying about results (Y0fC8dizX0o [31:12]).
+- Paranoia: "one of the biggest traits that I have, and it's also my biggest advantage" (xQUlUeG46hs [05:44 to 06:08]).
+- Repeats a client's line: "We're not here to take part. We're here to take over." (KrPQX-qdYRI [12:12])
 
-### 19. Your circle shapes you
-**The idea:** The people around you set your energy and your standards. Change your circle when you change, even though it gets lonely, and save sincerity for people who earn it.
-**How he applies it:**
-- **He reset his circle after his first semester.** In his first semester in Sydney he slipped: late nights, skipped classes, going out to fit in with groups he didn't connect with. After the reset he cut back his circle and accepted the loneliness that came with it. A best friend from home kept him company over video calls (EP.28).
-- **Guarded outside, sincere inside.** After being taken advantage of when he arrived in Sydney, he learned to be tough on the outside and keep his sincerity for people who earn it (EP.28).
-- **Friends who push each other.** He keeps friends who are into self-improvement and push each other (EP.28). He values friendships built on candor and mutual admiration (EP.28, EP.52).
-- **People as obsessed as you.** They make work more fun and more valuable (Dec 2025, principle 11).
-- **Steady people make it easier.** The running-partner analogy: a steady partner makes the same run easier (EP.60).
-**Where he said it:** Wiser Together EP.28 (29 Oct 2023). Wiser Together EP.52 (10 Nov 2024). How i made 2025 my best year yet (30 Dec 2025). Wiser Together EP.60 (published 21 Feb 2026).
-**Evolution / confidence:** Medium to high. By 2026 the same idea shows up in business: relationship-first service and being worth reaching out to (see [business-and-operations.md](business-and-operations.md), model 14).
+**In his words:** "I'm forever thinking about what my next move is." (xQUlUeG46hs [05:56])
 
-### 20. Decisive without being cruel (killer instinct)
-**The idea:** Being "ruthless" means being decisive and competitive in status games, not cruel. He wants a killer instinct with no wish to harm anyone.
-**How he applies it:**
-- **What ruthless means to him.** Decisive and competitive in business, dating and purchases (Dec 2025, principle 9).
-- **The Shiva archetype.** He draws on Lord Shiva as an archetype of detached, fierce energy, and wears a mala (prayer beads) as a reminder.
-- **On sales calls** it means pressing on pain points and quoting high prices.
-- **Confidence with a bit of ego is useful** (Dec 2025, principle 2).
-- **Intent over results.** At 19 he admired Virat Kohli's intent and killer mindset more than his results (EP.28; framing unsure).
-- **Paranoia as an asset.** He calls paranoia an asset that keeps him sharp (about Sep 2026).
-**Where he said it:** How i made 2025 my best year yet (30 Dec 2025). Wiser Together EP.28 (29 Oct 2023). Lessons working with the top 0.1% (about Sep 2026).
-**Evolution / confidence:** Medium. The clearest statement is one video (Dec 2025). When writing in his voice, keep the "not cruel" qualifier every time.
+**Best sources:** nnMuox4BtbU [18:09 to 19:48] (30 Dec 2025); xQUlUeG46hs [05:44 to 06:08] (6 Sep 2026).
 
-### 21. Spiritual, not religious
-**The idea:** He calls himself spiritual, not religious. He uses practices and archetypes as tools, not as doctrine.
-**How he applies it:**
-- **Practices:**
-  - meditation and chanting
-  - a mala
-  - the Shiva archetype (Dec 2025)
-  - Osho meditations since childhood (model 3)
-- **Osho as a person.** He treats Osho as an ordinary man who designed useful meditations, not as a leader to follow (19th birthday vlog).
-- **Reading:** an Osho book in Dec 2024 (Epiphanies #1). *The Psychology of the Esoteric* is on his book list.
-- **Iman Gadzhi as a benchmark (EP.52).** Moksh describes him as someone who started young, made a lot of money, went through a dark period and is spiritually inclined.
-- **His style is concrete.** On Wiser Together he tends to pull the hosts' metaphysical framing back to specific personal examples: the fine, the Palm run, his sleep.
-**Where he said it:** How i made 2025 my best year yet (30 Dec 2025). Wisdom from a 19 year old boy (premiered 20 Jan 2023). Wiser Together EP.52 (10 Nov 2024). Epiphanies #1 (Dec 2024).
-**Evolution / confidence:** High. This layer runs unbroken from 19 to 22. Agents should keep the spiritual layer next to the business layer, not drop it.
+**Evolution / confidence:** Keep the "not cruel" qualifier every time. Medium.
 
-### 22. Rounded knowledge: run toward your weak side
-**The idea:** Mastery needs both art and analysis. He saw himself as strong on the art and emotional side and deliberately built the analytical side, partly by running at the subject he feared.
-**How he applies it:**
-- **Facing numbers (2023).** He had feared numbers since failing a 9th-grade exam and avoided quantitative units in his first year. Then he picked 3 of 4 numbers-heavy units and did better than expected. Economics is concept-first, so once the concepts click the problems become solvable (bamboo film).
-- **"Different, not difficult."** That is his line for studying economics after dropping maths in high school (Epiphanies #4).
-- **Rounded knowledge.** He takes the idea from Robert Greene's *Mastery*. His edge was making people feel through his films. He admires Christopher Nolan's mix of science and art (Jul 2023).
-- **Apprenticeship over self-study.** Book learning alone is worthless without real reps (Jul 2023). Later he credits econometrics for his data habit (Dec 2025; Oct 2025).
-- **One skill, then sales.** His advice to young founders is to master one skill, then learn to market and sell it (Oct 2025).
-**Where he said it:** this self improvement theory transformed my life (22 Jul 2023). Epiphanies #4 (14 Jan 2025). How i made 2025 my best year yet (30 Dec 2025). Breaking down businesses (recorded 9 Oct 2025).
-**Evolution / confidence:** Medium. It is clear in 2023 to 2025 and has gone quieter since. It explains his creative-plus-data identity at Meteoric Boost.
+### 19. Spiritual, not religious
 
-### 23. Influence by example (the vessel)
-**The idea:** He inspires by being his best self, not by preaching, and doesn't take credit for other people's progress. He sees himself as a vessel passing inspiration on.
+**The idea:** He uses practices and archetypes as tools, not doctrine.
+
 **How he applies it:**
-- **At 19.** Younger students and gym-goers told him his reels motivated them (EP.28).
-- **At 20.** He described a domino effect, and pointed to young people from his home region who message him (EP.52).
-- **His newsletter (Dec 2024).** He started it to pay forward a friend's help in getting into private equity, and wrote as a learner, not an authority (Epiphanies #1).
-**Where he said it:** Wiser Together EP.28 (29 Oct 2023). Wiser Together EP.52 (10 Nov 2024). Epiphanies #1 (Dec 2024).
-**Evolution / confidence:** Medium. It is strong at 19 to 21. Since 2025 his public voice is more about status and authority (clients worth millions, the "top 0.1%"), so this humility now shows up mostly in reflective videos.
+- "I'm spiritual. I'm not religious" (nnMuox4BtbU [18:57]); Shiva chants and a mala (nnMuox4BtbU [19:07 to 19:22]).
+- Osho as an ordinary man who designed useful meditations, not a leader to follow (-MGRRBmou1U).
+- "Call me woo-woo or spiritual ... frequency matters a lot to me" (xQUlUeG46hs [06:58 to 07:11]).
+- Spirituality comes after money is solved (model 12).
+
+**In his words:** "I'm spiritual. I'm not religious." (nnMuox4BtbU [18:57])
+
+**Best sources:** nnMuox4BtbU [18:57 to 19:22] (30 Dec 2025); xQUlUeG46hs [06:58] (6 Sep 2026).
+
+**Evolution / confidence:** Unbroken from 19 to 22. On Wiser Together he pulls the hosts' metaphysics back to concrete examples (the fine, the Palm run, his sleep). High.
+
+### 20. No regrets: the past is material
+
+**The idea:** Regret has no value; the past is what built him. Setbacks are data or tuition.
+
+**How he applies it:**
+- No-regret policy: the past is the material you are made of; he would tell his younger self to keep going (6SYJFqH-RPQ [15:49]).
+- Losses as lessons, like a costly fine (nnMuox4BtbU [13:15]).
+- "Self-education doesn't amount to anything if it's not combined with real life experiences" (Ym_hrgh7TJo [07:57]).
+
+**In his words:** "Every time you go through a transformation, you unlock a new self." (6SYJFqH-RPQ [17:53])
+
+**Best sources:** 6SYJFqH-RPQ [15:49] (pub. Feb 2026); nnMuox4BtbU [13:15] (30 Dec 2025).
+
+**Evolution / confidence:** Correction: "running at 10 to 15% capacity", "stopped journaling" and "my superior self is disappointed in me" on EP.28 are co-host **Anas**, not Moksh (Y0fC8dizX0o [55:19 to 57:07]). High.
+
+### 21. Different, not difficult (run toward the weak side)
+
+**The idea:** Mastery needs art and analysis. He was strong on the art side and built the analytical side by running at the subject he feared.
+
+**How he applies it:**
+- He failed a maths exam in 9th grade (Ym_hrgh7TJo [02:56]), dropped maths, then took numbers-heavy units at Sydney and did better than expected; economics is concept-first.
+- "As a 21-year-old I'm learning that nothing is difficult it's just different"; distinctions in maths-heavy courses after dropping maths (G0UVN3E2ZKU [00:00 to 00:36], Jan 2025). "First half of the semester was a disaster, but the second half, I'm Virat Kohli in a World Cup chase" (8mofJlMfHew [00:12]).
+- Rounded knowledge from Robert Greene's *Mastery*; admires Christopher Nolan's mix of science and art (Ym_hrgh7TJo, Jul 2023).
+- Creativity is borrowed parts plus the touch "that arises out of your limitations and strengths" (HqF_6fwZwgA [03:12], May 2021).
+
+**In his words:** "Nothing is difficult it's just different." (G0UVN3E2ZKU [00:00])
+
+**Best sources:** Ym_hrgh7TJo [02:56], [07:57] (23 Jul 2023); G0UVN3E2ZKU [00:00 to 00:36] (24 Jan 2025).
+
+**Evolution / confidence:** Clear 2023 to 2025, quieter since; explains his creative-plus-data identity. Medium.
+
+### 22. Teach by being (the vessel)
+
+**The idea:** He inspires by being his best self, not by preaching, and takes no credit for others' progress.
+
+**How he applies it:**
+- "Most people do not want to really learn"; be "unplanned ... the best version of myself" (Y0fC8dizX0o [47:00 to 48:15]).
+- The vessel: inspiration passes through you (k-f2AMd8-ek [18:13]). Kids recognize him "when I go back to Jamnagar" (Y0fC8dizX0o [47:51]).
+- The newsletter started to pay forward a friend's help getting into private equity (Epiphanies #1, Dec 2024).
+- "I don't call them my fans or audience... They're my friends" (VfrcYnG5KlY [04:21], Dec 2021).
+
+**In his words:** "I've literally grown up online." (k-f2AMd8-ek [1:05:44])
+
+**Best sources:** Y0fC8dizX0o [47:00 to 48:15] (29 Oct 2023); k-f2AMd8-ek [18:13] (10 Nov 2024).
+
+**Evolution / confidence:** Strong at 18 to 21. Since 2025 his public voice is status and authority, so this humility shows mostly in reflective videos and sign-offs ("You're listening to a 22-year-old dummy on the internet", xQUlUeG46hs [13:03]). Medium.
+
+### 23. Life as a story: adventure through responsibility, lore and motion
+
+**The idea:** Adventure comes from taking on more responsibility. Live as if you're in a film, name your life phases as story arcs, and keep creating lore and motion.
+
+**How he applies it:**
+- "The only way to have a sense of adventure ... is to take more responsibility and scale high mountains" (k-f2AMd8-ek [52:05]).
+- "18 to 25 is the age where you either make or break your life" (Y0fC8dizX0o [22:37]).
+- "Live as if you're in a Christopher Nolan movie": name life phases as story arcs (vav49XjP6yM [00:00], Jun 2025).
+- "Keep creating lore, keep having motion"; "I need depth to people and places"; "life is play, play is life" (9Ma2bozEqGM [2:08:59], [2:10:08], [02:16]).
+- "A cheat code to enjoying any random day is to film it, it makes me live more intentionally" (uoW1RWMXWng description).
+
+**In his words:** "Keep creating lore, keep having motion." (9Ma2bozEqGM [2:10:08])
+
+**Best sources:** k-f2AMd8-ek [52:05] (10 Nov 2024); vav49XjP6yM [00:00] (7 Jun 2025); 9Ma2bozEqGM [2:08:59 to 2:12:20] (11 Aug 2026).
+
+**Evolution / confidence:** Medium-high. Links to documenting his life ([personal brand](personal-brand.md), model 13).
+
+### 24. Shorts-era models (Sep 2024 to Jun 2025)
+
+**The idea:** His 43 Shorts (likely his reels) compress his mindset into one-line theses. Most are folded into the models above; the rest are here.
+
+| Model | Verbatim line | Source |
+|---|---|---|
+| Clarity of thought | "being a clear thinker is a better compliment than being smart" | p6Qg2wproJo [00:25] (6 Oct 2024) |
+| 80/20 inputs | "20% of my inputs reap 80% of the rewards"; close: "the flow leads straight to the drain" | xJ8soSnkuRY [00:00], [00:52] (26 Oct 2024) |
+| Masks | "we all wear masks it's about wearing the right one at the right time" | My3MtBPw97I [00:00] (14 Oct 2024) |
+| Reduce perceived effort | "A lot of effort is simply perception. I want to reduce my perceived effort"; "Finesse. When I hustle, I always make it fancy" | 0MPbEYQDK7Q [00:00 to 00:14] (27 Sep 2024) |
+| Self as the business | "realizing that I'm the business and the faster that I grow whatever I do grows too"; grunt work "needs to be automated" | CXGUs1zZd44 [00:00] (27 Sep 2024) |
+| Actions as MVPs | the lean startup approach, but for life | GLT7Eg0yqWM [00:15] (27 Sep 2024) |
+| Leverage via unasked help | help people "killing it" before they ask | Vy_u2IsOewo [00:00 to 00:13] (20 Feb 2025) |
+| Execution vs progress | "most people confuse execution for progress" | ZUKQyLhLbS4 [00:24 to 00:37] (15 Feb 2025) |
+| Speed | "If it can be done in 2 months, it definitely can be done in 2 weeks." | p7ZODv8gmiA [00:12] (14 Apr 2025) |
+| Elimination | "Elimination over addition any day of the [week]" | kE2C3Lt5-QI [00:44] (22 Apr 2025) |
+| Mentor velocity | act on advice "faster than they expect" | o4YJhytDJco [00:12] (8 Jun 2025) |
+| Cringe | "cringe is the new cool" | mwuknwrdVe8 [00:30] (9 Jun 2025) |
+| Two domains | "Online marketing to hold, move, and convert attention at scale and the world of finance, macroeconomics, and deals" | 7KzjZKryW6k [00:00] (10 Jun 2025) |
+
+**Best sources:** [Shorts synthesis](../04-videos/shorts-2024-2025.md).
+
+**Evolution / confidence:** Self-reported numbers in Shorts conflict with other sources (2,500 Notion customers in p7ZODv8gmiA vs about 1,800 elsewhere; "7 years" in self-help at 21 in kE2C3Lt5-QI). Use the lines, not the numbers. Medium-high.
 
 ---
 
 ## How these evolved from about 17 to 22
+
 | Age / period | Core frame | Main practices | Key sources |
 |---|---|---|---|
-| About 17 to 18 (2020 to early 2022) | A personal system beats motivation. Documenting life as memory | Fixed wake time, nightly planning, goal cascade; vlogging consistently; room designed for flow | Productivity vlog (about 2021), room tour and departure vlogs (about Feb 2022) |
-| 19 (late 2022 to 2023) | Redemption arc: first-semester slump, the Kohli tears at the MCG, then a habit reset. Ages 18 to 25 as make-or-break. Bamboo growth, ripple effect, the watcher | Reading daily, ice baths, clean eating, training; Osho talk nightly; filming only on days he did the work; pruning his circle | Wisdom from a 19 year old boy (Jan 2023), bamboo film (Jul 2023), EP.28 (Oct 2023) |
-| 20 (2024) | Systems arc: a daily identity stack, environment design, overcoming over achieving. Openly a jack of all trades | Meditate, visualize, trait list; inspiration-only Instagram account; marathon prep with the watcher; Notion "Jack of All Trades" system | EP.52 (Nov 2024), Epiphanies #1 to #3 |
-| 21 (Dec 2024 to Dec 2025) | Essentialism and subtraction, sobriety, cognitive athlete. Then the leap: bet money he didn't have, *Psycho-Cybernetics*, fight-or-flight building, burnout | 90-day and then 40-day sprints, sleep repair, sober year, half marathons; locked-in Sydney winter; six-week recovery in Mumbai | Epiphanies #4 to #15, EP.60 (recorded Dec 2025), Dec 2025 year review |
-| 22 (2026) | Identity over money targets, structure over chaos, CEO not founder. A mindset coach over a business coach. Happiest over richest. Calm observation (*Inner Game*). Reference points from rooms far ahead | Vision diary, daily 15-minute visualization, recovery days, consistent sleep, chanting and mala | EP.60 (published Feb 2026), Road to $1M (Feb 2026), lessons from the top 0.1% (about Sep 2026) |
+| 17 (2021) | A system beats motivation; Meteoric v1 as a learning venture; content sells a feeling; switch the system after burnout | Fixed wake time, night-before list, goal cascade; vlogging commitment | n9GXQoWsYvE, yfVG-XkTcBw, UQEP8Ko8x18, 4tQJUr7N14M |
+| 18 (2022) | Moves straight from Jamnagar to Sydney at 18; slump, then the Dec 2022 underground phase | Room built on *Steal Like an Artist*; reading; ice baths | AVzCiJvNAI0, oo7xrSKhcLw, j-2phVRezVY |
+| 19 (2023) | Permissionless leverage, energy as the resource, non-negotiables, bamboo, ripple, watcher | Six non-negotiables, 3 h deep work, film only if you did it, circle pruning | -MGRRBmou1U, hAYX4s6YbCU, Ym_hrgh7TJo, Y0fC8dizX0o |
+| 20 (2024) | Identity stack, environment design, overcoming over achieving; jack of all trades; Shorts era begins | Meditate, visualize, trait list; second Instagram account; first marathon | k-f2AMd8-ek, Shorts |
+| 21 (Dec 2024 to Dec 2025) | Essentialism, sobriety, mental athlete; then the bet, *Psycho-Cybernetics*, fight-or-flight, burnout | 90-day then 40-day sprints, sleep repair, sober year, half marathons, Mumbai recovery | Epiphanies, 6SYJFqH-RPQ, nnMuox4BtbU |
+| 22 (2026) | Identity over money, structure over chaos, CEO not founder, mindset coach, reference points, money is a game then value, motion over money | Morning 15-minute visualization, consistent sleep, chanting, EA to protect focus | 6SYJFqH-RPQ, 9SBwERbSze4, xQUlUeG46hs, 9Ma2bozEqGM |
 
-**Constants across all ages:** the watcher and meditation (Osho through his father); body first as the start of every turnaround; documenting his life on camera since 2017; slow compounding (bamboo); gratitude; books as mentors (Naval, Greene, Maltz, McKeown, Hormozi); Virat Kohli as a resilience model.
+**Constants:** the watcher (Osho via his father); body first in every turnaround; documenting his life since 2017; bamboo compounding; gratitude; books as mentors (Maltz, Greene, McKeown, Clear, Naval, Hormozi); Virat Kohli as a resilience model.
 
-**What changed:** accountability moved from public (the camera), to relational (a friend, a podcast), to stakes and structure (money bets, a team, a calendar). Role models went from Kohli and Casey Neistat, to adding Iman Gadzhi (2024), to paid mentors and coaches (2025 to 2026). He went from breadth (jack of all trades) to focus. Hustle at 21 gave way to periodized rest at 22.
+**Titles that mislead:** "What if you were to die tomorrow?" (a day vlog with no mortality model) and "Why 'self improvement' is ruining your life" (a reading-list video that praises self-help). See [early-era synthesis](../04-videos/early-era-synthesis.md).
 
-**2023 titles that mislead:** "What if you were to die tomorrow?" is a day vlog that never discusses death (there is no mortality model), and "Why 'self improvement' is ruining your life" is a reading-list video that praises self-help books. Don't build arguments on these titles (see [early-era synthesis](../04-videos/early-era-synthesis.md)).
+## Host and co-host ideas that are not Moksh's (do not file as his views)
 
-## Host ideas that are not Moksh's (do not file as his views)
-- **EP.28:** comparing the watcher to the Stoic dichotomy of control; the main point about vulnerability; introducing Tim Grover's *Relentless* "cleaner" (Moksh engaged with it).
-- **EP.52:**
-  - self-belief built by keeping promises to yourself (Moksh agreed)
-  - the jack of all trades, master of none framing
-  - power over money under capitalism
-  - the river and shedding-identities image
-- **EP.60:**
-  - delusion as a superpower
-  - Hormozi on any goal being a number of tries away, and Bob Proctor on stretch goals
-  - the regulated nervous system and survival-vs-rest growth
-  - frequency and attraction, and the subconscious
-  - Naval on choosing your people and city
-  - rockets correcting course
-  - happiness comes from not wanting (host or unclear)
+- **EP.28 (Y0fC8dizX0o), co-host Anas:** "motivation only gets you so far, it's discipline or passion" [30:02]; "10 to 15% capacity", "stopped journaling", "superior self is disappointed in me" [55:19 to 57:07].
+- **EP.28, host:** "bill of regret ... generational" [33:53]; *Relentless* and "cleaners" [38:31]; the Andrew Tate quote [58:18]; the Stoic dichotomy of control.
+- **EP.52 (k-f2AMd8-ek), host Parmeet:** six marathons in two to three months and "felt nothing" [50:41]; the injured-after-20K marathon and "I can do the 100K" [26:06]; his own parents (the "most successful person" mother, tough-love father) [27:01 to 30:17]; his move to the UK at 18 and gambling history; self-belief from keeping promises to yourself; jack of all trades, master of none.
+- **EP.60 (6SYJFqH-RPQ), host:** "health is the single biggest factor" [19:14]; "delusion ... a superpower" [34:47]; aura "up to 2 m" [46:22]; "solve for the financial [with] 100K" [50:40]; rockets correcting course; Naval on choosing your city; the Bondi half-marathon story [22:12].
+- **Unclear speaker:** regulated nervous system and survival growth (6SYJFqH-RPQ [39:35 to 40:17]).
 
 ## Sources used in this file
-| Label used above | Date | Breakdown | Original |
+
+| ID | Title (short) | Published | Breakdown |
 |---|---|---|---|
-| Productivity vlog | about early 2021 | [04-videos](../04-videos/early-vlogs-2020-2022.md) | https://www.youtube.com/watch?v=n9GXQoWsYvE |
-| Room-tour vlog / university departure vlog / milestone vlog | about 2022 | [04-videos](../04-videos/early-vlogs-2020-2022.md) | https://www.youtube.com/watch?v=AVzCiJvNAI0 , https://www.youtube.com/watch?v=oo7xrSKhcLw , https://www.youtube.com/watch?v=kz4QLIEy5aA |
-| Wisdom from a 19 year old boy | premiered 20 Jan 2023 | [04-videos](../04-videos/2023-01-20__wisdom-from-a-19-year-old.md) | https://www.youtube.com/watch?v=-MGRRBmou1U |
-| this self improvement theory transformed my life (bamboo film) | 22 Jul 2023 | [04-videos](../04-videos/2023-07-22__bamboo-self-improvement-theory.md) | https://www.youtube.com/watch?v=Ym_hrgh7TJo |
-| Wiser Together EP.28 | 29 Oct 2023 | [05-appearances](../05-appearances/2023-10-29__wiser-together-ep28.md) | https://www.youtube.com/watch?v=Y0fC8dizX0o |
-| Wiser Together EP.52 | 10 Nov 2024 | [05-appearances](../05-appearances/2024-11-10__wiser-together-ep52.md) | https://www.youtube.com/watch?v=k-f2AMd8-ek |
-| Epiphanies newsletter #1 to #15 | Dec 2024 to May 2025 | [06-writing](../06-writing/epiphanies-newsletter.md) | https://mokshs-newsletter-eea609.beehiiv.com/ |
-| Breaking down businesses | recorded 9 Oct 2025 | [05-appearances](../05-appearances/2025-12__breaking-down-businesses.md) | https://www.youtube.com/watch?v=IEuERGHU3wA |
-| How i made 2025 my best year yet | 30 Dec 2025 | [04-videos](../04-videos/2025-12-30__made-2025-best-year-yet.md) | https://www.youtube.com/watch?v=nnMuox4BtbU |
-| Wiser Together EP.60 | recorded about mid-Dec 2025, published 21 Feb 2026 | [05-appearances](../05-appearances/2026-02-21__wiser-together-ep60.md) | https://www.youtube.com/watch?v=6SYJFqH-RPQ |
-| Road to $1 million in 2026 | 21 Feb 2026 | [04-videos](../04-videos/2026-02-21__road-to-1-million-2026.md) | https://www.youtube.com/watch?v=9SBwERbSze4 |
-| The Sanskar Show #226 | 21 Mar 2026 | [05-appearances](../05-appearances/2026-03-21__sanskar-show-226.md) | https://www.youtube.com/watch?v=n1vbE3e8XuE |
-| High status aesthetics | about Apr 2026 | [04-videos](../04-videos/2026-04__high-status-aesthetics.md) | https://www.youtube.com/watch?v=HPCsujvgIvE |
-| Lessons working with the top 0.1% | about Sep 2026 | [04-videos](../04-videos/2026-09__lessons-top-0-1-percent.md) | https://www.youtube.com/watch?v=xQUlUeG46hs |
-| Peakform testimonial | undated | none | https://www.peakform.site/ |
+| 4tQJUr7N14M, HqF_6fwZwgA, n9GXQoWsYvE, VfrcYnG5KlY | Early vlogs (burnout, creativity, productivity, factory visit) | May to Dec 2021 | [early vlogs](../04-videos/early-vlogs-2020-2022.md) |
+| AVzCiJvNAI0, oo7xrSKhcLw, kz4QLIEy5aA, c-axXKkYvfc, j-2phVRezVY, uoW1RWMXWng | 2022 to 2023 vlogs | Feb 2022 to Jan 2023 | [early vlogs](../04-videos/early-vlogs-2020-2022.md) |
+| -MGRRBmou1U | Wisdom from a 19 year old boy | 20 Jan 2023 | [link](../04-videos/2023-01-20__wisdom-from-a-19-year-old.md) |
+| V6RXQ1_T_DA | Why "self improvement" is ruining your life | 7 Mar 2023 | [link](../04-videos/2023-03-06__self-improvement-ruining-your-life.md) |
+| U07BFLrEMus | I'm putting myself out there | 22 Mar 2023 | [link](../04-videos/2023-03-21__putting-myself-out-there.md) |
+| hAYX4s6YbCU | stop negotiating with yourself. | 7 May 2023 | [link](../04-videos/2023-05-06__stop-negotiating-with-yourself.md) |
+| QtwotES26x8 | you need to start looking. | 6 Jun 2023 | [link](../04-videos/2023-06-05__you-need-to-start-looking.md) |
+| Ym_hrgh7TJo | this self improvement theory transformed my life (bamboo) | 23 Jul 2023 | [link](../04-videos/2023-07-22__bamboo-self-improvement-theory.md) |
+| Y0fC8dizX0o | Wiser Together EP.28 | 29 Oct 2023 | [link](../05-appearances/2023-10-29__wiser-together-ep28.md) |
+| k-f2AMd8-ek | Wiser Together EP.52 | 10 Nov 2024 | [link](../05-appearances/2024-11-10__wiser-together-ep52.md) |
+| Shorts (IDs in model 24) | 43 Shorts | Sep 2024 to Jun 2025 | [Shorts](../04-videos/shorts-2024-2025.md) |
+| Epiphanies #1 to #15 | Newsletter | Dec 2024 to May 2025 | [link](../06-writing/epiphanies-newsletter.md) |
+| IEuERGHU3wA | Breaking down businesses | rec. 9 Oct 2025 | [link](../05-appearances/2025-12-05__breaking-down-businesses.md) |
+| nnMuox4BtbU | How i made 2025 my best year yet | 30 Dec 2025 | [link](../04-videos/2025-12-30__made-2025-best-year-yet.md) |
+| 6SYJFqH-RPQ | Wiser Together EP.60 | rec. about 17 Dec 2025, pub. 21 Feb 2026 | [link](../05-appearances/2026-02-21__wiser-together-ep60.md) |
+| 9SBwERbSze4 | Road to $1 million in 2026 | 22 Feb 2026 | [link](../04-videos/2026-02-21__road-to-1-million-2026.md) |
+| n1vbE3e8XuE | The Sanskar Show #226 | 21 Mar 2026 | [link](../05-appearances/2026-03-21__sanskar-show-226.md) |
+| HPCsujvgIvE | High status aesthetics | 21 Mar 2026 | [link](../04-videos/2026-03-21__high-status-aesthetics.md) |
+| 9Ma2bozEqGM | Collab with Aryan Mahajan | 11 Aug 2026 | [link](../04-videos/2026-08-11__ai-personal-branding-aryan-mahajan.md) |
+| xQUlUeG46hs | lessons from the top 0.1% | 6 Sep 2026 | [link](../04-videos/2026-09-06__lessons-top-0-1-percent.md) |
+| KrPQX-qdYRI | Tarun testimonial | 7 Jan 2026 | [testimonials](../02-meteoric-boost/testimonials/README.md) |
+| Peakform testimonial | peakform.site | undated | none |
 
 ## Related
-- [Profile](../00-identity/profile.md)
-- [Timeline](../00-identity/timeline.md)
-- [Influences](../00-identity/influences.md)
-- [Business and operations models](business-and-operations.md)
-- [Offers, pricing and sales models](offers-pricing-sales.md)
-- [Personal brand models](personal-brand.md)
+
+- [Profile](../00-identity/profile.md), [Timeline](../00-identity/timeline.md), [Influences](../00-identity/influences.md).
+- [Business and operations](business-and-operations.md), [Offers, pricing and sales](offers-pricing-sales.md), [Personal brand](personal-brand.md), [Content and distribution](content-and-distribution.md).

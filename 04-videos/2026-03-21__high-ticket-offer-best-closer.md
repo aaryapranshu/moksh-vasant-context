@@ -4,184 +4,274 @@ type: video
 video_id: qmN62Kp4ohg
 url: https://www.youtube.com/watch?v=qmN62Kp4ohg
 channel: Moksh Vasant (@mokshvasant)
-published: 2026-03-21
-duration: unknown (estimated 60 to 80+ min from a transcript of about 10,000 words; research estimates differ)
-views: 6,653 (as of Oct 2026; 269 likes)
-format: live build (in-person working session with a guest, recorded in Goa)
-transcript_access: full auto-captions
-sources: [https://www.youtube.com/watch?v=qmN62Kp4ohg, https://youtubetotranscript.com/transcript?v=qmN62Kp4ohg, https://returnyoutubedislikeapi.com/votes?videoId=qmN62Kp4ohg, https://landing.meteoricboost.com/]
-last_updated: 2026-10-18
-confidence: medium
+published: 2026-03-22
+duration: "1:22:54"
+views: 7,057 (as of 2026-10-20)
+format: live build (in-person working session with closer Arjun Sharin, recorded in Goa, on a blank Miro board)
+transcript_access: full (YouTube auto-captions, timestamped)
+transcript: ../transcripts/qmN62Kp4ohg__how-i-built-a-high-ticket-offer-for-india-s-best-closer-live.md
+sources: [https://www.youtube.com/watch?v=qmN62Kp4ohg, ../transcripts/qmN62Kp4ohg__how-i-built-a-high-ticket-offer-for-india-s-best-closer-live.md, https://youtubetotranscript.com/transcript?v=qmN62Kp4ohg, https://returnyoutubedislikeapi.com/votes?videoId=qmN62Kp4ohg, https://landing.meteoricboost.com/]
+last_updated: 2026-10-20
+confidence: high
 ---
 # How i built a High Ticket Offer for India's best closer (LIVE)
 
-Moksh sits with closer Arjun Sharin in Goa and builds a two-sided high-ticket offer ("Dialed") on camera, field by field, ending with value-based pricing and a launch checklist.
+Moksh sits with closer Arjun Sharin in Goa and builds a two-sided offer called **Dialed** on a blank Miro board: placed, trained closers for info-product owners (B2B) and a closer training program for young people (B2C). They go field by field (name, thesis, headlines, ICPs, pains, before and after, edge, proof, fulfillment, funnel), then derive the prices on camera: B2B setup fee equals the owner's own ticket size plus a 5% share, and the B2C program costs about $500 (Rs 45,000), capped at 10 closers.
 
-**Caveats:** the auto-transcript has no timestamps and no speaker labels, so most "Moksh asked, Arjun answered" attributions come from context and a few lines may belong to the other speaker. Positions below are approximate (scaled from where each topic sits in the transcript). All of Arjun's income and close-rate figures are self-reported and not checked in the video. The live pricing arithmetic does not add up; it is recorded below as spoken, with the errors flagged, not cleaned up.
+**Caveats:**
+- Published 2026-03-22 per the transcript front matter (the file name keeps 2026-03-21 so links don't break).
+- Auto-captions have no speaker labels. The ">>" turn markers help but are not reliable, so a few lines below are marked "likely Moksh" or "speaker unclear".
+- Most income and close-rate figures are Arjun's own claims, not checked in the video. The live pricing arithmetic does not connect as spoken; it is recorded as spoken with the problems flagged.
+- Names as captioned: Arjun is "Arjun Sharon", Moksh is "Moasan", Ishan Suri also appears as "Ashan Suri". Others are left as captioned (see below).
 
-**Who the guest is:** Arjun Sharin (auto-captions spell it "Sharon"), a high-ticket inbound closer. He is a Meteoric Boost client (the studio site lists him as a "High-ticket sales closer", 9K followers, sales coaching offer) and also closes Meteoric's own sales calls. The site describes him as part of Moksh's core team and he hosts the 60-minute "Meteoric 1:1" fit call on Calendly. So this video is fulfillment, a case study and recruiting content at once.
+**Who the guest is:** Arjun Sharin, a high-ticket inbound closer. He started as a phone appointment setter on an ecommerce offer 14 months earlier [00:32, 07:31]. He is a Meteoric Boost client (Meteoric is building his personal brand and this offer) and he closes Meteoric's own sales calls: "I closed you into Meteoric and then you closed me into closing" (Moksh) [19:14]. The description's "Speak to my team" link is Arjun's 60-minute Calendly at Meteoric Boost. So the video is fulfillment, a case study and recruiting content at once.
 
 ## Core thesis
 
-A high-ticket offer is built, not improvised. Moksh walks a top closer through a fixed sequence of decisions (credibility, name, thesis, segments, headline, ideal client, pains, before and after, unfair advantage, proof, timeline, fulfillment, funnel, price, capacity, launch assets) and derives the price from the value the buyer gets. The offer built here is **Dialed**, a two-sided business:
-- **B2B:** trained, managed closers placed with info-product owners who already generate leads.
-- **B2C:** a training program that turns young people into high-ticket closers who can work from anywhere.
-
-Underneath, it demonstrates Meteoric's own model: build the client's personal brand and profile funnel, turn the client into a case study, and in Arjun's case have him close Meteoric's calls.
+A high-ticket offer is a set of decisions made in order, not a vibe, and the price should come from value math, not from copying the market: "If everyone's charging 3K ... let me charge 3K. It's like such a [ __ ] approach. Like do you have a brain or are you a goldfish?" (Moksh) [1:05:49]. The offer here bridges two growing groups: Indian info-product owners who need closers, and young graduates and dropouts who want a high-income, location-free skill [05:16 to 09:18].
 
 ## Walkthrough
 
-**1. Cold open and intros (approx. 0:00 to 2:30).** Small talk about Goa and island life. Moksh asks Arjun who he is. Arjun's story: he started about 14 months earlier as an appointment setter on an ecommerce offer, moved into closing, and claims about Rs 4.5 to 5 crore in sales at a 50% to 65% close rate. He is now building his own team of closers.
+**1. Cold open and Arjun's proof [00:00 to 02:11].**
+- They're "in Goa ... island life" [00:00].
+- Arjun: started as an appointment setter 14 months ago and has "closed almost like 250 grand short from a million dollars in sales", "roughly 4 and a half 5 crore" in 14 months, at a "50 to 65% closing rate" [00:32 to 00:57]. He now has his own closers placed with several offers.
+- Moksh adds: Arjun has closed for Meteoric "in USD high ticket and as it stands his closing rates are 85%", and did "$46,000 in contracts ... in one month" [01:33 to 01:46].
+- Ranking: among inbound closers aged 20 to 25 in India, "he's up there top ... top three, I'd argue" [01:55].
+- The trade: Moksh builds Arjun's offer and brand, Arjun closes for Meteoric [02:11].
 
-**2. Credibility stack (approx. 2:30 to 8:00).** Moksh adds to it: an 85% close rate (from a different period or offer), about $46k in contracts closed in one month for Meteoric, and experience on USD high-ticket offers. Other claims across the session: about $750k cash collected in total, about $150k in USD over two months, and $80k to $100k on an AI offer over four months. Arjun explains why he started recording himself: attention is now a currency. They talk about the work-from-anywhere lifestyle.
-- **Title vs body:** in conversation Moksh only places Arjun among roughly the top three young (20 to 25) inbound closers in India; Arjun says top three to five. The title's "India's best closer" is stronger than anything said.
+**2. Why he records, and the lifestyle [02:24 to 03:30].** Arjun: in Bali he realized "attention has become currency now" [02:24]. He treats life "as a movie ... as the main character". High-ticket closing lets him live in "Goa, Bali, Mexico, Spain ... close deals, surf". "That peace of mind is the main aspect of me being able to close deals" [03:18].
 
-**3. Personal brand audit (approx. 8:00 to 10:30).** Moksh looks at Arjun's Instagram. Quickest fix: the bio should say plainly who he helps, how, and with what result. The profile is a landing page. Missing assets: a long-form video, recorded sales calls, talking-head content, testimonials, a story sequence. Reels average about 30k views; the audience is in the thousands (exact number unclear). They agree a launch could pull interest quickly.
+**3. Lowest-hanging fruit on the brand [03:38 to 04:26] (Moksh).**
+- Profile optimization "to make it very clear as to like who you help".
+- A long-form asset for the B2B and B2C sides ("probably do two of them").
+- More value content, a few call recordings, more talking heads.
+- "Even if we were to like just put up a story sequence today ... we are going to get like a lot of like top 1% of info owners in India reaching out" [04:13].
 
-**4. Naming (approx. 10:30 to 12:00).** They riff on names, including a joke mafia-style option, and settle on **Dialed** as the working name. Reason: Arjun wants his closers as "dialed in" as he is, and the word stands out in a crowded closer market.
+**4. Name [04:38 to 05:04].** Blank Miro board. Arjun names it **Dialed** ("not close the mafia"): "I want people who are going to be essentially working with me to be as dialed as I am" [04:51].
 
-**5. Market gap and thesis (approx. 12:00 to 16:00).** The coaching and info-product industry is growing, while many young graduates and dropouts are stuck in low-paid, location-bound corporate jobs. As the industry grows, more owners need closers and more young people want into closing for time and location freedom. Dialed sits between the two. They decide to serve both sides from the same content, starting from high-ticket closing.
+**5. Market gap and thesis [05:16 to 09:18].**
+- Arjun: the coaching and info space is growing, while students graduating or dropping out land in corporate jobs where they must be physically present and earn the "average Indian salary which is like 36, 40,000" [05:44]. He bridges the two: train them in frameworks and objection handling for one to two months, then place them with offer owners who need their time back [06:24 to 07:12]. The trainee "makes the money back in less than ... 2 months" [07:12].
+- Moksh's hypothesis: the industry grows, so more people sell high-ticket offers, and the buyers are in India: "we have a set of I don't know what more than 50 clients everyone that's paid very high ticket and they're getting insane results" [08:16]. Not everyone can launch an offer, so closing is the entry point.
+- Arjun: "think of any skill, there's a program now" (manifestation, trading, ecommerce) [08:53].
+- Scope: high-ticket closing only, not appointment setting, to start [08:53].
+- Moksh on simplicity: "You just have to get in front of the camera and answer a few questions" [09:42].
 
-**6. B2B headline (approx. 16:00 to 20:00).** First draft: Arjun provides closers who hold a 50%+ close rate. **Moksh's refinement:** that only holds if the owner is already strong at lead generation, so the promise is conditional, not a flat guarantee. Mechanics: a placed closer is closing properly within about 7 to 10 days, and Arjun keeps training, holding them accountable and giving feedback after placement.
+**6. B2B headline [09:50 to 13:24].** Moksh is the B2B ICP.
+- Arjun's first line: "I give you closers that maintain a 50% closing rate" [10:14].
+- **Arjun adds the condition:** the owner must be "dialed into like lead generation", because his expertise is inbound leads [10:37 to 11:10].
+- Board version: "I give you closers that maintain a 50% closing rate for offer owners that are dialed in on lead generation" [11:10], solving conversion and lack of time.
+- Ramp: a placed closer is "closing deals properly" in "a week to 10 days" [11:54 to 12:01]. Arjun keeps checking in, training and giving feedback after placement [12:01 to 12:28].
+- Moksh adds "so they make money while they sleep", from his own experience of "waking up to like 10k notifications from you" [12:28].
+- Arjun on accountability: if the owner supplies leads and the closer underperforms, "Then I'm the one who can be questioned ... That's my fault" [13:01 to 13:24].
 
-**7. B2B ideal client (approx. 20:00 to 23:00).** Info-product owners (courses, coaching, communities), men and women, about 21 to 50, making $10k+ a month, ideally in USD. Moksh checks each attribute in turn: gender, age, niche, income.
+**7. B2B ICP [13:24 to 14:58].** Both genders; age 21 to 50 (Moksh's first guess was 18 to 35; Arjun's "16 to 29" was a mix-up with the B2C side); info-product owners including courses and communities; ticket ideally in USD; monthly revenue "$10,000 to upwards" [14:34 to 14:58].
 
-**8. B2B pains and the hourly-value math (approx. 23:00 to 27:00).**
-- Pains: the founder has no time to take every call; closing personally lowers the founder's authority; the founder is usually a weaker closer than a specialist; every hour closing is an hour taken from content and lead generation.
-- Worked example: an owner making $20k a month working about 120 hours (30 a week) earns about $166 an hour, so 20 hours of closing a month costs about $3.3k of their time.
+**8. B2B pains and the hourly-value math [15:05 to 19:14].**
+- Arjun's pains: no time for every call [15:13]; bouncing between closing and content and lead gen [15:59]; lost authority: "You're the founder. You should be spoken to once action has been taken" [16:24]; owners are weaker closers: "on closing calls you don't sell information that much you sell feelings" [16:55].
+- Moksh confirms the last one: he expected Arjun to close at his level, then saw "the closing rates are way higher ... this is like an undeniable decision" [17:16 to 17:21].
+- Arjun's worked example [17:48 to 18:52]: an owner making $20,000 a month at 30 hours a week (120 hours a month) earns $166 an hour. 20 hours of closing is "roughly $3,300 of his time". "I come in to save that time and ... that money."
+- Arjun to Moksh: "we calculated your hourly to be $5,000 something five and a half" [18:58]. This is **Moksh's** hourly value, used later in pricing.
 
-**9. B2B after-state (approx. 27:00 to 31:00).** Peace of mind; revenue coming in while the owner sleeps; follow-ups, cash collection and payment plans handled; more energy for the business.
+**9. B2B after-state [19:22 to 21:13].** Moksh asks for the psychological change, "maybe he feels like he's in [ __ ] GTA" [19:45]. Arjun: making money while sleeping; no worry about follow-ups, lead status, cash collection or payment plans [19:53 to 20:13]; closers work any hour ("even if it's let's say 11:00 p.m.") [20:22]; peace of mind and energy saved for content, lead gen, ops and better deliverables [20:50 to 21:13].
 
-**10. Unfair advantage (approx. 31:00 to 35:00).** Arjun's inbound-lead expertise, a network of closers across niches, and training that covers the whole person. **Moksh frames the lifestyle as the unfair advantage:** fitness, travel, meditation and emotional resilience keep closers' energy high on calls. Back to the core: what a closer really sells an owner is time.
+**10. Competitive edge [21:13 to 26:38].**
+- Arjun: top three to five in India for inbound; "I haven't seen an Indian closer yet who's done 700 800k USD in 14 months" [21:37]; a network of closers placed across ecom, AI, trading, "now also fitness with Dunnil" [21:49] (captioned; likely Dhanil from the [Oct 2025 live build](2025-10-21__build-brand-from-scratch-live.md), not confirmed).
+- Arjun's training covers life outside sales: gym, walks, runs, so closers can "reset call after call" [22:20 to 24:07]. Closers should use location freedom: travel, surfing, MMA [23:04 to 23:43].
+- Moksh: "That is the actual marketing that we're going to do for you ... You're getting someone that [ __ ] lives on an island" [24:07]. Later: "the biggest competitive advantage in my opinion is ... teaching the closers the lifestyle to follow and having high energy" [26:03], which is what makes owners want to connect.
+- Arjun on time: the owner's "time is money that can be compounded ... can be scaled", and when the owner scales, the closer earns more [25:14 to 25:56].
 
-**11. B2C ideal client and headline (approx. 35:00 to 39:00).** Students, graduates and dropouts about 16 to 29 (an earlier pass said 18 to 35), any gender, with charisma, hunger and persuasion but no sales skill yet, who want location freedom and a high-income skill. Headline idea: turn closers into "killers" who can earn from anywhere. **Moksh deliberately takes the most conservative ramp-up estimate:** about 2 months for someone new (Arjun had said about 1.5 months for a fresh closer, 2 to 4 weeks for an experienced one). Moksh narrows the ICP to action-takers only.
+**11. Closer curriculum, first pass [26:38 to 27:24] (Arjun).** Call script, pre-objection handling, objection handling, payment plans, deposits, the call framework, trap questions, moving the prospect into the "action zone instead of research and planning zone", selling feelings, moving prospects from point A to point B.
 
-**12. B2C before and after (approx. 39:00 to 44:00).** Before: unemployed or tied to one place, financially dependent on family, roughly Rs 50k to 1 lakh income bands, unaware of their own ability. After: financially independent, in control of income, location-free, with a network and a personal brand. Arjun on urgency: many people reach their late 20s still in low-paid jobs, so starting early matters.
+**12. Content targeting [27:31 to 29:46].**
+- Moksh: "the reason why I attract a lot of like editors and designers and freelancers ... is because I'm not sort of directly targeting them. I'm targeting founders" [27:31]. He suggests Arjun target info-offer owners, so every closer in the country follows him anyway and comes through a story sequence when hiring or the B2C program opens [27:56 to 28:14].
+- Arjun: for trainees it is "an investment ... It's not a price. It's not fees", and they'll "10x that in a span of less than 3 to ... 6 months" [28:22 to 28:49].
+- Arjun chooses to target both sides in content, to reach students "stuck similar to how I was" [29:08].
 
-**13. The profile funnel (approx. 44:00 to 48:00).** Moksh explains Meteoric's full funnel (listed under frameworks below).
+**13. B2C headline and ICP [29:59 to 34:08].**
+- "I turn closers into killers ... so they print money from beaches" [30:12 to 30:25]. Extended to people with no closing experience who have "the ingredients": hunger, persuasion, charisma [30:41 to 31:05].
+- Board version: "I help people become closers, closers become killers so they can ... work from anywhere with anyone and have financial freedom", using the Dialed mechanism [31:27 to 32:19].
+- Timeline: Arjun says about a month and a half for someone fresh, 2 to 4 weeks for an existing closer. Moksh: "I'm going to say like 2 months ... we just take the most pessimistic assumption" [32:28 to 32:44].
+- ICP: male and female ("females make the best closers, but there's very few of them") [33:02]; age 16 to 29 [33:49]; no niche, any income [34:00].
 
-**14. Retention and the first month (approx. 48:00 to 51:00).** Arjun describes his own onboarding as a Meteoric client: help with scripts, editing and a roadmap. Moksh's rule: the first month decides retention. A quick win (first cash collected, first deal closed) kills buyer's remorse. Stay hands-on and reachable, including quick WhatsApp calls.
+**14. B2C before and after [34:13 to 39:23].** Moksh asks for exactly three of each [34:13].
+- Before: unemployed and tied to a location; still dependent on family; has charisma "but lack[s] a real skill set and awareness to leverage it" [34:33 to 35:13].
+- After: no dependency on anyone; "command your income"; work from anywhere; a clear path, a network, a personal brand, the skill of closing and cash collection [35:13 to 36:10].
+- Arjun's urgency point: prospects he closes are often 25 to 35 and "still stuck between the 50,000 to one lakh bracket ... in rupees" [36:46 to 37:12].
+- Earnings goal: "$3,000 to upwards ... a month", "below the age of 25 make 3 to 10k" [37:51 to 38:00].
+- Filter (Arjun): "I don't want to be working with losers at all" [38:11]; only action-takers who accept pressure and invest [38:23 to 39:01]. Moksh: "that's what you got to say in your content as well" [39:01].
 
-**15. B2B fulfillment (approx. 51:00 to 54:00).** Learn the owner's deliverables, sales system, payment plans and investment options. After the owner's pre-sale asset, the closer runs a one-call close. Benchmarks on both sides: for example the owner wants $10k a month from the closers, and Arjun's internal target is at least $15k. Check-ins three to four times a week, plus weekly calls.
+**15. Proof inventory [39:23 to 45:22].**
 
-**16. B2C curriculum (approx. 54:00 to 57:00).** Frameworks and scripts; trap questions; handling objections before they come up and when they do; pitching and negotiating the investment; selling the feeling; reading whether a prospect will act or procrastinate. Ongoing: recorded-call reviews, emotional check-ins, fitness and lifestyle accountability. Shared view: a closer should not avoid confrontation, and the job is helping prospects get out of their own way, not pushing a sale.
+| Proof | Claim (Arjun, self-reported) | Timestamp |
+|---|---|---|
+| Cash collected | $750,000 total, of which about $150k was a USD offer "in a span of 2 months"; the rest INR | [39:37 to 40:10] |
+| INR closing | "In 12 months 4 and a half CR ... close to half a million dollars" | [40:10 to 40:17] |
+| Close rate | "Never been a single month" below 50% over 14 to 15 months; "10 inbound leads, five are definitely getting close[d]" | [40:25 to 40:40] |
+| Client 1 | An ecom offer (captioned "ecom edge") since October 2024: 4.5 to 5 crore in 14 months | [41:03 to 41:33] |
+| Client 2 | Meteoric Boost: $46,000 in contracts in 30 days, starting the last week of January | [41:42 to 42:12] |
+| Client 3 | An AI offer outside India (unnamed): $80k to $100k USD over November to February, about 4 months, with placed closers | [42:12 to 42:58] |
+| Audience | Captioned as "7,78 followers" | [43:05] |
 
-**17. Launch checklist (approx. 57:00 to 60:00).** Assets: a story sequence (first priority), one long-form YouTube video in Arjun's voice (he first said two), two or three B2B testimonials (Moksh and Ishan Suri are named), a Calendly link, a recorded pre-sale asset. Already in place: an appointment setter on DMs and tracking sheets for CRM, closer and funnel metrics. Buyer filter: Arjun only gives time to people who have already shown commitment by investing.
+Moksh on why owners need closers [43:35 to 44:32]: past a point "you do have to turn into a public personality of sorts"; the client who reaches you through a closer is "way more respectful" on onboarding; they respect the closer as "a partner in the company"; "anyone that's doing 10 to 20k US, you have to get a closer on board". Arjun on language: "English gives you probably the authority and Hindi gives you the connect" [45:10]. Water break at [45:29].
 
-**18. Pricing (approx. 60:00 to 63:00).** Value-based setup fee and B2C price (full logic below). Pricing and checklist talk overlap near the end.
+**16. Retention and the first month [45:42 to 48:14].**
+- Moksh: "retention is everything" [45:56]. He asks what Arjun's first month at Meteoric was like. Arjun: the team helped with scripting (the major roadblock), finding a full-time editor and filmmaker, and a roadmap of what to post; Moksh on calls "at 11, 12 ... P.M." [46:16 to 46:58]. Clients "want to have the founders touch" [47:11].
+- Moksh: be reachable, even by WhatsApp call. "The first month is everything ... the quicker you can make them win ... the first deal closed ... the lesser of a buyer's remorse they will have, the more attached they'll be with you" [47:32 to 48:14].
 
-**19. Capacity, production, close (approx. 63:00 to end).** About 10 closers per intake so he does not overpromise; the B2B fee rises as demand grows. Production: AI-assisted scripting, editors already in place, a visual identity, about 8 to 12 hours of content work a month. Arjun mentions an upcoming client retreat in Bali (within about a month) and the value of the founder network. Moksh signs off with an upbeat line about scaling it to the moon. No CTA is spoken to viewers.
+**17. B2B fulfillment [48:59 to 53:54] (Arjun).**
+- After the closing call with an owner: learn the deliverables, current sales system and funnel, payment plans and investment options [49:09 to 49:39].
+- He only places closers with owners who are good at fulfillment, "which is why I work with people like you and Ishan Suri" [49:49 to 50:43].
+- Likely Moksh: "Sales pay for dinner, results pay for retirement. That's the motto to live by" [50:52].
+- One-call funnel: leads book, watch the founder's pre-sale asset, then the closer runs the call [51:11 to 51:30]. Closers get at most a week of training on the deliverables [51:40].
+- Benchmark: if the owner wants $10k a month from his closers, Arjun sets "a benchmark of 15k minimum" [51:59 to 52:14]. "If I don't help you reach certain numbers there's something lacking in me not in you ... Provided I'm giving good leads" [52:27 to 52:41]. Moksh: "a two-way street".
+- Contact: weekly WhatsApp calls, "three four times a week", and pushing owners for leads: "if you are not providing me with leads, I can't provide you with cash" [53:04 to 53:42].
+
+**18. B2C curriculum [54:06 to 57:56] (Arjun).**
+- First, see action and hunger. Then training calls covering frameworks, scripts, trap questions, checkpoints, objection handling, pre-objection handling, how to pitch the program, how to sell feelings, how to negotiate the investment [54:16 to 55:03].
+- Reading "non-buyer language": disqualify the lead or convert them into a buyer; reading action vs procrastination cues [55:12 to 55:55].
+- Sales call reviews; emotional check-ins; lifestyle questions (gym, running, physical activity) [56:09 to 56:32].
+- Confrontation: closers must not be afraid of it, "your intention is not to scam this person ... It's to help them get out of their own way" [56:51]. Likely Moksh: "The person's already come there with a pain point. You just have to help them identify the pain point and ... the next plan of action. That's it" [57:22].
+
+**19. The profile funnel [57:56 to 59:36] (Moksh: "This is what we follow at Meteoric").** Full steps under frameworks below.
+
+**20. Price increases [59:36 to 1:00:24].** Arjun, crediting Moksh: "when an offer starts maintaining a closing rate of 50%. That's when they can hike their prices ... because there's clearly demand" [59:48].
+
+**21. Launch plan and content formats [1:01:15 to 1:05:41].**
+- Moksh: Arjun's documentation of his own journey is "exactly what people like me watch", which brings the B2B side [1:01:28].
+- Formats to add: technical videos (how he manages teams, the data points his team tracks, what owners feel), storytelling videos (top of funnel curiosity), live sales call recordings (useful to both owners and would-be closers) [1:01:39 to 1:02:14].
+- Lowest-hanging fruit: story sequences first [1:02:14]; one long-form video "in your own voice, on your own channel" to send from the story sequences [1:02:44]; testimonials from his two biggest B2B clients, Moksh and Ishan Suri, filmed as interviews and posted on YouTube so a visitor goes bio, YouTube, Arjun on the space, Ishan on Arjun, Moksh on Arjun: "peak authority peak [ __ ] credibility" [1:03:09 to 1:03:48].
+- Back end already set up by Meteoric: "an entire backend database portal", tracking sheets for setting, closers, CRM and funnel metrics [1:03:48 to 1:04:14]. Arjun already has an appointment setter (won't name them) [1:04:21].
+- Arjun won't close his own B2C program; his closers will. "To work with you, you need a closer ... The same goes for my program" [1:04:37 to 1:05:03]. He only gives time to people "who have shown me commitment ... and invested", not those who "need to speak to my wife, cat, dog" [1:05:03 to 1:05:31].
+
+**22. Pricing [1:05:49 to 1:15:58].** Full logic in the frameworks section. In short: the B2B setup fee equals the owner's ticket size, plus a 5% share; the B2C program is about $500 (Rs 45,000), half a placed closer's minimum monthly commission, capped at 10 closers.
+
+**23. Launch checklist recap [1:17:02 to 1:17:37] (Moksh).** One long-form asset, two or three testimonials, one pre-sale asset, the appointment setter (already in place), one story sequence, and a Calendly link. Offer set up "within the last I don't know what hour and a half" [1:17:25].
+
+**24. What went into it [1:17:37 to 1:21:36].**
+- Moksh asks Arjun to explain what viewers don't see: "there's an editor ... a system ... a format ... a visual identity. There's a font. There's an audio ... positioning ... a certain lifestyle" [1:17:48].
+- Arjun: his recent reels average 30,000 views [1:18:12]; editors in place; font and visual identity handled by someone captioned "Modish"; scripting "with ... Aditya Bura and AI" (captioned; possibly Aditya Vohra, the COO, but not confirmed), who "has his own ... set of ... AIs that can build up scripts"; someone captioned "modes" directs B-roll and A-roll; Moksh picks songs, approves the final cut and builds the offer [1:18:35 to 1:19:28].
+- Arjun's content time: "average 8 to 10 12 hours a month. Like if you can't put in 8 to 12 hours a month to work on content you don't deserve to make money" [1:19:43].
+- Arjun pitches Meteoric from the closer's seat: people he closed who took action "are in a better spot today"; people who didn't "were not able to get out of [their] own way" [1:20:14 to 1:21:09].
+
+**25. Close [1:21:36 to 1:22:54].** Moksh: they were just on a WhatsApp call with a client in the UAE, and one client is traveling with them [1:21:36]. Meteoric clients gain from the systems and "the network and other founders in the community" [1:21:54]; client retreats "in Bali very soon", "literally in a month" [1:22:08]. Likely Moksh: "Let's [ __ ] scale this to the moon" [1:22:47]. No CTA is spoken to viewers.
 
 ## Mental models and frameworks
 
-### The offer-building sequence (Moksh's template, in the order he worked it)
+### The offer-building sequence (as worked in this session)
 
 | # | Field | What Moksh asks or decides |
 |---|---|---|
-| 0 | Credibility first | Establish the operator's proof before building anything; the offer rests on their reputation |
-| 1 | Profile audit | Does the bio say who you help, how, with what result? Fix this first |
-| 2 | Name | Short, punchy, fits the operator's identity ("Dialed" means focused, locked in) |
-| 3 | Thesis / market gap | Which two trends meet, and where is the gap? |
-| 4 | Segmentation | One offer or two sides? Here B2B and B2C, fed by the same content |
-| 5 | Headline | One sentence. He makes the operator repeat it until it is concrete, then adds the condition that makes it defensible (50% close rate only with good lead flow) |
-| 6 | Ideal client | Gender, age band, niche, income floor. Asks whether the ideal client is a past version of the operator |
-| 7 | Pains and cost of inaction | What happens without the solution, then force it into hours and money |
-| 8 | Before state | Three points, emotional and practical |
-| 9 | After state | Three points: freedom, control, peace of mind |
-| 10 | Unfair advantage | What makes you different? He turns the operator's lifestyle into the edge |
-| 11 | Problems to solutions | Map each pain to a deliverable |
-| 12 | Proof inventory | Personal wins, client results, audience size, testimonials, call recordings |
-| 13 | Timeline promise | Always the most conservative number (2 months, not 2 weeks) |
-| 14 | Fulfillment | Onboarding, check-in cadence, first-month quick win, benchmarks, maintenance |
-| 15 | Funnel / sales process | Profile funnel through to a one-call close |
-| 16 | Pricing | Derive from value math, never a gut number |
-| 17 | Capacity / scarcity | Cap the intake (10 spots); raise prices as demand and proof grow |
-| 18 | Launch assets | Smallest set to go live: story sequence, one long-form video, 2 to 3 testimonials, pre-sale asset, Calendly |
+| 0 | Proof first | The operator's numbers open the video, before any building [00:32 to 01:55] |
+| 1 | Profile and asset audit | Who you help must be clear on the profile; list the missing assets [03:38] |
+| 2 | Name | Short, fits the operator's identity: "Dialed" [04:51] |
+| 3 | Thesis / market gap | Two growing groups and the gap between them [05:16 to 08:42] |
+| 4 | Segmentation | B2B and B2C, both targeted by the same content [05:16, 29:01] |
+| 5 | Headline | One sentence per side, repeated and tightened on the board; add the condition that makes it true (owners who are dialed in on lead gen) [10:14 to 11:23, 30:12 to 32:19] |
+| 6 | ICP | Gender, age, niche, income [13:24 to 14:58, 32:51 to 34:08] |
+| 7 | Pains, then cost in hours and dollars | $20k a month, 120 hours, $166 an hour, 20 hours closing costs about $3,300 [17:48] |
+| 8 | Psychological after-state | "How does a dialed closer ... change the way an offer owner thinks?" [19:31] |
+| 9 | Competitive edge | Turned into marketing: the island lifestyle [24:07, 26:03] |
+| 10 | Three before, three after | "Make sure you like hit the nail in the coffin with all three" [34:13] |
+| 11 | Timeline | Take "the most pessimistic assumption" (2 months) [32:44] |
+| 12 | Proof inventory | Two personal wins, client results with start point, result and time frame, audience size [39:23 to 43:16] |
+| 13 | Fulfillment | Retention first; first-month quick win; onboarding inputs; benchmarks; check-in cadence [45:56 to 57:56] |
+| 14 | Funnel | The profile funnel [58:07] |
+| 15 | Launch assets | Smallest set to go live [1:02:14, 1:17:02] |
+| 16 | Pricing | From value math [1:05:49] |
+| 17 | Capacity | Max 10 B2C spots, raise prices with demand [1:11:12, 1:15:31] |
 
-### Pricing logic (as spoken, errors flagged)
+### Pricing logic (as spoken, problems flagged)
 
-**B2B setup fee, value-based derivation:**
-1. They value each of Arjun's closing hours at about $5,000 to $5,500. Arjun's own month closing for Meteoric stands in for the owner in the example.
-2. Jan to Feb: about 25 calls, 12 sign-ups, about $46k in revenue.
-3. Time value: 25 hours at $5,000 is $125k. Add the $46k revenue: about $171k total value.
-4. Take 5% of that. **Arithmetic flag:** the transcript says "85,000", but 5% of $171k is about $8.5k.
-5. Subtract about $35k in commissions Arjun says he earned. They land on about $5k. **Arithmetic flag:** neither $85k minus $35k nor $8.5k minus $35k produces about $5k. The steps as spoken do not connect.
-6. **Rule Moksh states:** the B2B setup fee equals the owner's own offer ticket size.
-7. A 5% referral or revenue share comes up as an ongoing component; who receives it is never made clear.
+**B2B setup fee [1:06:10 to 1:11:39].** The example uses Moksh as the offer owner and Arjun's month closing for Meteoric.
+1. Moksh's revenue when Arjun joined: "roughly around like 20 to 30K USD" a month. Moksh's hourly value: "5 and a half $5,000 an hour" [1:06:32 to 1:06:41]. (This does not square with the $166-an-hour method used at [17:48]; not reconciled in the video.)
+2. Jan to Feb: about 25 calls, 12 sign-ups, $46k revenue [1:06:53 to 1:07:08].
+3. Time freed: 25 hours at $5,000 is $125k. Plus $46k revenue: $171k ("Both of our math is bad") [1:07:17 to 1:08:18].
+4. "I'm a big fan of charging like 5% of that to any offer owner" (Moksh) [1:08:28]. Spoken: "5% of 171k would be $85,000" [1:08:48].
+5. Subtract Arjun's commissions from Meteoric, captioned "three and a half $35,000" [1:09:10]. "If you deduct $35,000 from that, that comes out to 5K" [1:09:20].
+6. **Arithmetic flag:** the steps as spoken don't connect ($85,000 minus $35,000 is not about $5k). The spoken "$85,000" may be a slip for 5% of $171k, and "three and a half" may mean $3,500; read that way the steps land near $5k. That reading is an interpretation, not stated.
+7. **The rule:** "whatever their offer ticket size is that's exactly what you should be charging them just for the setup fees" [1:09:47]. Moksh had a $5k offer when Arjun joined, so Arjun "had all the means ... to charge me 5k" [1:09:34]. Moksh says this matches what he charged Arjun to join Meteoric [1:10:42].
+8. Justification: "If that closer just goes and closes one deal, you already have the ROI" [1:11:02]. "This will be clipped up that we are not here making money out of thin air" [1:10:29].
+9. Plus a 5% share (captioned "ref share") on B2B, which "goes up as the business grows" [1:11:12 to 1:11:32]. Fee rises as demand grows [1:11:12].
 
-The reusable part is the method, not the numbers: put a dollar value on the buyer's time, add the revenue the solution produces, take a small share, set the price where the ROI is obvious, then collapse it into a simple rule the client can repeat (setup fee equals your ticket size).
+**B2C program [1:11:39 to 1:15:58].**
+1. Arjun's top case: three closers he trained now make $25k to $30k a month (two in ecom, one on an AI offer); "all three of these closers combined do 16" (unclear) [1:12:09 to 1:12:28].
+2. Moksh's anchor: a closer placed with an owner making at least $10k a month, at a 10% flat commission, makes at least $1,000 a month [1:12:28 to 1:13:01].
+3. Arjun prices at about half that, $500, because he wants "a brotherhood", not a professional relationship, and doesn't want to "overstretch their pockets" [1:13:14 to 1:14:06]. "I don't want to make this initial investment super hard for them. Uh, but I want to make the journey hard for them" [1:14:47].
+4. Price confirmed as "45,000 ... INR" [1:15:02], later restated as "500 USD" [1:15:50]. **Flag:** the two are presented as the same price; recorded as spoken.
+5. Capacity: "max to max 10 ... killer closers" at that price, not 30 at once [1:15:31 to 1:15:40]. Moksh: 10 closers means serving 10 offers, "which is where we're making like [ __ ] big bucks" [1:15:58].
 
-**B2C closer program:**
-1. Closers earn about 10% commission. On a $10k-a-month client offer that is about $1,000 a month minimum.
-2. Program price: about half of one month's minimum earnings, about $500, also quoted as about Rs 45,000. **Flag:** the rupee figure does not match $500 at normal exchange rates; recorded as spoken.
-3. Framing: a small investment against a 10x return within a few months. Trained closers are said to reach $25k to $30k a month; an earnings target of $3k+ a month is also mentioned.
-4. The price is anchored to the buyer's first month of earnings, so it pays for itself in under a month.
+**Guarantee:** none stated. In its place, two-way accountability: Arjun's internal benchmark ($15k) sits above the owner's goal ($10k), and he owns a shortfall if leads were good [51:59 to 52:41].
 
-**Guarantee:** none formally (no refund or performance guarantee). In its place, two-way accountability: the agency sets its own benchmark above the client's goal ($15k against $10k) and owns any shortfall when leads were good; the owner must supply good leads.
+### The profile funnel (Moksh, "what we follow at Meteoric") [58:07 to 59:22]
+1. Short-form of any kind (organic reel, trial reel, carousel, photo dump, video ad, story ad, static ad) does one job: top of funnel traffic and attention.
+2. Those eyeballs go to "one thing and one thing only", the Instagram profile, "optimized almost like a landing page": who you are, what you do, who you help, how, and results.
+3. Long-form YouTube, reels, posts and story sequences nurture and qualify.
+4. Inbound comes through story sequences, or warm outbound is run on the nurtured audience.
+5. DM conversation with an appointment setter, then a booked sales call.
+6. Client onboarding, testimonials, fulfillment, results, then upsell.
 
-**Delivery model:** done for you on B2B (placed, managed, retrained, reviewed closers); a cohort-style program on B2C, capped at 10.
+### Principles
 
-### The profile funnel (Meteoric's own sales system, as Moksh explains it)
-1. Short-form (reels, carousels, ads, stories) builds awareness.
-2. The optimized Instagram profile works as the landing page.
-3. Long-form YouTube builds authority and nurtures, with testimonials and case studies inside it.
-4. The story sequence generates inbound replies (or warm outbound is run).
-5. A DM conversation with an appointment setter books a call via Calendly.
-6. The prospect watches a pre-sale asset that moves them from research mode to ready.
-7. A one-call close by a trained closer.
-8. Onboarding, a first-month quick win, a testimonial, delivery, then an upsell.
+**Offers (Moksh unless noted):** answer a few questions on camera and the offer exists [09:42]; take the pessimistic timeline [32:44]; three before, three after [34:13]; the operator's lifestyle is the marketing [24:07]; target the buyer and the talent follows [27:31].
 
-### Principles (paraphrased)
+**Pricing:** price from value math, not market copying [1:05:49]; setup fee equals the client's ticket size [1:09:47]; anchor a training price to first-month earnings [1:12:28]; "it's an investment ... not a price ... not fees" (Arjun) [28:22]; raise prices at a 50% close rate (Arjun, crediting Moksh) [59:48]; raise as demand grows [1:11:12].
 
-**Offers:** an offer is a document of decisions, not a vibe; hedge the headline with the condition that makes it true; promise the conservative timeline; the operator's lifestyle is part of the product; one body of content can feed both sides of a two-sided offer.
+**Closing (mostly Arjun):** founders lose authority on sales calls [16:24]; "you don't sell information ... you sell feelings" [16:55]; move prospects from research mode to action [26:59]; help them "get out of their own way" [56:51]; read non-buyer language and disqualify or convert [55:12]; owners doing $10k to $20k a month need a closer (Moksh) [44:22]; "English gives you ... the authority and Hindi gives you the connect" [45:10].
 
-**Pricing:** price from value math (hourly value times hours freed, plus revenue produced); collapse the math into a repeatable rule; anchor a training price to first-month earnings; call it an investment, not a fee; raise prices once conversion is proven and demand grows; revenue share keeps incentives aligned.
-
-**Closing:** founders should not close (it lowers authority and steals content and lead-gen time); closing sells the feeling and the pain, not the information; help prospects get out of their own way and call out procrastination; closers need warm inbound, so lead generation drives everything; a closer's energy and lifestyle decide call performance; work only with action-takers who have already invested. One line from the session, paraphrased, speaker uncertain: closing the sale buys dinner, delivering results funds retirement.
-
-**Positioning:** attention is currency and documenting your journey builds credibility; the profile is the landing page and clear "who I help" positioning is the cheapest fix; proof before pitch, with testimonials, case studies and call recordings inside long-form. English builds authority and Hindi builds connection (said about closers on calls, not set as a content rule).
-
-**Retention:** the first month decides retention, so engineer a quick win; stay hands-on and reachable early, with check-ins three to four times a week; accountability runs both ways; cap capacity rather than overpromise.
+**Retention (Moksh):** "retention is everything" [45:56]; the first win kills buyer's remorse [48:03]; be reachable on WhatsApp [47:32]; "Sales pay for dinner, results pay for retirement" (likely Moksh) [50:52].
 
 ## Stories, numbers, and examples
 
-All self-reported (mostly by Arjun), none verified in the video.
+All self-reported, mostly by Arjun.
 
-| Item | Claim |
-|---|---|
-| Arjun's sales total | About Rs 4.5 to 5 crore in about 14 months |
-| Arjun's close rate | 50% to 65% (Moksh also cites 85% from another period or offer) |
-| Closed for Meteoric | About $46k in one month; about 12 sign-ups from 25 calls (Jan to Feb) |
-| Other Arjun claims | About $750k cash collected total; about $150k USD in two months; $80k to $100k on an AI offer in four months |
-| Reels | About 30k average views |
-| B2B example math | $20k a month owner, about 120 hours, about $166 an hour, 20 hours closing is about $3.3k |
-| Closer ramp-up | About 7 to 10 days once placed (B2B); about 2 months promised for new closers (B2C) |
-| Benchmarks | Owner goal $10k a month; Arjun's internal target $15k+ |
-| Capacity | About 10 closers per intake |
-| Client content time | About 8 to 12 hours a month |
+| Item | Claim | Timestamp |
+|---|---|---|
+| Arjun's start | Phone appointment setter on an ecom offer, 14 months earlier; promoted to closer as his numbers grew | [00:32, 07:31 to 07:52] |
+| Total sales | "250 grand short from a million dollars"; 4.5 to 5 crore | [00:32 to 00:47] |
+| Cash collected | $750k total; about $150k USD in 2 months; rest INR | [39:37] |
+| INR | 4.5 crore in 12 months, "close to half a million dollars" | [40:10] |
+| Comparison | "700 800k USD in 14 months" | [21:37] |
+| Close rate | 50% to 65% overall; never below 50% in any month; 85% for Meteoric (Moksh) | [00:57, 40:25, 01:33] |
+| Meteoric | $46k in contracts in 30 days from the last week of Jan; about 25 calls, 12 sign-ups | [41:42, 1:06:53] |
+| AI offer | $80k to $100k, Nov to Feb | [42:22 to 42:58] |
+| Meteoric client base | "More than 50 clients" who paid high ticket (Moksh) | [08:16] |
+| Moksh's revenue when Arjun joined | "Roughly around like 20 to 30K USD" a month; his ticket was $5k | [1:06:32, 1:09:34] |
+| Moksh's hourly value | About $5,000 to $5,500 | [18:58, 1:06:41] |
+| Average Indian salary | "36, 40,000" (Arjun) | [05:44] |
+| Stuck bracket | Rs 50,000 to 1 lakh a month at ages 25 to 35 | [36:59] |
+| B2C earnings goal | $3k+ a month; 3 to 10k under 25 | [37:51] |
+| Trained closers | Three at $25k to $30k a month | [1:12:09] |
+| Reels | Average 30,000 views | [1:18:12] |
+| Followers | Captioned "7,78" | [43:05] |
+| Arjun's content time | 8 to 12 hours a month | [1:19:43] |
+| Build time | About an hour and a half | [1:17:25] |
 
-Named in passing: Ishan Suri and Moksh as B2B testimonials for Arjun (clients and the agency vouch for each other); a Bali client retreat about a month out.
+**Names (as captioned, unresolved where noted):** Ishan Suri (Arjun's other big B2B client) [1:03:35]; "Dunnil" (fitness offer Arjun places closers with) [21:49]; "Modish" (visual identity) and "Aditya Bura" (scripting with AI) [1:18:35 to 1:18:44]; "Shelby Shelby sap" as a female closer role model [33:02]; "ecom edge" (ecom client) [41:17].
 
 ## Script anatomy
 
-- **Title formula:** How i built [specific asset] for [place]'s best [role] (LIVE). Promises a tangible build, borrows the guest's status, and the LIVE tag signals unscripted. The superlative is stronger than what is said on camera.
-- **Hook:** no designed cold-open hook; it starts straight into banter about Goa. The title and thumbnail carry the hook, then the credibility numbers land in the first few minutes (crore figures, close rates). Thumbnail not seen.
-- **Credibility move:** the guest's numbers first, then Moksh layering on the figures from closing Meteoric's own calls.
-- **Structure:** guest intro and proof stack, brand audit, step-by-step pass through the offer template, funnel explanation, fulfillment, live pricing math, launch checklist, upbeat sign-off. A literal water break sits mid-session.
-- **Retention devices:** visible live calculations (including the slips, which make it feel real); Moksh restating the guest's answers as tighter lines; warm banter and joking insults between friends; a real named client and real (self-reported) numbers; open loops (tentative offer name, spots not yet listed).
-- **CTA:** nothing spoken. Passive only: the booking link at the top of the description. The video acts as proof and a pre-sale asset for Meteoric.
-- **Description:** a "book a call with the team" link, then Instagram links for Moksh, the Meteoric Boost testimonials account and Arjun, plus the standing tagline (paraphrased: the value is free, they charge to implement it).
-- **Funnel role:** product demo. The viewer watches real consulting happen.
+- **Title formula:** How i built [asset] for [place]'s best [role] (LIVE). Borrows the guest's status. On camera Moksh only says "top three" among young inbound closers [02:11].
+- **Hook:** no designed hook; banter about Goa, then the guest's numbers inside the first minute.
+- **Structure:** proof stack, brand audit, name, thesis, B2B side, B2C side, proof inventory, water break, fulfillment, profile funnel, launch assets, live pricing math, behind-the-scenes, Meteoric pitch from the guest, sign-off.
+- **Retention devices:** live calculations with visible slips ("Both of our math is bad"); Moksh restating answers as tighter lines on the board; banter; real numbers; "this will be clipped up" [1:10:29] signals clip-ready moments.
+- **CTA:** none spoken. The description leads with "Speak to my team" (Arjun's Calendly), then Instagram links for Moksh, the Meteoric testimonials account and Arjun, and the tagline "We give away all the value for free & charge for the implementation, The Meteoric Boost way". Arjun's closing speech about who deserves to scale [1:20:56 to 1:21:17] works as the pitch.
+- **Funnel role:** product demo and testimonial at once.
 
 ## Voice notes
 
-- Casual, high-energy, two friends talking. Heavy "bro" and "man". Frequent profanity (mostly masked).
-- Steady short acknowledgements ("gotcha", "perfect", "awesome", "makes sense") before he restates the point more cleanly.
-- Reacting to numbers: amazement first ("insane", "crazy"), then he immediately quantifies or recalculates. Hype, then math.
-- Vocabulary: "dialed / dialed in", "locked in", "killers", "lowest-hanging fruit", "unfair advantage", "two-way street", "scale".
-- Coaching moves: asks for one sentence then tightens it; turns vague answers into hours, dollars and percentages; picks the conservative assumption out loud; closes sections with a slogan-like line.
-- Almost all English; Hindi vs English comes up as a topic, not as heavy code-switching.
-- Signature sign-off, the one direct quote: "Let's scale this to the moon."
+- Two friends talking: "bro", "man", heavy profanity (masked), joking insults.
+- Short acknowledgements before restating: "gotcha", "perfect", "awesome", "makes sense", "that is insane".
+- Hype, then math: he reacts to numbers, then recalculates them.
+- Vocabulary: "dialed / dialed in", "locked in", "killers", "lowest hanging fruits", "two-way street", "brotherhood".
+- Coaching moves: asks for one sentence and tightens it, asks for exactly three points, picks the pessimistic number aloud.
+- Signature lines:
+  - "Do you have a brain or are you a goldfish?" (on copying market prices) [1:06:01]
+  - "We just take the most pessimistic assumption." [32:44]
+  - "Retention is everything." [45:56]
+  - "The first month is everything." [47:44]
+  - "Sales pay for dinner, results pay for retirement." (likely Moksh) [50:52]
+  - "You're getting someone that [ __ ] lives on an island." [24:07]
+  - Arjun: "Attention has become currency now." [02:24]; "I turn closers into killers." [30:12]
 
 ## Related
 
@@ -193,5 +283,6 @@ Named in passing: Ishan Suri and Moksh as B2B testimonials for Arjun (clients an
 - [Short-form and Instagram](../03-content-playbook/short-form-and-instagram.md) (profile as landing page, story sequences)
 - [YouTube script playbook](../03-content-playbook/youtube-script-playbook.md) (live build format)
 - [Titles, hooks and CTAs](../03-content-playbook/titles-hooks-ctas.md)
+- Earlier live build: [Watch me build a profitable personal brand from scratch (LIVE)](2025-10-21__build-brand-from-scratch-live.md)
 - Same sales system described solo: [$130k in 6 months](2026-01-12__130k-in-6-months.md)
 - Next video: [22 year old millionaire case study](2026-03-30__22-year-old-millionaire-case-study.md)

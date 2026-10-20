@@ -1,371 +1,429 @@
 ---
 title: Business and operations
 type: mental-models
-sources: [https://mokshs-newsletter-eea609.beehiiv.com/, https://www.youtube.com/watch?v=nnMuox4BtbU, https://www.youtube.com/watch?v=BU0smWywaw8, https://www.youtube.com/watch?v=9SBwERbSze4, https://www.youtube.com/watch?v=IEuERGHU3wA, https://www.youtube.com/watch?v=n1vbE3e8XuE, https://www.youtube.com/watch?v=6SYJFqH-RPQ, https://www.youtube.com/watch?v=H68gyWOlIy4, https://www.youtube.com/watch?v=qYIKwqRvIyU, https://www.youtube.com/watch?v=qmN62Kp4ohg, https://www.youtube.com/watch?v=sD4R8Z4H6U4, https://www.youtube.com/watch?v=wi6pyq5nXK8, https://www.youtube.com/watch?v=M8TkhDOCZlE, https://www.youtube.com/watch?v=xQUlUeG46hs, https://www.youtube.com/watch?v=Ze4JOAAvAq8, https://www.youtube.com/watch?v=NUp6EiXzojA, https://www.youtube.com/watch?v=n9GXQoWsYvE, https://www.youtube.com/watch?v=-MGRRBmou1U, https://landing.meteoricboost.com/]
-last_updated: 2026-10-18
+sources: [qSNYWCyKGyo, IEuERGHU3wA, n1vbE3e8XuE, 6SYJFqH-RPQ, nnMuox4BtbU, BU0smWywaw8, 9SBwERbSze4, qmN62Kp4ohg, AnqK0H6Uhis, 9Ma2bozEqGM, pyYGdcb1V48, w5ONkdV9OZw, 0jNq7A4_yOM, M8TkhDOCZlE, xQUlUeG46hs, NUp6EiXzojA, qYIKwqRvIyU, H68gyWOlIy4, wi6pyq5nXK8, C4ckCV1xmj8, vT7pvIRtxaM, KrPQX-qdYRI, 1h29rLdXY4I, z_dxsfu9NZY, yfVG-XkTcBw, pXLF_xVQdPA, G0UVN3E2ZKU, p7ZODv8gmiA, kE2C3Lt5-QI, 7KzjZKryW6k, o4YJhytDJco, k-f2AMd8-ek, "https://mokshs-newsletter-eea609.beehiiv.com/", "https://landing.meteoricboost.com/"]
+last_updated: 2026-10-20
 confidence: high
 ---
 
 # Business and operations: how Moksh thinks
 
-Moksh runs Meteoric Boost on a few rules: systems before scale, cut before you add, keep the team small and hire for culture, protect the founder's hours, measure every step, and work in hard sprints with real rest.
+Moksh runs Meteoric Boost on a few rules: act first, then systematize before you scale; clarity beats team size; whatever is red on the board is the to-do list; throw capital, tech or media at a problem, not your time; hire through the brand and for culture; and cash collected is the only number that counts.
 
-Context for any agent loading only this file: Moksh Vasant (born in Jamnagar, turned 21 in December 2024) founded Meteoric Boost, a personal brand studio for founders, in 2025. Before that he co-founded a calisthenics coaching startup called Meteoric (2020), sold Notion templates, ran marketing for the student startup StuKonnect, and interned at a search fund in Sydney. All revenue, margin, team and client figures here are **self-reported**. See [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md) for the conflicts.
+Context for any agent loading only this file: Moksh Vasant (born 16 Dec 2003, Jamnagar; based in Bombay today [Aarya, 20 Oct 2026]) founded Meteoric Boost in Apr 2025 and signed his first clients on 8 Jun 2025. Before that: Meteoric v1, a calisthenics coaching startup with his high-school best friend (May to Jun 2021 per contemporaneous vlogs; he later says "2020"), Notion templates, marketing for the student startup StuKonnect, and an unpaid search-fund internship in Sydney (captioned "origo legacy partners", unconfirmed; AnqK0H6Uhis [41:25]). Meteoric's systems run on FulcrumOS, built by Fulcrum Labs [Aarya, 20 Oct 2026]. All revenue, margin, team and client figures are **self-reported**. Timestamps are `[mm:ss]` in the video named by its ID.
 
 ## Top 5 in one line each
-1. **Systems before scale:** his first startup died of messy systems at about 15 clients, so everything since is built system-first (though he acts first to learn what the system needs).
-2. **The founder's time is the scarcest input:** every rule, for himself and for clients, aims to cut founder hours (4 to 8 on camera a month for clients).
-3. **Track every step, then double down:** measure each department and funnel step, form a hypothesis, and pour resources into whatever works.
-4. **Subtract before you add:** essentialism, one offer, one customer, and cutting systems, clients or people that slow things down.
-5. **Culture first, mindset over skill:** a lean team that owns the company, hired for hunger and fit, because skills can be taught.
+
+1. **Act first, prove it twice, then systematize:** "Don't build systems first. Always take action first", but never scale an unsystemized process.
+2. **Clarity, not team size:** "0 to 34 plus clients with literally just four people".
+3. **Red is the to-do list:** every sub-process is green, yellow or red on a Miro board; the founder fixes the red.
+4. **Don't fill gaps with your time:** "If you're doing something every week that someone else could do or own... that's a hiring decision you haven't made yet."
+5. **Cash, not pipeline:** big deal talk means nothing until cash is collected.
 
 ---
 
-### 1. Systems before scale (but act before you systematize)
-**The idea:** Growth breaks anything without systems, so build the operating system before you push volume. In his words: "Good systems are the backbone of scaling anything." (Epiphanies #2, Dec 2024). He also insists you have to act first to learn what the system actually needs.
+### 1. Act first, prove it twice, then systematize
+
+**The idea:** Growth breaks anything without systems, so build the operating system before you push volume. But you only learn what the system needs by acting. The sequence: act fast, prove it works twice, write the SOP, delegate, then scale.
+
 **How he applies it:**
-- **The origin lesson.** The first Meteoric, a calisthenics coaching startup co-founded with his high-school best friend, peaked at about 15 clients at once. It stalled on weak systems and inexperience, and the founders burned out and shut it down (Epiphanies #2, #7).
-- **Even earlier.** As a teenager, during his last school year and lockdown, a personal system made him productive where motivation hadn't:
-  - the same wake time every day
-  - planning the night before
-  - four or five tasks, two of them real work
-  - one notebook cleared daily
-  - exercise for focus
-  (Productivity vlog, about early 2021.)
-- **At Meteoric Boost.** The client method (the Meteoric Engine) has 14 phases, 5 stages, named owners and fixed weeks. Operations are mapped in Miro with green, yellow and red status. Onboarding is automated.
-- **The action-first correction.** In his Dec 2025 year review, the first principle reads: "Don't build systems first. Always take action first." He built Meteoric hands-on, in the trenches, in June to August 2025, refined it as clients got results, and only then wrote the full process (Road to $1M, Feb 2026).
-**Where he said it:** Epiphanies #2 (22 or 23 Dec 2024), #3 (31 Dec 2024), #12 (7 Apr 2025), where one of his Q1 lessons is systems before execution. How i made 2025 my best year yet (30 Dec 2025). Road to $1 million (21 Feb 2026). Breaking down businesses (rec. 9 Oct 2025). Early vlog n9GXQoWsYvE (about 2021).
-**Evolution / confidence:** High. The two lines look like they conflict but are a sequence:
-1. Act fast to discover the process.
-2. Systematize it before you scale.
-3. Never scale volume on an unsystemized process.
+- "Don't build systems first. Always take action first" (nnMuox4BtbU [04:07]). "Action beats everything"; "Take dumb action if that's what it takes" (IEuERGHU3wA [09:29 to 09:54]).
+- Prove twice, then SOP, then editor: after his breakout reel he repeated the formula, wrote an edit SOP and hired an editor (n1vbE3e8XuE [18:34 to 19:00]).
+- "Good systems are the backbone of scaling anything" (Epiphanies #2, Dec 2024).
+- Meteoric in three words: "speed, systems and scale" (IEuERGHU3wA [02:13]).
+- The origin lesson, Meteoric v1: a "learning venture", not a money venture ("the main motto of starting Meteoric isn't to actually earn money", yfVG-XkTcBw [02:35], May 2021). Plans matched to level, "the only prerequisite ... is gravity", clients called "astronauts", a weekly leaderboard (pXLF_xVQdPA [03:21 to 06:31]). It stalled on weak systems at about 15 clients (Epiphanies #2, #7); in 2026 he says it had 35 to 40 clients and ended when "fulfillment broke" at university (9Ma2bozEqGM [1:05:06 to 1:09:26]).
 
-An agent should not read the act-first rule as permission to skip systems. It means don't over-design before you have real reps.
+**In his words:** "Don't build systems first. Always take action first." (nnMuox4BtbU [04:07])
 
-### 2. The founder's time is the scarce input
-**The idea:** The founder's hours are the constraint on the business and on the brand. Anything someone else can do should leave the founder's plate.
+**Best sources:** nnMuox4BtbU [02:21 to 04:07] (30 Dec 2025); n1vbE3e8XuE [18:34 to 19:00] (Mar 2026); IEuERGHU3wA [02:13], [09:29] (Oct 2025).
+
+**Evolution / confidence:** Dec 2024: systems before execution. Dec 2025: action before systems. Not a contradiction but a sequence: act to discover the process, systematize it, then scale. Meteoric v1 numbers conflict: "15 clients in three months" (G0UVN3E2ZKU [00:00]) vs "up to 15 at once" (Epiphanies) vs 35 to 40 (9Ma2bozEqGM). The personal version of act-first is in [mindset and life](mindset-and-life.md), model 4. High.
+
+### 2. Clarity, not team size
+
+**The idea:** Leverage comes from clarity, systems and a few strong people, not headcount. A lean, intimate team can serve dozens of founders.
+
 **How he applies it:**
-- **His own brand:**
-  - about 2 days a month batching content (Sep 2025 workshop)
-  - about 2 to 3 hours a month for about 12 reels, via journaling, themes, scripts, batched voiceovers and editors in Notion (Epiphanies #15, May 2025)
-  - about 24 hours a month in total, with the account growing while he wasn't posting (Epiphanies #13)
-- **For clients:**
-  - 4 to 8 hours a month on camera
-  - if it takes more, the system was built wrong (landing page)
-  - the "4-hour-a-month" founder framing (Aug 2025)
-- **Site operating rules:**
-  - If the team can do a task, the founder never touches it.
-  - Documents are built from transcripts, not forms.
-  - Internal decisions don't need the founder in the meeting. Three principals work in "the room you're never in".
-- **A bottleneck-driven calendar.** His own day is 4 to 8 focused hours, spent wherever the business is constrained: sales calls, client calls, strategy, content, systems or team (Dec 2025).
-- **An executive assistant with a written playbook,** hired to get him out of low-value work (about Sep 2026).
-- **Founders shouldn't take sales calls** once demand exists (see [offers-pricing-sales.md](offers-pricing-sales.md), model 15).
-**Where he said it:** Epiphanies #12, #13, #15 (Apr to May 2025). How i built a 130k personal brand (10 Aug 2025). $52k in 3.5 months workshop (29 Sep 2025). How i made 2025 my best year yet (30 Dec 2025). Lessons working with the top 0.1% (about Sep 2026). Landing page (2026).
-**Evolution / confidence:** High. The model he ran on his own brand in 2025 became the product he sells.
+- "0 to 34 plus clients with literally just four people on the team" (qSNYWCyKGyo [40:52], May 2026).
+- Hook: "hundreds of thousands of dollars from a personal brand and a lean team of 4 A players" (BU0smWywaw8 [00:00]).
+- Vision: a "lean, very intimate team" doing "multiple six figure USD months" (IEuERGHU3wA [23:29]).
+- Three departments feed each other: sales, marketing, operations (BU0smWywaw8 [02:13 to 02:45]).
+- For a client's brand, two hires are enough: an editor and a creative strategist (qYIKwqRvIyU [45:51 to 46:29]).
 
-### 3. Track every step, then double down on what works
-**The idea:** Every department and funnel step gets a number. When something works, find out why and pour time, money, people and systems into it without embarrassment.
+**In his words:** "0 to 34 plus clients with literally just four people." (qSNYWCyKGyo [40:52])
+
+**Best sources:** qSNYWCyKGyo [40:52 to 41:25] (31 May 2026); BU0smWywaw8 [00:00], [02:13] (13 Jan 2026); IEuERGHU3wA [23:29] (Oct 2025).
+
+**Evolution / confidence:** Headcount grew (CSMs, EA, setters), but the framing stays lean. His Aug 2026 year-end goal is "a three person team" (9Ma2bozEqGM [08:08]); unclear whether that means a core leadership team. High.
+
+### 3. Red is the to-do list (the traffic-light board)
+
+**The idea:** Map every workflow by department on a Miro board, colour each sub-process green (moving), yellow (needs attention) or red (bottleneck). The company is healthy if most are green or yellow. Whatever is red is the founder's job this week.
+
 **How he applies it:**
-- **Four functions with their own metrics:**
-  - **Marketing:** engagement rate, views, interactions, DM volume.
-  - **Sales:** DMs, calls booked, pre-sale assets sent, closing calls, cash collected.
-  - **Operations:** Miro status board.
-  - **Client success:** turnaround time and client results.
-  (Breaking down businesses, Oct 2025.)
-- **The loop when something works:**
-  1. Screenshot the chats.
-  2. Analyze why it worked.
-  3. Form a hypothesis.
-  4. Re-test.
-  5. Delegate once proven.
-  (The Sanskar Show, Mar 2026.)
-- **Per-asset tracking.** Each story sequence is tracked for replies, booked calls, closes and drop-off (Jan 2026).
-- **Feedback as data.** Negative feedback means change course. Positive means double down (Oct 2025).
-- **His training.** He credits the econometrics and regression in his economics degree for the habit (Dec 2025; Oct 2025).
-- **Short form of the rule.** In his Q1 2025 solo review, a proven thing should simply be kept and repeated (Epiphanies #12).
-- **Wants to run the company from dashboards and metrics** (Q4 2025 goal).
-**Where he said it:** How i made 2025 my best year yet, principle 12 (30 Dec 2025). Breaking down businesses (rec. 9 Oct 2025). $130k in 6 months (12 Jan 2026). The Sanskar Show #226 (Mar 2026). Epiphanies #12 (7 Apr 2025).
-**Evolution / confidence:** High and consistent from early 2025 on. Department names vary by source (see model 13).
+- Traffic-light ops (IEuERGHU3wA [17:58 to 18:11], Oct 2025).
+- Operating cadence (May 2026): a Monday team sync over four departments (operations, fulfilment, sales, marketing), end-of-day updates, a Saturday review; "What's red on the Miro board, that's your to-do list" (qSNYWCyKGyo [41:39 to 42:54]).
+- The founder's number one role is to "go and fix that bottleneck" (qSNYWCyKGyo [42:54]). His bottleneck in May 2026 was paid ads; the week before, fulfilment (qSNYWCyKGyo [42:39]).
+- Rhythm over time: whole company twice a week (BU0smWywaw8 [03:58]); weekly sales, ops and fulfilment, marketing and full-team calls (9SBwERbSze4 [00:15]).
 
-### 4. Subtract before you add
-**The idea:** Most problems are solved by removing things, not adding them. Busyness is not productivity. His line: "Most people add. The best subtract." (Epiphanies #9).
+**In his words:** "What's red on the Miro board, that's your to-do list." (qSNYWCyKGyo [42:24])
+
+**Best sources:** qSNYWCyKGyo [41:39 to 42:54] (31 May 2026); IEuERGHU3wA [17:58 to 18:11] (Oct 2025).
+
+**Evolution / confidence:** Same board from Oct 2025 to May 2026, with a fuller cadence by May 2026. His calendar follows the bottleneck too: 4 to 8 focused hours a day on whatever is constrained (nnMuox4BtbU [11:29 to 12:04]). High.
+
+### 4. Don't fill gaps with your time (the unmade-hire test)
+
+**The idea:** Throw capital, tech or media at a problem, not founder time. If you do something every week that someone else could do, that's a hire you haven't made. First check whether a Loom, an SOP or a Claude project can do it. Only show up where your presence creates disproportionate value.
+
 **How he applies it:**
-- **Draw the buckets, cut before executing.** Plan carefully like an architect, then execute without second-guessing like a soldier (Epiphanies #9).
-- **Choose, discern, trade off** (Greg McKeown's *Essentialism*, Epiphanies #10).
-- **Shed weight like an F1 team.** In the same issue as his "Eliminate > Add" line, he uses the F1 picture of lightness: remove whatever slows you down (Epiphanies #8).
-- **At Meteoric** he cut systems, clients and one team member, and credits *Essentialism* (Breaking down businesses, Oct 2025).
-- **In his personal life** he went sober for 2025 to protect a rare window of energy (see [mindset-and-life.md](mindset-and-life.md)).
-**Where he said it:** Epiphanies #8 (20 Feb 2025), #9 (26 Feb 2025), #10 (12 Mar 2025). Breaking down businesses (rec. 9 Oct 2025).
-**Evolution / confidence:** High. It runs from the student newsletter (early 2025) into the company (late 2025).
+- "If you're doing something every week that someone else could do or own that's not founder work that's a hiring decision you haven't made yet" (qSNYWCyKGyo [44:25]). Ask first whether "a Loom video, an SOP or a Claude project" can do it.
+- Protect your leverage points: "only show up where your presence creates disproportionate value ... don't fill gaps with your time, fill gaps with the right hire" (qSNYWCyKGyo [43:54]).
+- Capital, tech or media over time (qSNYWCyKGyo [03:58], [44:11]).
+- His EA: hired after near burnout, "I need to protect my focus", with a written playbook (xQUlUeG46hs [10:17 to 10:55]).
+- Site rules: if the team can do a task, the founder never touches it; client founders give 4 to 8 hours a month.
 
-### 5. One offer, one customer: focus until it works, then expand
-**The idea:** Early on, breadth kills you. Get one skill, one offer and one buyer working before branching out.
+**In his words:** "Every hire you don't make is a management cost you don't carry." (qSNYWCyKGyo [45:32])
+
+**Best sources:** qSNYWCyKGyo [43:54 to 45:32] (31 May 2026); xQUlUeG46hs [10:17 to 10:55] (6 Sep 2026).
+
+**Evolution / confidence:** Note the tension inside the same talk: hire for anything weekly, but every hire you skip saves management cost. Reading: automate or document first, hire second. High.
+
+### 5. Track every step, hypothesize, double down (the scale loop)
+
+**The idea:** Every department and funnel step gets a number. When something works, find out why, re-test, then delegate and pour resources into it without embarrassment.
+
 **How he applies it:**
-- **His definition of product-market fit:** one offer, one customer, and every problem that customer has solved (Oct 2025).
-- **Advice to young founders:**
-  - Master one skill, then learn to market and sell it.
-  - Don't chase enterprise problems at the start (Oct 2025).
-- **One business model at a time.** Stick to one model until it works. Expand only once you have capital, network and labor (Dec 2025).
-- **A threshold for broadening life priorities.** At about $10k a month, start putting health and relationships first. He admits he put them off when he had no money (Dec 2025).
-- **Narrow the focus.** In his Q1 2025 solo review: two domains only (Epiphanies #12).
-**Where he said it:** Breaking down businesses (rec. 9 Oct 2025). How i made 2025 my best year yet, principle 3 (30 Dec 2025). Epiphanies #12 (7 Apr 2025).
-**Evolution / confidence:** High, and this is a real shift. In 2024 and early 2025 he openly defended being a jack of all trades:
-- He built the "Jack of All Trades" Notion template.
-- He ran university, a side business and training in parallel (Wiser Together EP.52, Nov 2024; Epiphanies #5, Jan 2025).
-- In early 2025 he split his week: 3 days internship, 2 days personal brand, 2 days StuKonnect (Epiphanies #6).
+- The loop: track, find the high data point, screenshot the chats, form a hypothesis, re-test, delegate with feedback (n1vbE3e8XuE [50:18 to 51:29]).
+- Departments with metrics: marketing, sales, operations, client success (IEuERGHU3wA [16:27]). Post-onboarding and check-in forms for client feedback (IEuERGHU3wA [19:44]).
+- Econometrics from his economics degree shaped his data habit; double down with effort, capital, labour, systems and throughput (nnMuox4BtbU [22:56 to 24:47]).
+- Q4 2025 goal: "a CEO that has a CEO dashboard, has specific metrics that he tracks" (IEuERGHU3wA [26:09]).
 
-By late 2025 his view is focus first and breadth later. Use the later view for business advice.
+**In his words:** "Whatever works, absolutely double down on it with no shame." (nnMuox4BtbU [24:23])
 
-### 6. A lean team beats headcount
-**The idea:** Leverage comes from systems and a few strong people, not a big team. A solo founder can't reach six figures doing every role alone.
+**Best sources:** n1vbE3e8XuE [50:18 to 51:29] (Mar 2026); nnMuox4BtbU [22:56 to 24:47] (30 Dec 2025); IEuERGHU3wA [16:27] (Oct 2025).
+
+**Evolution / confidence:** Consistent from Epiphanies #12 (Apr 2025) on. Department names vary (three vs four; "client success" vs "fulfilment"). High.
+
+### 6. Cash, not pipeline (info-business economics)
+
+**The idea:** Pipeline talk means nothing until cash is collected. A high-ticket, system-led service with organic inbound has better economics than a deliverables agency or a physical business.
+
 **How he applies it:**
-- **Three departments that depend on each other:** sales, marketing and operations, run by a four-person core team. He claims about 79% net margins (Jan 2026).
-- **His diagnosis of founders stuck at $0 to $10k a month:** they are doing every job themselves.
-- **For a client's personal brand:** an editor plus a creative strategist or social manager is enough (Sep 2025).
-- **The first hire is a vetted editor,** with SOPs (Aug 2025).
-**Where he said it:** $130k in 6 months (12 Jan 2026). $52k in 3.5 months workshop (29 Sep 2025). How i built a 130k personal brand (10 Aug 2025). Breaking down businesses (Oct 2025), which says lean and culture first.
-**Evolution / confidence:** High. Headcount has grown since (see model 13), but the lean framing stays.
+- "Talking about what your pipeline's worth compared to what your cash collected is" (9Ma2bozEqGM [25:22]). This is Moksh's line; the old repo credited Aryan.
+- Self-reported economics:
+  | Claim | Source |
+  |---|---|
+  | CAC "zero", all inbound | IEuERGHU3wA [13:12 to 13:27] (Oct 2025) |
+  | 79% net profit, 21% software and team; no inventory | BU0smWywaw8 [05:15 to 05:28] (Jan 2026) |
+  | CAC $50 to $100 per high-ticket client | BU0smWywaw8 [07:17] |
+  | Paid in full on the sales call | BU0smWywaw8 [32:10] |
+  | "Cash flow positive", no investor money needed | xQUlUeG46hs [10:05] (Sep 2026) |
+  | "3x" what his family paid for his foreign degree, "in the last 14 months" | M8TkhDOCZlE [07:30] (Aug 2026) |
+  | Doing better than his family's business at its peak | M8TkhDOCZlE [07:06] |
+  | ₹40L+ every month (private; not for public copy without Moksh's OK) | [Aarya, 20 Oct 2026] |
+- Revenue claims and conflicts: [offers, pricing and sales](offers-pricing-sales.md), "Known conflicts".
 
-### 7. Culture first; hire for mindset and hunger over skill
-**The idea:** Culture is the most important thing in a team. Skills can be taught, but ownership, hunger and fit mostly can't, so hire for those.
-**How he applies it:**
-- **Hiring:**
-  - Hire for culture fit and intuition over raw skill, through a rigorous application process (Dec 2025).
-  - He let one person go within two weeks for culture misfit (Oct 2025).
-  - Hire self-driven people, so a shared vision plus systems replace micromanagement (Mar 2026).
-- **Leading:**
-  - Lead by example as the hardest worker.
-  - He says he paid the team beyond what revenue justified during slow periods, including times he technically couldn't afford it.
-  - He wants the team to feel the company is theirs (Dec 2025). In Feb 2026 he says outright that the team owns the company and everyone has a stake in scaling it.
-- **Standards and culture:**
-  - Treat high output as the minimum. His line: "Excellence is hygiene." (Road to $1M, Feb 2026).
-  - Visible obsession attracts collaborators and clients (Dec 2025).
-  - A culture value of clarity over chaos (Sep 2025).
-- **Hiring mechanics:**
-  - **Editor hiring:**
-    - One story post brought about 120 applicants, about 30 of them qualified.
-    - The application is a 60-second video on why they want the role, plus a portfolio.
-    - He refuses unpaid test projects, because unpaid editors aren't motivated.
-    - He pays about $15 per video to editors from India, Pakistan or Bangladesh (Sep 2025).
-  - **The audience as a talent pool.** Around 250 applications across roles, about 50 of them strong (Aug 2025).
-  - **Hire people who have already worked with him.** His first hire, the COO, came from the StuKonnect team (EP.60).
-  - **Hiring a DM setter for a client:**
-    - 6 or 7 candidates
-    - Loom applications
-    - a shortlist of 2
-    - live interviews
-    - a hire in about 5 days
-    (Case study, Mar 2026.)
-**Where he said it:** How i made 2025 my best year yet, principles 10 and 11 (30 Dec 2025). Breaking down businesses (rec. 9 Oct 2025). Road to $1 million (21 Feb 2026). The Sanskar Show #226 (Mar 2026). $52k in 3.5 months workshop (29 Sep 2025). How i built a 130k personal brand (10 Aug 2025). Wiser Together EP.60 (pub. 21 Feb 2026). 22 year old millionaire case study (30 Mar 2026).
-**Evolution / confidence:** High. The Road to $1M transcript has no speaker labels, so its culture lines are attributed from context.
+**In his words:** "Talking about what your pipeline's worth compared to what your cash collected is." (9Ma2bozEqGM [25:22])
 
-### 8. Document everything, then delegate (SOPs and productizing)
-**The idea:** A process that lives in your head can't be handed off. Write it down so anyone can run it, train people on it, and only then let go.
+**Best sources:** 9Ma2bozEqGM [25:22] (11 Aug 2026); BU0smWywaw8 [05:15 to 07:17] (13 Jan 2026); xQUlUeG46hs [10:05] (6 Sep 2026).
+
+**Evolution / confidence:** Medium. Numbers are unaudited, and paying staff above what revenue justified (nnMuox4BtbU [21:24]) sits awkwardly with a 79% margin. Never present margins as fact. Acquisition channel shift (organic to paid): [content and distribution](content-and-distribution.md), model 26.
+
+### 7. Hire through the brand (talent pools)
+
+**The idea:** Audiences contain talent. A brand-led hire arrives presold, "looking at a person, not a role". Unqualified followers become hires. Target the buyer and the talent follows.
+
 **How he applies it:**
-- **From his search-fund boss** (a serial entrepreneur and ex-investment banker in Sydney) he took:
-  - over-communicate
-  - daily end-of-day updates
-  - document every process
-  - lead with care, and push at the right moments
-  (The Sanskar Show; EP.60.)
-- **The tools:** Miro and Notion for SOPs, spreadsheets for metrics.
-- **The pattern:** once a reel format worked, he wrote an SOP on how he thinks about edits and handed it to his first editor (around February, the year of his breakout reels).
-- **Delegate only after training** (Epiphanies #12).
-- **Productize the service.** His Q4 2025 bottleneck was cluttered workflows and the need to productize. The 2026 Engine has named phase owners and fixed weeks.
-- **Use AI where it fits.** The executive assistant (about Sep 2026) works from a written playbook. The client-scripting workflow runs on Claude with saved context.
-**Where he said it:** The Sanskar Show #226, scaling chapter (Mar 2026). Wiser Together EP.60 (pub. 21 Feb 2026). Epiphanies #12 (7 Apr 2025). Breaking down businesses (rec. 9 Oct 2025). Lessons working with the top 0.1% (about Sep 2026). Landing page (2026).
+- "That's how I hired my entire team" (9Ma2bozEqGM [1:51:45 to 1:54:04]). The talent pool is part of what clients buy.
+- 300+ freelancer database built through story sequences and team content; CSMs hired from Adi's and the creative director's stories (qSNYWCyKGyo [44:57 to 45:17]). Clients hire via a story, a Notion form and a 60-second Loom (C4ckCV1xmj8 [10:27]).
+- "Talent pools": hire on demand by putting up a story (qYIKwqRvIyU [1:03:53]); students in a client's audience are talent (AnqK0H6Uhis [21:20 to 22:29]); "way too many like inbound applications" for setter roles (AnqK0H6Uhis [1:05:51]).
+- Target the buyer, the talent follows: he attracts editors and designers because he targets founders (qmN62Kp4ohg [27:31]).
+- About 250 applications, about 50 A-players across roles; 67 for a long-form editor from one story (H68gyWOlIy4 [13:55 to 14:09], [27:19]).
+
+**In his words:** "They're not looking at a role, they're looking at a person." (9Ma2bozEqGM [1:54:04])
+
+**Best sources:** 9Ma2bozEqGM [1:51:45 to 1:54:04] (11 Aug 2026); qSNYWCyKGyo [44:57 to 45:17] (31 May 2026); qYIKwqRvIyU [1:03:53] (29 Sep 2025).
+
 **Evolution / confidence:** High.
 
-### 9. Think like a CEO, not a "founder"
-**The idea:** He separates two modes:
-- **Founder:** chaos-driven momentum, doing everything.
-- **CEO:** structure, culture, high performers, and clarity on what gets built first.
+### 8. Culture first: hire killers, teach skills
 
-He wants to be the second.
+**The idea:** Culture is everything. Skills can be taught; ownership, hunger and fit mostly can't. Hire self-driven "killers" who need no micromanaging, and overcompensate them.
+
 **How he applies it:**
-- **He says he has always identified as a CEO.** He kept CEO reminders on his whiteboard before he made money. In his framing, CEOs can build culture, high-performer teams and market authority, and "founders" can't (Feb 2026).
-- **Clarity is the CEO's main output.** On a build day he had about 15 competing ideas, and his COO pushed him to pick one priority.
-- **A deep-work protocol:**
-  - tabs closed
-  - Discord on do-not-disturb
-  - a timer
-  - film-score music
-  - the offer's core built in about 4 hours or less
-- **His 2026 intention:** structure, a consistent sleep schedule, a planned calendar, and acting as a CEO rather than a founder (EP.60).
-- **His Q4 2025 goal:** become a CEO who runs on dashboards and metrics (Breaking down businesses).
-- **His title:** he introduces himself as founder and CEO (Dec 2025).
-**Where he said it:** Road to $1 million (21 Feb 2026). Wiser Together EP.60 (rec. about mid-Dec 2025). Breaking down businesses (rec. 9 Oct 2025). How i made 2025 my best year yet (30 Dec 2025).
-**Evolution / confidence:** Medium to high. There is a mild tension: he says he has *always* been a CEO, but also describes 2025 as founder-mode chaos he is leaving behind. Read it as an identity he holds plus behavior he is still catching up to. The Road to $1M lines come from a transcript without speaker labels.
+- "Culture is everything"; "always pick the person who has less skill but is a culture fit"; hire people who "think like owners"; "I've always believed in overcompensating" (nnMuox4BtbU [20:26 to 21:52]).
+- "If you're hiring killers ... there is no way you're not going to build leverage" (n1vbE3e8XuE [51:41]).
+- Three culture values: "clarity over chaos, we make art, and we're down" (qYIKwqRvIyU [59:45]).
+- He let one person go within two weeks (IEuERGHU3wA [35:38]).
+- "Building the right culture, the right team ... people that can do work without you" (KrPQX-qdYRI [06:55 to 07:08]).
+- "Excellence is hygiene" (9SBwERbSze4 [16:40], said by both speakers).
 
-### 10. Work and rest like a lion (sprints, then recovery)
-**The idea:** Long unbroken grinds backfire. Work in intense, fully focused sprints, then deliberately recover.
+**In his words:** "Always pick the person who has less skill but is a culture fit." (nnMuox4BtbU [21:02])
+
+**Best sources:** nnMuox4BtbU [20:26 to 21:52] (30 Dec 2025); n1vbE3e8XuE [51:41] (Mar 2026); qYIKwqRvIyU [59:45] (29 Sep 2025).
+
+**Evolution / confidence:** Correction: the old repo had one culture value ("clarity over chaos"); the transcript has three. High.
+
+### 9. The team owns the company (CEO, not founder)
+
+**The idea:** "A CEO is not the owner of the company. The owner of the company is the team." Run the team like a sports team with planned recovery. Founder mode is chaos-driven momentum; CEO mode is structure, culture and clarity.
+
 **How he applies it:**
-- **40-day sprints (2025):**
-  - health, sleep and daily meditation dialed in
-  - visualizing his future self
-  - 4 to 8 focused hours a day
-  - then 10 to 20 days of travel, socializing and perspective
-  - he says grinding 60 to 180 days straight is counterproductive, and claims the sprints multiplied his results 2 to 4x (Dec 2025)
-- **Earlier versions:**
-  - 14 to 21 day sprints, then coasting (Epiphanies #3, Dec 2024)
-  - the year split into four 90-day sprints with 3 goals each (Epiphanies #10)
-  - a solo quarterly "board meeting" that stress-tests S.M.A.R.T. goals against failure modes (Epiphanies #12)
-  - as a teenager, a cascade from yearly to monthly to weekly to daily goals (about 2021)
-- **Recovery as part of performance.** Gym, sauna and ice bath one day, recovery the next (Feb 2026).
-- **For clients.** A content sprint, then a pause of about a month to build systems, then the next sprint (case study, Mar 2026).
-**Where he said it:** How i made 2025 my best year yet, principle 5 (30 Dec 2025). Epiphanies #3, #10, #12 (Dec 2024 to Apr 2025). Road to $1 million (Feb 2026). 22 year old millionaire case study (30 Mar 2026). Productivity vlog (about 2021).
-**Evolution / confidence:** High. Sprint length grew over time: 14 to 21 days, then 90-day quarters, then 40 days. The rest half became explicit after his Aug to Oct 2025 burnout (see [mindset-and-life.md](mindset-and-life.md)).
+- "I would never call myself a founder. I would call myself a CEO"; "CEO code" on his whiteboard before revenue; "The owner of the company is the team" (9SBwERbSze4 [04:48 to 05:24]).
+- Run the team like a sports team: plan recovery, rest, recreation (9SBwERbSze4 [09:17]).
+- 2026 intention: "a consistent sleep schedule, a consistent calendar ... being more of a CEO than just a founder" (6SYJFqH-RPQ [17:17 to 17:30]).
+- Clarity is the CEO's output: on a build day he had 15 competing ideas and picked one (9SBwERbSze4 [07:54]).
 
-### 11. Margins and CAC: info-business economics
-**The idea:** A high-ticket, done-with-you or system-led service with organic inbound has better economics than a deliverables agency or a physical business. He talks about margins and acquisition cost openly.
-**How he applies it (all self-reported):**
-- About 79% net profit, with about 21% costs (software plus team). No inventory and no capital expenditure. He frames this as far above agency margins (Jan 2026).
-- CAC of about $50 to $100 per client, all organic (Jan 2026). Effectively zero and all inbound (Oct 2025).
-- Prices rise with results, and a longer program upsell raises lifetime value (Oct 2025).
-- Ads come later, as an amplifier (Jan 2026). By about Sep 2026 he is learning paid media.
-**Where he said it:** $130k in 6 months (12 Jan 2026). Breaking down businesses (rec. 9 Oct 2025). Lessons working with the top 0.1% (about Sep 2026).
-**Evolution / confidence:** Medium. The method is consistent, but the numbers are unaudited, and paying staff above what revenue justified (Dec 2025) sits awkwardly with a 79% margin claim. Never present the margin as fact.
+**In his words:** "The owner of the company is the team." (9SBwERbSze4 [05:24])
 
-### 12. AI where it removes work, never where it replaces the person
-**The idea:** Use AI to remove mundane work and build faster. Never use it to fake the human part, and never adopt it out of fear of falling behind.
+**Best sources:** 9SBwERbSze4 [04:48 to 09:17] (22 Feb 2026); 6SYJFqH-RPQ [17:17 to 17:30] (rec. Dec 2025).
+
+**Evolution / confidence:** Tension: he says he has always been a CEO, yet calls 2025 founder-mode chaos. Read it as an identity he holds plus behaviour catching up. Road to $1M has no speaker labels; "the spark" line about StuKonnect [04:00] is the COO about Moksh. Medium-high.
+
+### 10. Document, then delegate (the search fund as business school)
+
+**The idea:** A process in your head can't be handed off. Over-communicate, write every process down, send daily updates, then delegate with feedback. He learned this at a search fund in Sydney.
+
 **How he applies it:**
-- **Non-technical builder.** In his search-fund internship (early 2025) he built an AI outbound voice agent that cold-called acquisition targets from a HubSpot list, and it worked. He stresses that he doesn't code (EP.60).
-- **The agency choice.** In April 2025 he weighed an AI automation agency against a creative agency, and chose creative for cash flow and the lifestyle he wanted (EP.60).
-- **Automated onboarding:** payment, contract, forms, client portal and welcome messages, built by a friend on n8n and Make.com (Oct 2025).
-- **AI scripting:**
-  - Client scripts come from a Claude workflow, with projects holding the context gathered in a client's first weeks, plus a custom prompt.
-  - Scripts must match each client's voice and never sound like AI (Oct 2025; Mar 2026).
-  - He writes his own scripts himself.
-- **Speed of build.** Humans know the product, AI builds it faster (Feb 2026 whiteboard). In the Nov 2025 live build, story-sequence messaging was drafted with Claude from the ICP and offer documents.
-- **Positioning.** AI makes strategy and tools cheap, so the human brand becomes the scarce asset (Gstaad, Sep 2026; Breaking down businesses). This lives in [personal-brand.md](personal-brand.md).
-**Where he said it:** Wiser Together EP.60 (pub. 21 Feb 2026). Breaking down businesses (rec. 9 Oct 2025). The Sanskar Show #226 (Mar 2026). Road to $1 million (21 Feb 2026). Build a brand from scratch LIVE (about Nov 2025). Gstaad (12 Sep 2026).
-**Evolution / confidence:** High on the principle. Two caveats:
-- AI isn't mentioned at all in the Jan 2026 business breakdown.
-- The "& AI" in the Road to $1M title is mostly positioning.
+- From his boss (an ex-investment banker, ex-OYO head of partnerships, INSEAD; "I was kind of like his bitch boy ... From going to the printers"): SOPs in Google Docs, daily EOD updates, over-communication (n1vbE3e8XuE [48:58 to 49:23]; AnqK0H6Uhis [41:42 to 42:02]).
+- Search fund as business school: sourcing deals = lead gen, outreach = outreach, pricing the deal = the sales process; "the reason why i'm able to like run meteor[ic] the way i am is everything i learned at search fund" (AnqK0H6Uhis [41:10 to 41:25]).
+- Delegate only after training (Epiphanies #12).
 
-Back in Dec 2022 (age 19) he already framed code and media as the leverage that needs no permission (from Naval), and said he wanted to learn to code.
+**In his words:** "Everything I learned at search fund." (AnqK0H6Uhis [41:25])
 
-### 13. Team structure and operating rhythm
-**The idea:** A remote team with clear department heads, a fixed weekly rhythm, and in-person sprints at key moments.
+**Best sources:** AnqK0H6Uhis [41:10 to 42:02] (8 Apr 2026); n1vbE3e8XuE [48:44 to 49:23] (Mar 2026); 6SYJFqH-RPQ [04:45 to 07:26] (pub. Feb 2026).
+
+**Evolution / confidence:** He uses "search fund" and "private equity" interchangeably ("a private equity search fund", xQUlUeG46hs [04:06]). Internship length: "three months ... three and a half months", unpaid (AnqK0H6Uhis [41:25 to 41:42]). High.
+
+### 11. Subtract before you add
+
+**The idea:** Most problems are solved by removing things. Busyness is not productivity. Scale by cutting systems, clients and people that weigh you down.
+
+**How he applies it:**
+- "Remove before you add" (IEuERGHU3wA [32:35]); he cut systems, clients and one team member, crediting *Essentialism* (IEuERGHU3wA [35:24]).
+- "Most people add. The best subtract" (Epiphanies #9, Feb 2025); "Eliminate > Add" and the F1 picture of lightness (Epiphanies #8).
+- Shorts era: "Elimination over addition any day of the [week]" (kE2C3Lt5-QI [00:44], Apr 2025).
+
+**In his words:** "Remove before you add." (IEuERGHU3wA [32:35])
+
+**Best sources:** IEuERGHU3wA [32:35 to 35:24] (Oct 2025); Epiphanies #8 to #10 (Feb to Mar 2025); kE2C3Lt5-QI [00:44] (22 Apr 2025).
+
+**Evolution / confidence:** Student newsletter (early 2025) into the company (late 2025). High.
+
+### 12. One offer, one customer; focus, then expand
+
+**The idea:** Early on, breadth kills you. Get one skill, one offer and one buyer working first. Expand only with capital, network and labour.
+
+**How he applies it:**
+- Product-market fit = one offer, one customer, value far above price (IEuERGHU3wA [13:37]).
+- "Don't try to solve enterprise problems when you're starting out. Get so good at a skill that it is ... foolish to not pay you" (IEuERGHU3wA [28:45]).
+- One business model until it works; expand with "capital, network, labor"; around $10,000 a month, fix health and relationships (nnMuox4BtbU [07:17 to 07:44]).
+- Two domains for 2025: "Online marketing to hold, move, and convert attention at scale and the world of finance, macroeconomics, and deals" (7KzjZKryW6k [00:00], Jun 2025).
+
+**In his words:** "If you're going for everything you're going for nothing." (k-f2AMd8-ek [14:19])
+
+**Best sources:** IEuERGHU3wA [13:37], [28:45] (Oct 2025); nnMuox4BtbU [07:17 to 07:44] (30 Dec 2025); 7KzjZKryW6k [00:00] (10 Jun 2025).
+
+**Evolution / confidence:** A real shift. In 2024 he defended being a jack of all trades (his "Jack of All Trades" Notion OS, k-f2AMd8-ek [1:03:21]); early 2025 he split his week across internship, brand and StuKonnect (Epiphanies #6). By mid to late 2025 it is focus first. Use the later view for business advice. High.
+
+### 13. AI only in the workflows that benefit
+
+**The idea:** Use AI to remove mundane work and build faster. Not "all your workflows" (he corrected a host on this), and never to fake the human part or out of fear of falling behind.
+
+**How he applies it:**
+- "The workflows that genuinely can benefit from AI", correcting the host's "all your workflows" (IEuERGHU3wA [27:16]). Onboarding automated by a friend on n8n and make.com: payment, contract, form, client portal, first messages (IEuERGHU3wA [18:31 to 18:58]).
+- Non-coder builder: at the search fund he built outbound to acquisition targets in about 20 days: Inven, then Indian freelancers, Airtable, HubSpot; letters and mass email with the principal's intro video; a Retell voice agent (chosen over Vapi) on Twilio, with Cal.com and make.com (9Ma2bozEqGM [33:44 to 38:18]). "It worked perfectly ... I don't know how to code" (6SYJFqH-RPQ [07:50 to 08:02]).
+- Context engineering, learned from Aryan Mahajan: treat AI "as a living breathing organism"; engineering context across the company is "the biggest lever" for a lean team (9Ma2bozEqGM [03:21], [06:40], [07:31]).
+- Client scripting in Claude projects: [content and distribution](content-and-distribution.md), model 17.
+
+**In his words:** "The workflows that genuinely can benefit from AI." (IEuERGHU3wA [27:16])
+
+**Best sources:** IEuERGHU3wA [18:31 to 27:16] (Oct 2025); 9Ma2bozEqGM [03:21 to 07:44], [33:44 to 38:18] (11 Aug 2026); 6SYJFqH-RPQ [07:50] (pub. Feb 2026).
+
+**Evolution / confidence:** AI is barely mentioned in the Jan 2026 breakdown; by Apr to Aug 2026 Claude is routine in fulfilment. Aryan's "business brain" for Moksh (every department, founder thinking, SOPs for agents) is Aryan's design (9Ma2bozEqGM [1:45:17]). Meteoric's systems now run on FulcrumOS [Aarya, 20 Oct 2026]. High.
+
+### 14. Relationships are the business
+
+**The idea:** Be someone worth reaching out to rather than a networker. Know what motivates the other person, connect people, and treat clients as friends. Peers, not idols.
+
+**How he applies it:**
+- "Work is never networking for me. The work is being someone that is worth reaching out to" (xQUlUeG46hs [02:57]). Know "what the other person's linchpin is" (xQUlUeG46hs [01:53 to 02:06]); act as the connector, "the glue" [03:09]; share your "wildest thoughts" over small talk [03:43].
+- Borrow across industries: retention from legacy businesses (a client kept 15 years), nurture from info products, investing from clients (xQUlUeG46hs [04:31 to 05:44]).
+- "Peers not idols": DM or meet people a few steps ahead and add value (qYIKwqRvIyU [1:03:53]).
+- "If your clients are not your best friends then you're working with the wrong people" (vT7pvIRtxaM [06:19]); "Business is relationships" (C4ckCV1xmj8 [16:27]). Client-to-client deal flow (vT7pvIRtxaM [09:52]).
+- Mentor velocity: act on advice "faster than they expect" so mentors invest more (o4YJhytDJco [00:12], Jun 2025). Help someone every week without keeping score (Epiphanies #7).
+- Two-directional network from documenting live moves ([personal brand](personal-brand.md), model 14).
+
+**In his words:** "The work is being someone that is worth reaching out to." (xQUlUeG46hs [02:57])
+
+**Best sources:** xQUlUeG46hs [01:53 to 05:44] (6 Sep 2026); qYIKwqRvIyU [1:03:53] (29 Sep 2025); vT7pvIRtxaM [06:19] (21 Oct 2025).
+
+**Evolution / confidence:** Student-era networking (2025 newsletter) grew into studio positioning. Personal circle: [mindset and life](mindset-and-life.md), model 17. High.
+
+### 15. Choose clients like you choose your environment (dream-client criteria)
+
+**The idea:** Clients are the people he spends his days with, so selection is environment design. His biggest unfair advantage at 22 is the network of clients he works with.
+
+**How he applies it:**
+- Seven criteria (he says "eight points" [07:37] but numbers seven): a different industry from his; doing better than him; real credibility; tech-inclined; taste; speed and feedback; "someone I can jam with" (pyYGdcb1V48 [01:04 to 08:12]).
+- "I'm 22 years old and the biggest unfair advantage that I have is the network of clients that I get to work with" (pyYGdcb1V48 [00:00]). All his clients are older than him (xQUlUeG46hs [00:25]).
+- "It's crazy that I get paid to work with people like yourself" (z_dxsfu9NZY [25:14]).
+- Buyer-side filters: [offers, pricing and sales](offers-pricing-sales.md), models 4 and 8.
+
+**In his words:** "We don't like overthinkers. We like action takers." (pyYGdcb1V48 [06:50])
+
+**Best sources:** pyYGdcb1V48 [00:00 to 08:12] (26 Aug 2026); xQUlUeG46hs [00:25] (6 Sep 2026).
+
+**Evolution / confidence:** One source for the list, consistent with his "learn mental models from clients" stance. The video's title ("millions don't equal a strong personal brand") is never said. Medium-high.
+
+### 16. Speed: compress the timeline and ship
+
+**The idea:** Plans expand to fill the time you give them. Cut timelines hard, ship the first version, improve from feedback. Clients pay for speed of execution.
+
+**How he applies it:**
+- "If it can be done in 2 months, it definitely can be done in 2 weeks" (p7ZODv8gmiA [00:12], Apr 2025).
+- StuKonnect pre-launch cut from 30 days to 5, "just the MVP" (Epiphanies #10, #11).
+- New flagship offer core in about 4 hours, backend the next day (9SBwERbSze4 [09:06], [10:28]); Peak Form offer and funnel in about 2 hours (wi6pyq5nXK8 [1:03:13]).
+- "Hard work does not get you anywhere. What gets you somewhere is working till you get that thing done" (nnMuox4BtbU [03:25]).
+
+**In his words:** "If it can be done in 2 months, it definitely can be done in 2 weeks." (p7ZODv8gmiA [00:12])
+
+**Best sources:** p7ZODv8gmiA [00:12] (14 Apr 2025); 9SBwERbSze4 [09:06] (22 Feb 2026); nnMuox4BtbU [03:25] (30 Dec 2025).
+
+**Evolution / confidence:** High.
+
+### 17. Agency for cash flow, India for momentum
+
+**The idea:** When young, a service business gives cash flow and lifestyle. Don't take a path where you'd only ever be "great", not the best. India is where the momentum is, and founders there should build on operator strengths, not copy Silicon Valley.
+
+**How he applies it:**
+- In Apr 2025 he weighed an AI automation agency against a creative agency and chose creative for cash flow and lifestyle (6SYJFqH-RPQ [08:14 to 08:26]); "a creative agency ... I also paid a mentor" (IEuERGHU3wA [07:01 to 07:26]).
+- His boss: "I'd obviously make a great analyst, not the best analyst" (6SYJFqH-RPQ [09:22]). The India move was his own call: "the next leap for me is going back to India because there's a bunch of momentum there" (6SYJFqH-RPQ [09:53 to 10:06]).
+- "We're ... born with operator genes": build real operations, not tech-giant imitations (IEuERGHU3wA [29:37]).
+- He chose building in India over a finance or consulting job in Sydney (Epiphanies #14, Apr 2025).
+
+**In his words:** "We're ... born with operator genes." (IEuERGHU3wA [29:37])
+
+**Best sources:** 6SYJFqH-RPQ [08:14 to 10:06] (pub. Feb 2026); IEuERGHU3wA [07:01], [29:37] (Oct 2025).
+
+**Evolution / confidence:** Correction: the "typical Indian path is freelancer then agency" critique in Road to $1M is most likely the COO's (9SBwERbSze4 [11:51 to 13:55]). High.
+
+### 18. Meteoric as a world (the vision)
+
+**The idea:** Meteoric is meant to be one ecosystem: service, consulting, info, software, events, travel, a talent pool, possibly an ads offer. He says the vision came to him on a mushroom trip.
+
+**How he applies it:**
+- "A vision I had when I was on the mushroom trip": service, consulting, info, software, events, travel, talent pool (9Ma2bozEqGM [1:56:40 to 1:57:41]).
+- Retreats as the first piece: Bali and Gili Islands, about May 2026, "first of many such trips and such masterminds" (qSNYWCyKGyo [46:08]).
+- An events company with a business partner, captioned "Asawa"/"Asava" (unconfirmed), first event Nov 2026 (w5ONkdV9OZw [14:44], [22:50]; 0jNq7A4_yOM [03:07 to 03:20]).
+
+**In his words:** none clean beyond the list.
+
+**Best sources:** 9Ma2bozEqGM [1:56:40 to 1:57:41] (11 Aug 2026); w5ONkdV9OZw [14:44], [22:50] (29 Jul 2026).
+
+**Evolution / confidence:** Vision, not yet built. Medium.
+
+### 19. Keep control; treat offers as lessons
+
+**The idea:** He doesn't take capital or control he doesn't need. When an offer comes in, he uses it to learn what the business is worth and how to make it exit-ready.
+
+**How he applies it:**
+- The 50% offer: the owner of a Bangalore marketing company with "insane revenue numbers" (unnamed by choice) offered to buy half, via a team member and then a WhatsApp call while Moksh was in London. He wasn't selling but had the conversations "just to know ... what the business could sell for"; now he thinks about structuring for an exit "in the next 2 years" (xQUlUeG46hs [09:12 to 10:17]; M8TkhDOCZlE [03:41 to 04:07]).
+- StuKonnect: by his account a Blackstone MD in Sydney offered "1.2 to 2 mil" (currency not stated); declined because the co-founder was moving abroad (H68gyWOlIy4 [06:13]).
+- An asset runs without him: the team closed a deal while he was offline (M8TkhDOCZlE [00:26]).
+
+**In his words:** "Although I run a cash flow positive business that does not require ... investor money to scale, I was like let me just still see how negotiations could run." (xQUlUeG46hs [10:05])
+
+**Best sources:** xQUlUeG46hs [09:12 to 10:17] (6 Sep 2026); M8TkhDOCZlE [03:41 to 04:07] (30 Aug 2026).
+
+**Evolution / confidence:** Correction: the old repo said "a London agency"; it was a Bangalore company, and Moksh was in London. Framing differs: "I didn't take that opportunity" (Monaco) vs "I still had those conversations" (lessons). Compatible. Medium.
+
+### 20. Team structure and rhythm (snapshots)
+
+**The idea:** A remote team with clear heads per function, a fixed weekly rhythm, and in-person time at key moments. Treat any org chart as a snapshot.
+
 **How he applies it (team as described over time):**
 
 | When | Team as described | Source |
 |---|---|---|
-| Sep 2025 | 1 editor plus a head of ops | $52k in 3.5 months workshop |
-| Oct 2025 | Started with himself and one editor (now creative director). Four departments: marketing, sales, operations, client success | Breaking down businesses |
-| Dec 2025 | 4 people plus 1 intern. First hire was an ops manager/COO | Wiser Together EP.60 |
-| Dec 2025 | Four department heads under him as CEO. Functions: sales, operations, fulfillment, marketing | How i made 2025 my best year yet |
-| Jan 2026 | Four-person core: CEO; COO (Aditya, "Adi", operations and fulfillment); creative director (visual identity, client feedback, his own edits); head of sales and setting (DMs, setting, discovery) | $130k in 6 months |
-| Feb 2026 | COO, creative director, closers, sales, ops and fulfillment, marketing | Road to $1 million |
-| 2026 site | Three principals and 4 phase owners, plus a strategist who reviews applications | Landing page |
-| Sep to Oct 2026 | Head of operations, creative director, conversion team, plus an EA | Oktoberfest; lessons video |
+| Jun 2025 | First ops manager, later COO, from the StuKonnect team | 6SYJFqH-RPQ [12:37 to 13:02] |
+| Sep 2025 | Editor pool plus a head of ops; "I have a coaching program" | qYIKwqRvIyU [1:01:35 to 1:02:09] |
+| Oct 2025 | Started as Moksh plus one editor (now creative director); four departments; one person let go within two weeks | IEuERGHU3wA [16:27], [35:38] |
+| Dec 2025 | 4 people plus 1 intern; about 35 clients | 6SYJFqH-RPQ [13:02 to 13:13] |
+| Jan 2026 | CEO; COO Aditya "Adi"; creative director (captioned Modish / Mish); head of sales (captioned "Freddy Otridge") | BU0smWywaw8 [03:36 to 04:26] |
+| Late Jan 2026 | Arjun Sharin closing | qmN62Kp4ohg [41:42] |
+| May 2026 | Adi (COO: ops, fulfilment, AI back end), creative director, Arjun (closing), Akshat; CSMs being hired | qSNYWCyKGyo [02:30], [40:18 to 41:25], [45:17] |
+| Jul 2026 | Split: Moksh = vision; Adi = execution, ops, systems; Modish = creative | 1h29rLdXY4I [11:57 to 12:20] |
+| Aug to Sep 2026 | Appointment setter, closer; Harshit helps with ads; an EA | M8TkhDOCZlE [05:46]; xQUlUeG46hs [08:21], [10:30] |
+| Oct 2026 | Head of operations, creative director, conversion team | NUp6EiXzojA [05:08] |
 
-**The rhythm:**
-- syncs twice a week (Jan 2026)
-- a weekly ops and fulfillment call on Saturdays (Feb 2026)
-- Discord and WhatsApp
-- a weekly 30 to 45 minute content and data call (Aug and Sep 2025)
+- In person: team trips (Mumbai done; Bali and Cape Town planned for 2026, nnMuox4BtbU [22:03 to 22:16]); flown-in build days (9SBwERbSze4); the team flies to clients' cities for testimonials (NUp6EiXzojA [09:09]).
 
-**In person:**
-- **Remote by default.** The team meets at key moments, and he says face-to-face time produces insights, tools and processes that don't come out over calls (Feb 2026).
-- **Flown-in build days.** The COO flew in for a private-cabin offer build (Feb 2026).
-- **Team trips** to Mumbai, with Bali and Cape Town planned (Dec 2025).
-- **The team as part of the pitch.** He shows the team on camera so prospects trust the people before they sign, and team members post their own content (Oct 2026).
-**Where he said it:** See the table. Also How i built a 130k personal brand (Aug 2025).
-**Evolution / confidence:** Medium. Roles are clear, names are not: auto-captions garble most of them, and the 2026 site names no one but Moksh. Department lists vary (three vs four, "client success" vs "fulfillment"). Treat any org chart as a snapshot.
+**Best sources:** see table.
 
-### 14. A service business is a relationship business (client service and access)
-**The idea:** Clients stay and refer when they feel looked after and get real value from the relationship. His edge is access to founders' worlds, not revenue.
-**How he applies it:**
-- **Before every relationship, he asks:**
-  - what value can I add?
-  - what actually motivates this person?
-  (Lessons, about Sep 2026.)
-- **Be worth reaching out to.** He prefers inbound networking, tries to be someone people want to contact, and acts as a connector. He shares big ideas instead of small talk (Lessons). Helping someone every week without keeping score compounds into goodwill (Epiphanies #7). Peers, not idols: DM or meet people a few steps ahead instead of idolizing them (Aug and Sep 2025).
-- **Access as payment.** In the site's founder note he says his real advantage is access, not revenue: he is paid to sit inside founders' businesses across industries and continents.
-- **Borrow across industries.** He takes retention from legacy businesses, pre-selling from info-product sellers, and investing from wealthy clients (Lessons).
-- **High-touch delivery:**
-  - always-on communication, including late-night and early-morning calls across time zones (case study, Mar 2026)
-  - hands-on WhatsApp access in the first month
-  - the team flies to clients' cities to film
-  - in-person client retreats, such as Bali (May 2026)
-  - client experience designed as a luxury, from first message to final testimonial (Oktoberfest)
-- **Perception.** He manages it deliberately, because his clients are older than him (Lessons).
-**Where he said it:** Lessons working with the top 0.1% (about Sep 2026). Epiphanies #7 (10 Feb 2025). How i built a 130k personal brand (10 Aug 2025). Landing page (2026). 22 year old millionaire case study (30 Mar 2026). "don't build a personal brand in 2026" description (30 May 2026). Oktoberfest (about 18 Oct 2026).
-**Evolution / confidence:** High. It grew from student-era networking (Epiphanies 2025) into the 2026 studio positioning. Overlaps with [offers-pricing-sales.md](offers-pricing-sales.md), model 20.
-
-### 15. Speed: compress the timeline and ship
-**The idea:** Plans expand to fill the time you give them. Cut timelines hard, ship the first version, and improve from real feedback.
-**How he applies it:**
-- He cut StuKonnect's pre-launch from 30 days to 5 and called the result "just the MVP" (Epiphanies #10, #11, Mar 2025).
-- In five days, a three-person team made 30 shorts, 4 long-form pieces and 8 story sequences.
-- He built a new flagship offer's core in about 4 hours or less, with the backend the next day (Feb 2026).
-- He built a client's full fitness offer and funnel live in about two hours (Nov 2025).
-- Fast, imperfect action. Effort is measured by completion, not hours: work until it's done, even in brutal sprints near a deadline (Dec 2025).
-**Where he said it:** Epiphanies #10, #11 (Mar 2025). Road to $1 million (21 Feb 2026). Build a brand from scratch LIVE (about Nov 2025). How i made 2025 my best year yet, principle 1 (30 Dec 2025).
-**Evolution / confidence:** High.
-
-### 16. Bet on India, and respect your own context
-**The idea:** India is where the momentum is, and Indian founders should build on their own strengths instead of copying Silicon Valley.
-**How he applies it:**
-- **Why India.**
-  - He praises India's digital stack (UPI, Aadhaar, quick commerce) and frames the period as an "Indian Decade" (Epiphanies #3, #10, #14).
-  - In April 2025 he chose to go all in on entrepreneurship in India over a finance or consulting job in Sydney (Epiphanies #14).
-  - His search-fund boss told him he'd be a great analyst but not the best one, and to lean into content and move back to India where momentum was building (EP.60).
-- **Context and "operator genes."** Indian founders from legacy business families have operator instincts. They should build real operations that solve real problems, not measure themselves against tech giants whose context (Harvard, nearby VC money) was different. He cites his own family's legacy-business roots (Oct 2025).
-- **The usual Indian path is a trap.** Freelancer, then done-for-you agency is the route most Indian social-media business influencers follow, and he positions against it (Feb 2026).
-- **India as a trust-driven economy.** Broad reach becomes authority that converts on sales calls (Sep 2025; see [personal-brand.md](personal-brand.md)).
-- **Global pricing from an Indian base.** He prices in USD and serves clients in India, the diaspora and abroad. The company operates from Mumbai (site privacy notice).
-**Where he said it:** Epiphanies #3 (31 Dec 2024), #10 (12 Mar 2025), #14 (23 Apr 2025). Wiser Together EP.60 (pub. 21 Feb 2026). Breaking down businesses (rec. 9 Oct 2025). Road to $1 million (21 Feb 2026). $52k in 3.5 months workshop (29 Sep 2025).
-**Evolution / confidence:** High. His base city is not confirmed (Jamnagar, Mumbai and Delhi all appear in sources).
-
-### 17. Keep control; treat offers as lessons
-**The idea:** He doesn't take outside capital or control he doesn't need. When an offer comes in, he uses it to learn what the business is worth.
-**How he applies it:**
-- **The acquisition offer.** A London agency offered to buy 50% of his company. He declined: he doesn't need capital or outside control, and he calls the company his baby. He used the conversation to learn valuation, which started him thinking about exit readiness within about two years (Monaco; Lessons, about Sep 2026, self-reported).
-- **StuKonnect.** By his account he turned down investment interest (about $1.2M to $2M from a Blackstone MD in Sydney). He gives the reason as his co-founder moving abroad (Aug 2025). Details differ across retellings.
-- **The test of an asset.** A business or brand that keeps running without him (team closing deals while he is offline) is his definition of an asset (Monaco).
-**Where he said it:** Monaco (about Sep 2026). Lessons working with the top 0.1% (about Sep 2026). How i built a 130k personal brand (10 Aug 2025).
-**Evolution / confidence:** Medium. Each claim rests on one or two self-reported accounts. Exit readiness is new (2026) and may grow.
+**Evolution / confidence:** Medium. Names are caption-based: COO "Adit Tevora" / "Adavorora" (consistent with Aditya Vohra, unconfirmed); creative director "Modish" across six testimonials, also Mish, Maesha, Mesh. A client calls Adi "your CEO" (oQeuKTBKVIY [07:47]) and places him in Delhi (1h29rLdXY4I [26:44]); other files say Mumbai. Adi worked on StuKonnect and freelanced before (9SBwERbSze4 [04:00], [11:51], inferred speaker).
 
 ---
 
-## Evolution summary (2020 to 2026)
+## Moved to another file (one home per model)
+
+| Model | Home |
+|---|---|
+| Work and rest like a lion (sprints) | [mindset and life](mindset-and-life.md), model 10 |
+| Peers, not idols | here, model 14 (merged from personal brand) |
+| Founders should not close their own calls | [offers, pricing and sales](offers-pricing-sales.md), model 17 |
+| Organic first, then paid media | [content and distribution](content-and-distribution.md), model 26 |
+| AI makes the human the moat (positioning) | [personal brand](personal-brand.md), model 3 |
+
+## Evolution summary (2021 to 2026)
+
 | Period | Business thinking |
 |---|---|
-| 2020 to 2021 | Personal productivity system works. First Meteoric (calisthenics coaching) dies of weak systems and burnout. |
-| 2024 to early 2025 | Student-operator: jack of all trades, three days internship, two days brand, two days StuKonnect. Learns documentation and EOD updates from his search-fund boss. Systems over everything, essentialism, 90-day sprints. |
-| Apr to Aug 2025 | Leaps into the agency. Builds the offer from Hormozi's *$100M Offers*, sells from the trenches, learns to close. |
-| Late 2025 | Lean four-person team, culture first, four departments with metrics, AI onboarding, 40-day sprints, focus before breadth. Burnout leads to an explicit rest half. |
-| 2026 | CEO identity, productized 14-phase Engine, principals and phase owners, EA, paid media, exit readiness, high-touch luxury service. |
+| May to Dec 2021 | Meteoric v1 at 17: a learning venture with structure and accountability for clients; stalls on systems |
+| 2024 to early 2025 | Student-operator, jack of all trades; search-fund internship teaches SOPs, EOD updates and deal-flow thinking; essentialism, 90-day sprints |
+| Apr to Aug 2025 | Creative agency for cash flow; offer from *$100M Offers*; sells from the trenches; learns to close |
+| Late 2025 | Lean team, culture first, department metrics, traffic-light board, AI onboarding, CEO dashboard goal, focus before breadth |
+| 2026 | CEO identity; 0 to 34+ clients with four people; red-is-the-to-do-list cadence; unmade-hire test; brand-led hiring; EA; paid media; exit thinking; Meteoric as a world; FulcrumOS under the systems [Aarya, 20 Oct 2026] |
 
-## Sources used in this file
-| Label used above | Date | Breakdown | Original |
+## Ideas from other people (do not attribute to Moksh)
+
+- **Aryan Mahajan (9Ma2bozEqGM):** the business brain [1:45:17]; mechanical vs human side [1:39:32]; "the customer is the AI" [1:57:54]; no plan B [28:46]; "$200 a month to Claude, $200 a month to Codex" [1:38:45].
+- **COO (inferred, 9SBwERbSze4):** freelancer-to-agency critique; "best ever info offer in India"; the dropout target.
+- **Host of BDB:** "AI in all your workflows" (Moksh corrected it [27:16]).
+
+## Source key
+
+| ID | Title (short) | Published | Breakdown |
 |---|---|---|---|
-| Epiphanies newsletter #2 to #15 | Dec 2024 to May 2025 | [06-writing](../06-writing/epiphanies-newsletter.md) | https://mokshs-newsletter-eea609.beehiiv.com/ |
-| Productivity vlog | about early 2021 | [04-videos](../04-videos/early-vlogs-2020-2022.md) | https://www.youtube.com/watch?v=n9GXQoWsYvE |
-| Wisdom from a 19 year old boy | 20 Jan 2023 | [04-videos](../04-videos/2023-01-20__wisdom-from-a-19-year-old.md) | https://www.youtube.com/watch?v=-MGRRBmou1U |
-| How i built a 130k personal brand | 10 Aug 2025 | [04-videos](../04-videos/2025-08-10__built-130k-personal-brand.md) | https://www.youtube.com/watch?v=H68gyWOlIy4 |
-| $52k in 3.5 months workshop | 29 Sep 2025 | [04-videos](../04-videos/2025-09-29__52k-in-3-5-months.md) | https://www.youtube.com/watch?v=qYIKwqRvIyU |
-| Breaking down businesses | rec. 9 Oct 2025 | [05-appearances](../05-appearances/2025-12__breaking-down-businesses.md) | https://www.youtube.com/watch?v=IEuERGHU3wA |
-| Build a brand from scratch LIVE | about Nov 2025 | [04-videos](../04-videos/2025-11__build-brand-from-scratch-live.md) | https://www.youtube.com/watch?v=wi6pyq5nXK8 |
-| How i made 2025 my best year yet | 30 Dec 2025 | [04-videos](../04-videos/2025-12-30__made-2025-best-year-yet.md) | https://www.youtube.com/watch?v=nnMuox4BtbU |
-| $130k in 6 months | 12 Jan 2026 | [04-videos](../04-videos/2026-01-12__130k-in-6-months.md) | https://www.youtube.com/watch?v=BU0smWywaw8 |
-| Road to $1 million in 2026 | 21 Feb 2026 | [04-videos](../04-videos/2026-02-21__road-to-1-million-2026.md) | https://www.youtube.com/watch?v=9SBwERbSze4 |
-| Wiser Together EP.60 | pub. 21 Feb 2026 | [05-appearances](../05-appearances/2026-02-21__wiser-together-ep60.md) | https://www.youtube.com/watch?v=6SYJFqH-RPQ |
-| The Sanskar Show #226 | 21 Mar 2026 | [05-appearances](../05-appearances/2026-03-21__sanskar-show-226.md) | https://www.youtube.com/watch?v=n1vbE3e8XuE |
-| High Ticket Offer LIVE | 21 Mar 2026 | [04-videos](../04-videos/2026-03-21__high-ticket-offer-best-closer.md) | https://www.youtube.com/watch?v=qmN62Kp4ohg |
-| 22 year old millionaire case study | 30 Mar 2026 | [04-videos](../04-videos/2026-03-30__22-year-old-millionaire-case-study.md) | https://www.youtube.com/watch?v=sD4R8Z4H6U4 |
-| Monaco | about Sep 2026 | [04-videos](../04-videos/2026-09__for-millionaires-from-monaco.md) | https://www.youtube.com/watch?v=M8TkhDOCZlE |
-| Lessons working with the top 0.1% | about Sep 2026 | [04-videos](../04-videos/2026-09__lessons-top-0-1-percent.md) | https://www.youtube.com/watch?v=xQUlUeG46hs |
-| Gstaad | 12 Sep 2026 | [04-videos](../04-videos/2026-09-12__for-millionaires-from-gstaad.md) | https://www.youtube.com/watch?v=Ze4JOAAvAq8 |
-| Oktoberfest | about 18 Oct 2026 | [04-videos](../04-videos/2026-10-18__for-millionaires-from-oktoberfest.md) | https://www.youtube.com/watch?v=NUp6EiXzojA |
-| Meteoric Boost landing page | 2026 | [02-meteoric-boost](../02-meteoric-boost/company.md) | https://landing.meteoricboost.com/ |
+| yfVG-XkTcBw, pXLF_xVQdPA | 17 year old entreprenuer; SNACKS and METEORIC | 17 May, 15 Jun 2021 | [early vlogs](../04-videos/early-vlogs-2020-2022.md) |
+| k-f2AMd8-ek | Wiser Together EP.52 (guest) | 10 Nov 2024 | [link](../05-appearances/2024-11-10__wiser-together-ep52.md) |
+| G0UVN3E2ZKU, p7ZODv8gmiA, kE2C3Lt5-QI, 7KzjZKryW6k, o4YJhytDJco | Shorts | Jan to Jun 2025 | [Shorts](../04-videos/shorts-2024-2025.md) |
+| H68gyWOlIy4 | How i built a 130k personal brand | 11 Aug 2025 | [link](../04-videos/2025-08-10__built-130k-personal-brand.md) |
+| qYIKwqRvIyU | $52k in 3.5 months (workshop) | 29 Sep 2025 | [link](../04-videos/2025-09-29__52k-in-3-5-months.md) |
+| IEuERGHU3wA | Breaking down businesses (guest) | rec. 9 Oct 2025 | [link](../05-appearances/2025-12-05__breaking-down-businesses.md) |
+| wi6pyq5nXK8 | Peak Form live build | 21 Oct 2025 | [link](../04-videos/2025-10-21__build-brand-from-scratch-live.md) |
+| vT7pvIRtxaM, oQeuKTBKVIY, KrPQX-qdYRI, 1h29rLdXY4I, z_dxsfu9NZY | Testimonials | Oct 2025 to Jul 2026 | [testimonials](../02-meteoric-boost/testimonials/README.md) |
+| nnMuox4BtbU | How i made 2025 my best year yet | 30 Dec 2025 | [link](../04-videos/2025-12-30__made-2025-best-year-yet.md) |
+| BU0smWywaw8 | $130k in 6 months | 13 Jan 2026 | [link](../04-videos/2026-01-12__130k-in-6-months.md) |
+| 6SYJFqH-RPQ | Wiser Together EP.60 (guest) | pub. 21 Feb 2026 | [link](../05-appearances/2026-02-21__wiser-together-ep60.md) |
+| 9SBwERbSze4 | Road to $1 million in 2026 | 22 Feb 2026 | [link](../04-videos/2026-02-21__road-to-1-million-2026.md) |
+| n1vbE3e8XuE | The Sanskar Show #226 (guest) | 21 Mar 2026 | [link](../05-appearances/2026-03-21__sanskar-show-226.md) |
+| qmN62Kp4ohg | Dialed live build | 22 Mar 2026 | [link](../04-videos/2026-03-21__high-ticket-offer-best-closer.md) |
+| AnqK0H6Uhis | PE info product live build | 8 Apr 2026 | [link](../04-videos/2026-04-08__pe-info-product-live.md) |
+| C4ckCV1xmj8 | Daksh Manocha case study | 23 May 2026 | [link](../04-videos/2026-05-23__24-year-old-ecommerce-millionaire.md) |
+| qSNYWCyKGyo | Bali retreat talk | 31 May 2026 | [link](../04-videos/2026-05-30__dont-build-personal-brand-2026.md) |
+| w5ONkdV9OZw | Studio pitch film | 29 Jul 2026 | [link](../04-videos/2026-07-29__just-22-multi-millionaires.md) |
+| 9Ma2bozEqGM | Collab with Aryan Mahajan | 11 Aug 2026 | [link](../04-videos/2026-08-11__ai-personal-branding-aryan-mahajan.md) |
+| 0jNq7A4_yOM | Millionaire's Instagram profile | 23 Aug 2026 | [link](../04-videos/2026-08-23__millionaire-instagram-profile.md) |
+| pyYGdcb1V48 | Dream-client criteria | 26 Aug 2026 | [link](../04-videos/2026-08-26__millions-dont-equal-strong-brand.md) |
+| M8TkhDOCZlE | for millionaires, from monaco | 30 Aug 2026 | [link](../04-videos/2026-08-30__for-millionaires-from-monaco.md) |
+| xQUlUeG46hs | lessons from the top 0.1% | 6 Sep 2026 | [link](../04-videos/2026-09-06__lessons-top-0-1-percent.md) |
+| NUp6EiXzojA | for millionaires, from oktoberfest | 18 Oct 2026 | [link](../04-videos/2026-10-18__for-millionaires-from-oktoberfest.md) |
+| Epiphanies #N | Newsletter | Dec 2024 to May 2025 | [link](../06-writing/epiphanies-newsletter.md) |
+| Site copy | landing.meteoricboost.com | read Oct 2026 | [company](../02-meteoric-boost/company.md) |
 
 ## Related
-- [Company](../02-meteoric-boost/company.md)
-- [Meteoric Engine](../02-meteoric-boost/meteoric-engine.md)
-- [Offers, pricing and sales models](offers-pricing-sales.md)
-- [Mindset and life models](mindset-and-life.md)
-- [Personal brand models](personal-brand.md)
-- [Timeline](../00-identity/timeline.md)
+
+- [Company](../02-meteoric-boost/company.md), [Meteoric Engine](../02-meteoric-boost/meteoric-engine.md), [Timeline](../00-identity/timeline.md).
+- [Offers, pricing and sales](offers-pricing-sales.md), [Mindset and life](mindset-and-life.md), [Personal brand](personal-brand.md), [Content and distribution](content-and-distribution.md).

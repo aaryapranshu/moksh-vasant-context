@@ -1,14 +1,16 @@
 ---
 title: Sources
 type: index
-last_updated: 2026-10-18
+last_updated: 2026-10-20
 ---
 
 # Sources
 
-Every external link cited across the repo, grouped by type. Researched October 18, 2026. Transcripts were read via auto-captions (youtubetotranscript.com) and view counts via the Return YouTube Dislike API and a Piped API listing, because YouTube blocks automated access. LinkedIn and Instagram content was not readable, so those profiles are listed but their posts are not covered.
+Every external link cited across the repo, grouped by type. First researched 18 Oct 2026 from third-party transcript sites. **On 20 Oct 2026 every YouTube source was re-read from a full timestamped transcript** stored in [transcripts/](transcripts/INDEX.md): 137 from YouTube captions (fetched with yt-dlp) and 24 transcribed locally with Whisper from the audio where YouTube has no captions. The transcripts are now the primary source; the links below are for reference. LinkedIn and Instagram content was not readable, so those profiles are listed but their posts are not covered.
 
 ## Moksh's YouTube videos (breakdowns in 04-videos/)
+
+Added 20 Oct 2026: [Watch me build a $1m private equity info product (LIVE)](https://www.youtube.com/watch?v=AnqK0H6Uhis), all 49 Shorts (see [04-videos/shorts-2024-2025.md](04-videos/shorts-2024-2025.md)), and 75 creator-era uploads (see [04-videos/early-vlogs-2020-2022.md](04-videos/early-vlogs-2020-2022.md)). Channel listings: [videos](https://www.youtube.com/@mokshvasant/videos), [shorts](https://www.youtube.com/@mokshvasant/shorts).
 
 - [for millionaires, from oktoberfest (your personal brand sucks)](https://www.youtube.com/watch?v=NUp6EiXzojA)
 - [how i'd structure a millionaire's instagram profile (live breakdown)](https://www.youtube.com/watch?v=0jNq7A4_yOM)
@@ -41,6 +43,14 @@ Every external link cited across the repo, grouped by type. Researched October 1
 - [This is why I DONT shoot film](https://www.youtube.com/watch?v=fu9pLij3dhs)
 - [The weekend that CHANGED MY LIFE !!](https://www.youtube.com/watch?v=bGt5b2CIelI)
 - [How I graduated school](https://www.youtube.com/watch?v=EDDyx-uqmLE)
+
+## Meteoric Boost testimonials channel (breakdowns in 02-meteoric-boost/testimonials/)
+
+All 10 videos on [the channel](https://www.youtube.com/channel/UCsqGTbGrDsq6CNxczCZmaJA/videos), each with a full transcript. Index: [02-meteoric-boost/testimonials/README.md](02-meteoric-boost/testimonials/README.md).
+
+## Private confirmations
+
+- Aarya Pranshu Bhardwaj (Fulcrum Labs), 20 Oct 2026: Moksh is based in Bombay; Meteoric Boost does ₹40L+ a month; its systems run on FulcrumOS. Tagged `[Aarya, 20 Oct 2026]` where used.
 
 ## Podcast episodes and show pages
 
@@ -114,7 +124,9 @@ Every external link cited across the repo, grouped by type. Researched October 1
 
 - <https://api.piped.private.coffee/>
 - <https://returnyoutubedislikeapi.com/>
-- <https://youtubetotranscript.com/>
+- <https://youtubetotranscript.com/> (first pass only, 18 Oct 2026)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp): captions, metadata and audio (20 Oct 2026)
+- [mlx-whisper](https://github.com/ml-explore/mlx-examples/tree/main/whisper), model whisper-large-v3-turbo: local transcription of the 24 videos with no captions (20 Oct 2026)
 
 ## Other
 

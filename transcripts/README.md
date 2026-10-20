@@ -1,35 +1,35 @@
 # transcripts/
 
-Full, word-for-word transcripts of every video on @mokshvasant, the Meteoric Boost testimonials channel, and each podcast appearance. This folder fills itself. Nobody needs to run anything.
+Full, word-for-word, timestamped transcripts of Moksh's YouTube videos, the Meteoric Boost testimonials channel, and every podcast appearance. [INDEX.md](INDEX.md) lists all of them, grouped, with links to their breakdowns.
 
-## How it fills
+## What's here (as of 20 Oct 2026)
 
-The repo ships with a Claude Code session hook (`.claude/settings.json`). Every time the AI opens this repo, `scripts/sync_transcripts.py` runs for well under a second. When a sync is due, it starts a background job that:
+- **161 transcripts:** 21 long-form videos from the Meteoric Boost era (including the Aryan Mahajan conversation), 6 podcast appearances (Wiser Together x3, The Sanskar Show and its re-edit, Breaking down businesses), 10 testimonial videos, 75 creator-era videos (2018 to 2024) and 49 Shorts.
+- **137 from YouTube captions** (auto-generated, fetched with yt-dlp). Names and some numbers are garbled; breakdowns record the confirmed spellings.
+- **24 transcribed locally with Whisper** (large-v3-turbo) from the audio, because YouTube has no captions for them. These include six of his most important 2026 videos, the PE info-product live build, and 13 Shorts. Whisper is cleaner than auto-captions but still not authoritative on names.
+- **Not fetched:** 13 uploads from 2017 to 2019 (music covers and school vlogs) that YouTube put behind a sign-in wall, and music covers with no speech.
+- 12 creator-era transcripts are unreadable: YouTube mis-detected the language and output Hindi script. Their breakdowns or index rows say so.
 
-1. Sets up a private Python environment in `.transcript-tools/` on the first run (nothing is installed system-wide).
-2. Pulls the six videos whose breakdowns are waiting on a transcript first, then every upload and podcast appearance.
-3. Saves one file per video here as `<video_id>__<title-slug>.md`, with the title, URL, date, duration, views, description, and timestamped transcript.
-4. Rebuilds [INDEX.md](INDEX.md) and writes `_sync_status.json`.
+## File format
 
-The first sync takes roughly 10 to 15 minutes in the background. After that it refreshes every 3 days and only downloads new uploads. If YouTube rate-limits the connection, it stops and resumes on the next session.
+`<video_id>__<title-slug>.md`. Front matter holds the title, URL, channel, published date, duration, views at fetch, `transcript_source` (captions or Whisper) and fetch date. Then the video description, then the transcript in roughly 10-second lines: `[mm:ss] text`. Cite moments as `video_id [mm:ss]`.
 
-When transcripts arrive for videos whose breakdowns are incomplete, the hook tells the AI, and `CLAUDE.md` instructs it to rebuild those breakdowns and update the mental models. New uploads get picked up the same way.
+There are no speaker labels. In podcasts, collabs and case studies, the breakdown files mark who said what.
 
-## Requirements
+## Keeping it current
 
-Python 3.9 or newer on the machine running the AI. It must be a normal home or office connection: YouTube blocks most cloud servers.
+The repo's Claude Code session hook (`.claude/settings.json`) runs `scripts/sync_transcripts.py` each session. Every 3 days it starts a background job that pulls new uploads into this folder and rebuilds INDEX.md (via `scripts/build_index.py`). It skips videos already here. When a new upload has no breakdown yet, the hook says so and `CLAUDE.md` tells the AI to add one.
 
-## If the repo sits inside a bigger workspace
+It needs Python 3.9+ and a normal home or office connection (YouTube blocks most cloud servers). New uploads with no captions won't get a transcript from the sync; transcribe those from audio with Whisper, as was done for the 24 above.
 
-Claude Code only runs hooks from the workspace root's `.claude/settings.json`. If this folder is nested inside a larger project, `CLAUDE.md` tells the AI to start the sync itself. To make it a hook too, copy the `SessionStart` block from this repo's `.claude/settings.json` into the workspace's settings and change the path to `<this-folder>/scripts/sync_transcripts.py`.
-
-## Manual commands (optional)
+If this folder sits inside a bigger workspace, the hook won't fire (Claude Code only runs the workspace root's hooks). Copy the `SessionStart` block from `.claude/settings.json` into the workspace's settings and point it at `<this-folder>/scripts/sync_transcripts.py`.
 
 ```bash
 python3 scripts/sync_transcripts.py --now     # full sync in the foreground, with a log
 python3 scripts/sync_transcripts.py --index   # rebuild INDEX.md only
 ```
 
-## Scripts and drafts
+## Still missing (and worth adding)
 
-Original scripts written before filming are even more useful than transcripts for teaching the AI how Moksh writes. Drop them in `transcripts/scripts/`.
+- **Instagram reels.** The Shorts here look like re-posts of his 2024 to 2025 reels, but nothing from 2025 to 2026 Instagram. Exporting his top 20 reels' scripts and captions into `transcripts/instagram/` would sharpen the short-form playbook more than anything else.
+- **Original scripts.** Scripts written before filming teach the AI how he writes better than transcripts do. Drop them in `transcripts/scripts/`.

@@ -98,43 +98,27 @@ def catalog():
 def transcripts_present():
     found = {}
     for f in TR.glob("*__*.md"):
-        found[f.name.split("__", 1)[0]] = f.name
+        found[f.name[:11]] = f.name  # IDs can contain "__"
     return found
 
 
 def incomplete(access):
-    return not (access.startswith("full") or access.startswith("partial"))
+    return not access.startswith(("full", "partial", "unreadable"))
+
+
+def covered_ids():
+    """IDs mentioned anywhere in a breakdown or synthesis file (tables included)."""
+    ids = set()
+    for folder in ("04-videos", "05-appearances", "02-meteoric-boost"):
+        for f in (ROOT / folder).rglob("*.md"):
+            ids |= set(re.findall(r"(?<![A-Za-z0-9_-])[A-Za-z0-9_-]{11}(?![A-Za-z0-9_-])", f.read_text(encoding="utf-8")))
+    return ids
 
 
 def build_index():
-    items, present = catalog(), transcripts_present()
-    rows = []
-    for vid, it in items.items():
-        tfile = present.get(vid)
-        rows.append((it["breakdown"], it["title"], vid, it["breakdown"],
-                     f"[{tfile}]({tfile})" if tfile else "pending sync"))
-    extra = sorted(set(present) - set(items))
-    st = read_json(STATUS) or {}
-    out = [
-        "---", "title: Transcript index", "type: index", "---", "",
-        "# Transcript index", "",
-        "Full transcripts sync into this folder automatically each time the AI opens the repo "
-        "(see [README.md](README.md)). This index is rebuilt after every sync.", "",
-        f"- Transcripts present: **{len(present)}**",
-        f"- Last sync: {st.get('finished', 'not run yet')}",
-        f"- Last sync result: {len(st.get('saved', []))} new, {len(st.get('failed', {}))} failed"
-        + (" (YouTube rate-limited the connection; the next sync resumes)" if st.get('blocked') else ""),
-        "", "## Videos and appearances with a breakdown", "",
-        "| Title | Video ID | Breakdown | Transcript |", "|---|---|---|---|",
-    ]
-    for _, title, vid, bd, tr in sorted(rows, reverse=True):
-        safe = title.replace("|", "/")
-        out.append(f"| {safe} | {vid} | [{Path(bd).name}](../{bd}) | {tr} |")
-    if extra:
-        out += ["", f"## Transcripts without a breakdown yet ({len(extra)})", "",
-                "Mostly Shorts and older vlogs. The AI adds breakdowns for the useful ones (see CLAUDE.md).", ""]
-        out += [f"- [{present[v]}]({present[v]})" for v in extra]
-    (TR / "INDEX.md").write_text("\n".join(out) + "\n", encoding="utf-8")
+    """Grouped index with breakdown links; the logic lives in scripts/build_index.py."""
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "build_index.py"), str(ROOT)],
+                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
 # ---------- background worker ----------
@@ -216,13 +200,13 @@ def hook():
                      "New transcripts land in transcripts/ over the next several minutes.")
     items, present = catalog(), transcripts_present()
     rebuild = [vid for vid, it in items.items() if vid in present and incomplete(it["access"])]
-    no_breakdown = sorted(set(present) - set(items))
+    no_breakdown = sorted(set(present) - set(items) - covered_ids())
     if rebuild:
         lines.append("ACTION per CLAUDE.md: transcripts now exist for these incomplete breakdowns; rebuild them: "
                      + ", ".join(f"{items[v]['breakdown']} (transcripts/{present[v]})" for v in rebuild[:10]))
     if no_breakdown:
         lines.append(f"{len(no_breakdown)} transcripts have no breakdown yet (see transcripts/INDEX.md). "
-                     "Add breakdowns for the ones about business, brand, or content when there is time.")
+                     "These are new since the last pass: add breakdowns for the ones about business, brand, or content.")
     if lines:
         print("[transcript sync] " + " ".join(lines))
 

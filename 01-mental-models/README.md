@@ -2,37 +2,55 @@
 title: Mental models index
 type: index
 sources: [see each file]
-last_updated: 2026-10-18
+last_updated: 2026-10-20
 confidence: high
 ---
 
 # How Moksh thinks
 
-120 mental models across five files, each with the idea, how he applies it, where he said it, and how it changed over time. Ordered inside each file from most to least central.
+122 models in five files. Each model has sources with video IDs and timestamps, a verbatim line where one exists, and a dated evolution note. All were re-checked against full transcripts on 20 Oct 2026; host, client and teammate lines are listed separately in each file. Each model has one home; other files link to it.
 
 | File | Models | Covers |
 |---|---|---|
-| [personal-brand.md](personal-brand.md) | 29 | What a founder brand is for, extraction over invention, one-of-one positioning, taste, status, proof |
-| [content-and-distribution.md](content-and-distribution.md) | 29 | Formats and their jobs, the funnel to DMs, hooks, retention, story sequences, batching, editors |
-| [offers-pricing-sales.md](offers-pricing-sales.md) | 22 | Offer building, pricing from the value of the problem, the sales process, filtering buyers |
-| [business-and-operations.md](business-and-operations.md) | 17 | Systems before scale, founder time, tracking and doubling down, team, culture, AI |
-| [mindset-and-life.md](mindset-and-life.md) | 23 | Self-image, future self, the watcher, betting on himself, bamboo growth, discipline |
+| [personal-brand.md](personal-brand.md) | 27 | What a brand is, trademark positioning, extraction, character, taste, proof, the profile |
+| [content-and-distribution.md](content-and-distribution.md) | 29 | Formats and jobs, the perception stack, hooks, story sequences, production, organic then paid |
+| [offers-pricing-sales.md](offers-pricing-sales.md) | 22 | Offer builds, value pricing, the DM funnel, calls and closing, DWY to DFY |
+| [business-and-operations.md](business-and-operations.md) | 20 | Act then systematize, lean team, the red board, hiring, AI, relationships, cash |
+| [mindset-and-life.md](mindset-and-life.md) | 24 | Self-image, future self, the watcher, action, bamboo, energy, sprints, money |
 
-## The core 10, one line each
+## The top 20, one line each
 
-1. **Trust is the product.** A founder brand exists so the right people trust you before you meet them.
-2. **Recognition, not attention.** His clients are credible inside their industry and unknown outside it. Fix that, not view counts.
-3. **Extraction, not invention.** Build from what is already true about the person. A costume brand shows.
-4. **AI makes the human scarce.** When products and strategy are cheap to copy, the trusted founder is the moat.
-5. **Who watches beats how many.** Judge content by audience quality and money made, not views.
-6. **One format, one job.** Every format exists for reach, trust, or connection. Views only matter for reach formats.
-7. **DM is the funnel.** Content, profile, story sequence, keyword DM, setter, short call, pre-sale video, one-call close.
-8. **Price from the value of the problem.** About 5% of what the problem costs the buyer, not a price set by deliverables.
-9. **Systems before scale.** His first startup broke on messy systems, so everything since is built system-first.
-10. **Act like your future self.** Set the identity, then behave as that person now.
+1. **The brand is the business.** "The personal brand is not a marketing channel. It is the business." ([PB 1](personal-brand.md))
+2. **Trademark, not niche.** A niche is a shared category; a trademark is a universe only you occupy. ([PB 4](personal-brand.md))
+3. **Extraction, not invention.** About 90% of the work is extracting what is already true. ([PB 5](personal-brand.md))
+4. **Recognition, not attention.** Be known by the right thousand; rooms money can't buy. ([PB 2](personal-brand.md))
+5. **AI makes the human the moat.** Strategy and tech are cheap; a trusted person is not. ([PB 3](personal-brand.md))
+6. **The attractive character.** Backstory, strong opinions, aspirational reality, a nemesis. ([PB 6](personal-brand.md))
+7. **Who watches beats how many.** Buyers watch silently; market messaging trumps views. ([PB 8](personal-brand.md))
+8. **The 3-second profile.** Every surface answers one question and closes one hesitation. ([PB 9](personal-brand.md))
+9. **One format, one job.** Reach, leads or connection; never chase reach and leads with one format. ([CD 1](content-and-distribution.md))
+10. **The perception stack.** His content, team content, testimonials, company page, story sequences. ([CD 3](content-and-distribution.md))
+11. **Problems are the content, solutions are the offer.** "Pain point, value." ([CD 5](content-and-distribution.md))
+12. **The hook decides the video.** Widest-TAM hook; nail the first four or five clips. ([CD 8](content-and-distribution.md))
+13. **Any objection is a content failure.** Fix it upstream. ([CD 6](content-and-distribution.md))
+14. **Price from the value of the problem.** About 5%, or a share of value created. ([OPS 1](offers-pricing-sales.md))
+15. **The offer-build method.** Three live builds: Peak Form, Dialed, Buying a business in a box. ([OPS 2](offers-pricing-sales.md))
+16. **Give the method away, charge for implementation and access.** ([OPS 15](offers-pricing-sales.md))
+17. **Act first, prove it twice, then systematize.** ([BO 1](business-and-operations.md)); red on the board is the to-do list ([BO 3](business-and-operations.md)).
+18. **Don't fill gaps with your time.** A weekly task someone else could own is a hire you haven't made. ([BO 4](business-and-operations.md))
+19. **Act like your future self.** Identity first, revenue follows. ([ML 2](mindset-and-life.md))
+20. **Trying is action.** Take the 10 steps and let them reveal themselves. ([ML 4](mindset-and-life.md))
+
+## How his thinking moved (one line per stage)
+
+- **2021 (17):** systems beat motivation; content sells a feeling; Meteoric v1 as a learning venture.
+- **2023 (19):** permissionless leverage, energy, bamboo growth, film only if you did it.
+- **2024 to mid 2025 (20 to 21):** Shorts-era one-liners (clarity of thought, leverage, elimination); jack of all trades, then focus.
+- **Late 2025:** done-with-you "coaching program", DM-only funnel, organic only, lean team, culture first.
+- **2026 (22):** "the brand is the business", trademark positioning, perception stack, done-for-you studio, paid media as a new revenue source, retainers, Meteoric as a world.
 
 ## How to use these
 
-- When writing or deciding as Moksh, load the file for the topic and follow the models in order of centrality.
-- Several models carry an "Evolution / confidence" note. Where his view changed (for example done-with-you in early 2026 vs the done-for-you partnership on the current site), use the latest view unless the task is about his history. Open conflicts are listed in [../OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md).
-- Ideas that came from podcast hosts rather than Moksh are listed separately at the end of the relevant files. Don't attribute them to him.
+- Load the file for the topic; models run from most to least central. Use the latest dated view unless the task is about his history.
+- Numbers are self-reported. Conflicts are in each file and in [../OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md).
+- Never attribute the "Ideas from other people" sections to Moksh.

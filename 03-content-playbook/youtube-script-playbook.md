@@ -1,292 +1,289 @@
 ---
 title: YouTube script playbook
 type: playbook
-sources: [H68gyWOlIy4, qYIKwqRvIyU, wi6pyq5nXK8, nnMuox4BtbU, BU0smWywaw8, 9SBwERbSze4, qmN62Kp4ohg, sD4R8Z4H6U4, HPCsujvgIvE, C4ckCV1xmj8, qSNYWCyKGyo, W3uYWLXJ4-A, w5ONkdV9OZw, 9Ma2bozEqGM, pyYGdcb1V48, xQUlUeG46hs, 0jNq7A4_yOM, M8TkhDOCZlE, Ze4JOAAvAq8, NUp6EiXzojA, 9nLoz2BYIUc, "https://www.youtube.com/watch?v=n1vbE3e8XuE", "https://returnyoutubedislikeapi.com", "https://api.piped.private.coffee"]
-last_updated: 2026-10-18
-confidence: medium
+sources: [H68gyWOlIy4, qYIKwqRvIyU, wi6pyq5nXK8, nnMuox4BtbU, BU0smWywaw8, 9SBwERbSze4, HPCsujvgIvE, qmN62Kp4ohg, sD4R8Z4H6U4, AnqK0H6Uhis, C4ckCV1xmj8, qSNYWCyKGyo, W3uYWLXJ4-A, w5ONkdV9OZw, 9Ma2bozEqGM, 0jNq7A4_yOM, pyYGdcb1V48, M8TkhDOCZlE, xQUlUeG46hs, Ze4JOAAvAq8, NUp6EiXzojA, 9nLoz2BYIUc, vT7pvIRtxaM, uncAf4Iuqdk, oQeuKTBKVIY, 1Y93OJpUHzg, KrPQX-qdYRI, oBxRdpeTjaY, k57qG2-WnwI, 1h29rLdXY4I, z_dxsfu9NZY, n1vbE3e8XuE, "../transcripts/INDEX.md", "../02-meteoric-boost/testimonials/README.md"]
+last_updated: 2026-10-20
+confidence: high
 ---
 # YouTube script playbook
 
-How Moksh Vasant (founder of Meteoric Boost, a personal brand studio for founders) structures his long-form YouTube videos: the eight video types and their templates, how he builds hooks and credibility, his retention and CTA patterns, his description layouts, his length and cadence, and which formats actually get views.
+How Moksh Vasant (founder and CEO of Meteoric Boost, a personal branding studio for founders) structures his long-form YouTube videos: the video types and their templates with real beat timings, hooks, credibility moves, retention and CTA patterns, description layouts, length and cadence, what performs, and how his testimonial videos are produced.
 
 **Read this first**
-- Covers the @mokshvasant main channel from Aug 2025 (when he restarted it as a founder channel) to Oct 2026, 20 long-form uploads. Earlier vlog-era videos are summarized in [early-era-synthesis](../04-videos/early-era-synthesis.md).
-- Transcripts were read for 14 videos, plus partial captions (no speaker labels, ending cut off) for the collab 9Ma2bozEqGM. No transcript was available for C4ckCV1xmj8, qSNYWCyKGyo, w5ONkdV9OZw, W3uYWLXJ4-A or pyYGdcb1V48, so anything said about their structure is inferred from title, description and length, and is labeled that way.
-- Caption timestamps were not available. Section timings below are estimates from where each part sits in the transcript.
-- Every revenue, follower and client figure is self-reported by Moksh. Several conflict (see OPEN-QUESTIONS.md at the repo root). Repeat them only with that qualifier.
-- Views come from the Piped API listing on 18 Oct 2026 unless marked RYD (Return YouTube Dislike, which lags by a few percent). Use them for ranking, not as exact counts.
+- Covers the @mokshvasant main channel from 11 Aug 2025 (when he restarted it as a founder channel) to 18 Oct 2026: 21 long-form uploads, plus the 10-video testimonials channel. Earlier eras: [early-era synthesis](../04-videos/early-era-synthesis.md) and [Shorts 2024 to 2025](../04-videos/shorts-2024-2025.md).
+- **Every one of the 21 now has a full timestamped transcript** (YouTube captions, or local Whisper for six). Section timings below are real timestamps from the transcripts, not estimates. Earlier versions of this file inferred the structure of five videos from titles; those sections are rebuilt.
+- A fully worked example outline built from his top video (H68gyWOlIy4) is in [script-template](script-template.md) section 2.
+- Every revenue, follower and client figure is self-reported. Several conflict (see [OPEN-QUESTIONS](../OPEN-QUESTIONS.md)).
+- Views are as of 2026-10-20 (transcript front matter).
 
-## 1. The eight video types at a glance
+## 1. The video types at a glance
 
-| # | Type | Job in his funnel | Real examples | Typical length |
+| # | Type | Job in his funnel | Real examples | Length |
 |---|---|---|---|---|
-| 1 | Own-journey playbook | Reach plus authority. His best performer | H68gyWOlIy4, qYIKwqRvIyU, BU0smWywaw8 | 31 to 67 min |
-| 2 | Philosophy or traits list (incl. the travel series) | Reach plus positioning | Ze4JOAAvAq8, M8TkhDOCZlE, NUp6EiXzojA, xQUlUeG46hs, qSNYWCyKGyo, pyYGdcb1V48, W3uYWLXJ4-A | 9 to 16 min (qSN is 47 min) |
+| 1 | Own-journey playbook | Reach plus authority. His best performer | H68gyWOlIy4, BU0smWywaw8, qYIKwqRvIyU (recorded workshop) | 31 to 67 min |
+| 2 | Traits list, travel monologue or recorded talk | Positioning | Ze4JOAAvAq8, xQUlUeG46hs, pyYGdcb1V48 (lists); M8TkhDOCZlE, NUp6EiXzojA, W3uYWLXJ4-A (monologues); qSNYWCyKGyo (Bali talk) | 9 to 16 min (talk 47 min) |
 | 3 | Teaching breakdown | Authority plus a free sample of the method | HPCsujvgIvE, 0jNq7A4_yOM | 18 to 36 min |
-| 4 | Client case study call | Sales collateral (low reach) | sD4R8Z4H6U4, C4ckCV1xmj8, testimonials channel 9nLoz2BYIUc | 17 to 31 min |
-| 5 | Live build | Product demo: viewers watch the consulting happen | qmN62Kp4ohg, wi6pyq5nXK8 | 60 min or more |
+| 4 | Client case study | Sales collateral (low reach) | sD4R8Z4H6U4, C4ckCV1xmj8 (same recording as testimonial 9nLoz2BYIUc) | 17 to 31 min |
+| 5 | Live build | Product demo: viewers watch the consulting happen | wi6pyq5nXK8, qmN62Kp4ohg, AnqK0H6Uhis | 64 to 83 min |
 | 6 | Vlog / road-to | Trust, culture, series stakes | 9SBwERbSze4 | 18 min |
-| 7 | Year review | Reflection, relationship with long-time viewers | nnMuox4BtbU | 26 min |
-| 8 | Identity proof / "our work" | Cornerstone proof video that other descriptions link to | w5ONkdV9OZw | 27 min |
+| 7 | Year review | Relationship with long-time viewers | nnMuox4BtbU | 26 min |
+| 8 | Studio pitch / "our work" | Cornerstone proof film linked from every description since Aug 2026 | w5ONkdV9OZw | 27 min |
+| 9 | Testimonial (testimonials channel) | Sent to prospects; near-zero organic reach | 10 videos, section 10 | 7 to 29 min |
 
-There is also one long collab upload with a client (9Ma2bozEqGM, "AI & Personal branding is a 9 figure play..", 2:13:14, about 5.3K views in roughly two months). From partial captions: no designed hook, just a casual greeting; origin stories in turns (guest first, then Moksh), then open debates (money, validation, AI and jobs); raw moments left in (connection drops, a recording break, mentions of the editor). Moksh steers with pointed personal questions, then names the general lesson. The title's thesis is never argued on air. It sits below most 2026 solo uploads, so treat it as a relationship and proof piece, not a template ([file](../04-videos/2026-08__ai-personal-branding-aryan-mahajan.md)).
+Collab: "AI & Personal branding is a 9 figure play.. @AryanXMahajan" (9Ma2bozEqGM, 11 Aug 2026, 2:13:13, 5,331 views). No designed hook ("What's good, bro? It's been a long time in the making", [00:01]); origin stories in turns; Moksh steers with personal questions and names the lesson; ends with his own no-sales close and a promised future collab. Treat as a relationship piece, not a template.
 
-## 2. Templates by type
+## 2. Templates by type (with real timings)
 
 ### 2.1 Own-journey playbook
-**Examples:** *How i built a 130k personal brand that Attracts Investors, Clients & Top Tier Opportunities* (H68gyWOlIy4, Aug 2025, 31:01, about 23.5K views), "How i made $52k in 3.5 months through my personal brand" (qYIKwqRvIyU, Sep 2025, 1:06:48, a recorded live workshop), "How i made $130k in 6 months through my personal brand (without ads)" (BU0smWywaw8, Jan 2026, 34:11).
-**Files:** [H68](../04-videos/2025-08-10__built-130k-personal-brand.md), [qYI](../04-videos/2025-09-29__52k-in-3-5-months.md), [BU0](../04-videos/2026-01-12__130k-in-6-months.md)
 
-| Section | Approx. timing (30 to 35 min video) | What happens |
-|---|---|---|
-| Hook and proof stack | 0:00 to 1:30 | Headline number, then 3 to 7 more proof points fast (followers, cash, ventures, copycats, clients, investor interest). Promise of "the exact system" or more value in 30 minutes than elsewhere. Sometimes "take notes". Name comes after the proof |
-| Origin as a venture ladder | 1:30 to 9:00 | Chronological: camera since 2017, the 2020 calisthenics startup, Notion templates, StuKonnect, the April 2024 content breakthrough, then Meteoric. Every rung carries a hard number and an on-screen screenshot |
-| Problem framing for founders | 9:00 to 13:00 | The "invisible founder": great work, weak brand, no warm audience, outpaced by louder people. Or (BU0) views are easy, money is rare, and positioning is the root cause |
-| Named framework | 13:00 to 30:00 | Named phases rather than numbers: Extract Your Edge, Unique Inspiration, One-of-One Brand Formula, Trust Funnel, the 4-hour-a-month system, Content Rocket Ship, Cash Cow. BU0 uses the Butterfly Effect, a live Instagram profile walkthrough, the offer build and the full sales script. One personal example and one peer example per concept |
-| Ops layer | inside the framework | Team, editors, tools (Notion, Drive, WhatsApp), weekly review call, editor pay, founder hours per month |
-| Monetization routes | near the end | High ticket, low ticket, venture arena, "peers, not idols" |
-| Vision beat | last 1 to 2 min | AI is making people replaceable, so a brand is the leverage left (H68). Or execution is the bottleneck, not information (BU0) |
-| Gated CTA | close | Book via the description only if you are a serious founder with budget; otherwise keep watching the free videos |
+**Examples:** "How i built a 130k personal brand that Attracts Investors, Clients & Top Tier Opportunities" (H68, 11 Aug 2025, 31:01, 23,552 views); "How i made $130k in 6 months through my personal brand (without ads)" (BU0, 13 Jan 2026, 34:11, 9,902); "How i made $52k in 3.5 months through my personal brand" (qYI, 29 Sep 2025, 1:06:48, 8,067). **Files:** [H68](../04-videos/2025-08-10__built-130k-personal-brand.md), [BU0](../04-videos/2026-01-12__130k-in-6-months.md), [qYI](../04-videos/2025-09-29__52k-in-3-5-months.md)
+
+| Beat | H68 (31:01) | BU0 (34:11) | Share of runtime | What happens |
+|---|---|---|---|---|
+| Hook and proof stack | 00:00 to 00:50 | 00:00 to 00:56 | 3% | H68: promise plus 8 proof points, then "no one's going to be able to give the value that I will give you in the next 30 minutes" [00:25], then his name. BU0: one contrarian line, then $103k in 5 months [00:07] |
+| Origin / business model | 00:50 to 08:37 (origin and three ventures) | 00:56 to 05:49 (model, team, margins) | 15 to 25% | H68: 2017 camera, 2020 Meteoric, Sydney, "2024 April" breakthrough, then a venture ladder: Notion template ($9,370, 1,800 customers), StuKonnect (3.42K subscribers in 5 days), Meteoric ($8.5k in 2 days). Every rung has a number. BU0: DWY vs DFY, departments, "79% net profit" |
+| Problem diagnosis | 08:37 to 13:09 | 05:49 to 10:37 | 15% | "Let me guess, you've already built something amazing" (H68 [08:49]); "Opportunity goes to louder, less capable people" [10:01]. BU0: "This is exactly what keeps people with a personal brand poor" [06:03] |
+| The payoff of fixing it | 13:09 to 16:31 (the leverage point) | inside the framework | 10% | Hiring on demand, network, "My name enters rooms before I do" [15:43], the "guess who" segment [15:56] |
+| Named framework | 16:31 to 26:04 (extract your edge, inspiration, one-of-one formula, funnel, 4-hours-a-month, content rocket ship, cash cow) | 10:37 to 32:19 (butterfly effect, funnel and live profile walkthrough, offer build, sales infrastructure, closing script) | 30 to 60% | Named phases, one personal and one peer example each. Mid-roll Calendly pitch twice in H68 [16:44], [17:21]. BU0 retention line: "You can take a screenshot of this if you want" [30:42] |
+| Outcome picture / recap | 26:04 to 29:22 | 32:19 to 33:07 | 5 to 10% | H68 restates numbers ("43,000 new followers from that one reel", [26:04]); "When you have distribution and trust, money follows" [26:29] |
+| Gated CTA and vision close | 29:22 to 31:01 | 33:07 to 34:11 | 5% | Book via the description only if serious; otherwise keep watching free videos. H68 ends on "The age of AI is starting. You're getting more and more replaceable" [30:36] and "Cha chia. Chat soon." |
 
 Notes:
-- The live-workshop version (qYI) is looser and longer: it opens on an attendee's praise, runs Q&A between framework steps, and ends inside Q&A with no spoken CTA. The description carries the ask.
-- The named phases preview the paid program's curriculum. Breadth on camera, depth sold on the call ("future videos will go deeper").
-- Title numbers can run ahead of the body: qYI's title says $52k, the body says about $40k cash in roughly 3 months.
+- The workshop version (qYI) opens on an attendee's praise [00:00], downplays the numbers [00:17], runs 19 sections with Q&A between them, and ends inside Q&A with no spoken CTA.
+- The named phases preview the paid program. He says so: deeper videos "on each part of this board" are coming (H68 [29:22]).
+- Title numbers can run ahead of the body (qYI's $52k vs "$40,000 in cash" [03:53]).
 
-### 2.2 Philosophy or traits list (and the "for millionaires, from <location>" series)
-**Examples:** "for millionaires, from gstaad (your personal brand sucks)" (Ze4JOAAvAq8, 12 Sep 2026, 14:45), "for millionaires, from monaco (your personal brand sucks)" (M8TkhDOCZlE, about Sep 2026, 9:06, about 10.3K views, the best views per minute of the 2026 travel series), "for millionaires, from oktoberfest (your personal brand sucks)" (NUp6EiXzojA, 18 Oct 2026, 9:33), "lessons i've learnt working with the top 0.1% (unfiltered)" (xQUlUeG46hs, about Sep 2026, 13:23). No transcript: "don't build a personal brand in 2026 without watching this..." (qSNYWCyKGyo, 46:56, filmed at a client retreat in Bali), "millions don't equal a strong personal brand (here's why)" (pyYGdcb1V48), "how to build a cult, not an audience." (W3uYWLXJ4-A).
-**Files:** [Gstaad](../04-videos/2026-09-12__for-millionaires-from-gstaad.md), [Monaco](../04-videos/2026-09__for-millionaires-from-monaco.md), [Oktoberfest](../04-videos/2026-10-18__for-millionaires-from-oktoberfest.md), [qSN](../04-videos/2026-05-30__dont-build-personal-brand-2026.md), [pyYG](../04-videos/2026-08-26__millions-dont-equal-strong-brand.md), [cult](../04-videos/2026-07-22__cult-not-audience.md)
+### 2.2 Traits list, travel monologue, recorded talk
 
-Two sub-shapes:
+**A. Numbered list (Gstaad, lessons, dream clients)**
 
-**A. Numbered traits (Gstaad, lessons video)**
-1. Hook (0:00 to 0:45): a pain mirror. List every format the viewer has already tried (listicles, talking heads, B-roll voiceover, life vlogs), then the agency money wasted, then the wrong audience (teenagers asking how you got rich). Diagnose the real gap: substance, not format.
-2. Credentials (0:45 to 1:30): founder count, the client revenue band (high six to nine figures), the setting ("I wrote these notes looking at the Alps").
-3. Six to twelve points. Each one runs observation, then why it works psychologically, then who it attracts. Gstaad's six: emotional range across a day (9am conviction, 3pm progress, 7pm doubt), live bets and fears, authority shown with taste and no gloating, documenting momentum to create FOMO, audience quality over views, contrarian takes and industry "icks".
-4. Quotable reframes near the end ("assets, not content", "views don't matter").
-5. Recap, a soft studio pitch gated to serious operators, a pointer to Instagram, a location sign-off.
-
-The lessons video (xQUl) swaps the pain mirror for a "documenting my thinking at 22 so I can compare later" frame, runs 12 loose lessons each anchored in an anecdote, then admits it was light on tactics and undercuts himself on the way out. No CTA.
+| Beat | Ze4 Gstaad (14:45) | xQUl lessons (13:22) | pyYG dream clients (8:59) |
+|---|---|---|---|
+| Hook | Pain mirror 00:00 to 01:27: "You've tried listical style videos. You've tried raw talking heads..." then "Honestly, none of it worked" | Frame 00:01 to 00:25: Paddington, his girlfriend's graduation, "wild thoughts... as a young founder at the age of 22" | 00:00 to 00:47: "I'm 22 years old and the biggest unfair advantage that I have is the network of clients" |
+| Credentials or method | 01:27 to 02:14: "over 80 founders from across the world" [01:27], client band "high six figures to multiple nine figures" [01:39] | (none) | 00:47 to 01:04: "I like to reflect a lot on my actions" |
+| Points | Six points, 02:14 to 13:28, 1.5 to 3 min each: the range; current moves and fears; credibility is authority; document wins; judge assets by audience quality; contrarian takes ("views don't matter", [12:24]) | **Seven numbered points plus "the last point"** (not 12), 00:25 to 11:46: perception, a people's game, inbound networks, other industries, paranoia, stillness, reference points (with add-ons: the 50% offer, paid media, an EA), feminine energy | Seven criteria, 01:04 to 07:37 (he calls them "eight") |
+| Close | 13:28 to 14:45: recap, gated CTA, Instagram, "signing off from the Swiss [Alps]" | 11:46 to 13:22: the wall-and-pot-of-gold image, "You're listening to a 22-year-old dummy on the internet." No CTA | 07:37 to 08:59: why he is in business, the logo tattoo, "yep yep" |
 
 **B. Walking story monologue (Monaco, Oktoberfest)**
-1. Location open plus an open loop (Monaco: a deal that closed while he had no phone signal).
-2. Pay off the story as proof (his team closed a client of about $6k while he was offline; the client came in presold from a podcast with a few thousand views).
-3. Pull the principle out of the story (the right 10 to 15 viewers beat view count; the brand is an asset that works while you sleep).
-4. A status beat (a London agency offered to buy 50% of the company and he declined; self-reported).
-5. An analogy (Nike and Adidas borrow pull from athletes).
-6. A tactical split (ads and outreach for the short term, a founder brand for the long term).
-7. A patience caveat (no results in two months; give goodwill first).
-8. An aspirational close. No hard CTA. The proof carries the pitch.
 
-Oktoberfest follows the same series packaging but structures the body as "ingredients of my own brand" (repositioning after reach, case studies, showing the team, the two-day research window, visual taste, angles versus assets, luxury client experience). The location appears only in the title.
+| Beat | M8Tk Monaco (9:06) | NUp6 Oktoberfest (9:32) |
+|---|---|---|
+| Open | 00:00 to 00:40: Eze Village, the Uber to Monaco, no signal; "my team closed the $6,000 deal" [00:26] | 00:00 to 00:25: payoff claim, "The day you build a brand around yourself..." |
+| Proof story | 00:40 to 01:39: client presold by "15 minutes" of a podcast with "probably... 2.7 thousand views"; onboarded within 48 hours | 01:29 to 02:32: moving up market, clients who run companies "worth millions of dollars in valuation" |
+| Principles | 01:39 to 06:54: views don't matter; specific beats broad; the declined 50% offer (from the owner of a Bangalore marketing company, while he was in London); people buy people; the asset works while you don't; short-term vs long-term channels | 00:25 to 09:21: two games; status symbol not utility; ingredients of his own brand (reach then reposition, case studies, the team, the two-day research window, visual taste, luxury as being taken care of) |
+| Personal stake | 06:54 to 07:44: doing better than the family business at its peak; "3x" what his family paid for university | (inside the luxury beat: dinner with his parents, cashmere blankets [08:46]) |
+| Close | 07:44 to 09:06: "sleeping on a goldmine", patience caveat ("if you get into it with a desire to get a result within 2 months, I'm sorry"). No CTA | 09:09 to 09:32: flying "with the entire team" to film the final testimonial in the client's home. No CTA |
 
-Numbering habit: in Gstaad and the 2025 review he loses count of his own list and says so on camera. Keep that unscripted feel; do not fake it, but do not over-polish it out either.
+The location appears only in the title and the open. He says these are unscripted ("I'm not going off a script over here", M8Tk [08:58]).
+
+**C. Unscripted activity monologue** (W3uY, "how to build a cult, not an audience.", 16:22): visual open loop ("Now you must be wondering what am I really doing here?" [00:00]), painting in an old family home, ideas on feeling, taste and extraction, a mongoose interruption left in [07:48]. The title word "cult" is never spoken.
+
+**D. Recorded talk** (qSNY, Bali retreat, 46:55): welcome and gratitude 00:00 to 02:14; agenda 02:14 to 06:14; why the brand comes first 06:14 to 13:26; symptoms vs real problems 13:26 to 16:17; trademark not niche 18:39 to 24:23; attractive character 24:23 to 27:40; perception stack 31:51 to 35:55; the Butterfly Effect 35:55 to 39:30; the lean machine 40:36 to 45:49; close "The brand is the business" 45:49 to 46:55. Slides drive the structure; one aphorism per slide.
+
+Numbering habit: he miscounts on camera (nnMu [14:43]; pyYG [07:37]; qSNY [04:28]). Do not script that, but do not polish a natural slip out either.
 
 ### 2.3 Teaching breakdown
-**Examples:** "High status aesthetics to attract the top 1% (breakdown)" (HPCsujvgIvE, about Apr 2026, 36:29, about 10.1K views), "how i'd structure a millionaire's instagram profile (live breakdown)" (0jNq7A4_yOM, about Sep 2026, 17:43).
-**Files:** [aesthetics](../04-videos/2026-04__high-status-aesthetics.md), [profile teardown](../04-videos/2026-09__millionaire-instagram-profile.md)
 
-1. Proof-stacked or stat cold open (aesthetics: his brand earned hundreds of thousands of dollars and he scaled 50+ client brands in a year; profile: the three-second first impression).
-2. A reframe or a test (taste is the moat, not scripts or tools; a four-question profile test: who you are, what you do, who it is for, is it for someone like me).
-3. "Why before how": the psychology first.
-4. A long numbered principle list, or a top-to-bottom walkthrough of his own profile as the live example.
-5. Concrete production assets (mood board, shot library, color grades; or bio, highlights, pins, grid).
-6. A "why it works" synthesis plus proof.
-7. A call CTA (Calendly onboarding call, or a strategy call pitched as for the top 0.1%), then a casual exit (he signed off one with "Ciao" on the way to the beach).
+| Beat | HPCs aesthetics (36:28) | 0jNq Instagram profile (17:43) |
+|---|---|---|
+| Hook | 00:00 to 01:46: proof stack ("over 50 personal brands of the clients that I've worked with over the last year" [00:13]) then reframe: "it's never about like what AI tool you're using" | 00:00 to 00:45: "Instagram profile architecture. You get literally 3 seconds..." then "I've built this for 50 plus founders" [00:32] |
+| Diagnosis | 01:46 to 03:05: why taste pays | 00:45 to 01:37: "the most credible person in the room, but the least legible" |
+| Framework | 03:05 to 17:40: twelve principles | 01:37: "I like to call this the 3-second profile" |
+| Walkthrough | 17:40 to 34:12: mood board, filming angles, shot types, starter pack, colour grading (five palettes) | 02:02 to 15:44: picture, bio, highlights, three pinned posts, grid, company page |
+| Close | 34:12 to 36:28: Calendly "of one of my teams or one of my partners"; "probably 70 to 80% of you have stuck around to the end"; "Ciao. Signing off." | 15:44 to 17:43: "I get introduced to that room before you do" [16:08]; "this is not for beginners. This is only for the top 0.1% of founders" [17:20] |
 
-These are free courses with implementation sold on the call. The framework-then-demo order makes them easy to clip.
+Framework first, then his own profile or work as the live example. Easy to clip.
 
-### 2.4 Client case study call
-**Examples:** "How i scaled a 22 year old Millionaire's personal brand (within 60 days)" (sD4R8Z4H6U4, Mar 2026, 31:00, about 3.5K views), "How i scaled a 24 year old ecommerce millionaire's personal brand (in 60 days)" (C4ckCV1xmj8, May 2026, 16:59, no transcript). Testimonials channel: "This ECOM founder built an illegally profitable personal brand with us" (9nLoz2BYIUc, 156 views).
-**Files:** [sD4](../04-videos/2026-03-30__22-year-old-millionaire-case-study.md), [C4ck](../04-videos/2026-05-23__24-year-old-ecommerce-millionaire.md), [testimonial](../04-videos/2026-05-21__ecom-founder-illegally-profitable.md)
+### 2.4 Client case study
 
-Template (from sD4; C4ck follows the same title and description, its body is unverified):
+| Beat | sD4 (31:00) | C4ck (16:58) |
+|---|---|---|
+| Cold-open montage | 00:00 to 00:45 (client before/after; "30.5K" in the montage is a caption error for 13.5K, see [17:10]) | 00:00 to 01:02 ("I had a very precise vision...", "more than seven clients in 60 days", "10k within like the first 60 days") |
+| Warm-up and setting | 00:45 to 01:20 (LA vs Bombay) | 01:02 to 02:15 (Bali, "the last 20 days") |
+| Who the client is | 01:20 to 03:08 | 02:15 to 03:26 |
+| Why a brand, why Moksh | 03:08 to 06:38 | 03:26 to 07:05 (incl. "why not an agency") |
+| The process | 07:04 to 16:34 (onboarding form, film characters, two pillars, editor, story sequences, offers, a setter) | 07:05 to 12:53 (brief, team building, how they work) |
+| Numbers | 16:34 to 17:49 | 12:53 to 14:36 (600k, 250k+, 100k views; "10k in 60 days. USD") |
+| Why it matters / wins | 17:49 to 26:04 | 14:36 to 15:44 (message to fence-sitters) |
+| Close | 26:04 to 31:00 (next goal 100K; mutual thanks) | 15:44 to 16:58 ("it's not just a transaction. It's not just a partnership") |
 
-| Position in video | Section |
-|---|---|
-| 0 to 2% | Cold-open montage of the client: the before and after number (about 500 to about 30.5K followers), the process felt smooth, "would have been painful alone", what they had already solved except status, praise for Moksh as a storyteller |
-| 2 to 12% | Warm-up: where are you calling from, your age, reaction to the scale of their work. Client lists their ventures |
-| 12 to 40% | Why Instagram, why lifestyle, why hire someone instead of learning it, who else they considered |
-| 40 to 66% | Process: long onboarding form, persona built from reference profiles and film characters, two pillars (storytelling first, lead magnets second), filming support, editor selection, story sequences and highlights, turnkey offers, hiring a DM setter |
-| 66 to 78% | Numbers and timeline (0 to 10K in about a month) |
-| 78 to 92% | Why build a brand at all: status, invites, warmer inbound. Recent wins |
-| 92 to 100% | Moksh's back-end and monetization point, a next goal (100K), a tease of further work together, mutual thanks |
-
-- Moksh is the host and stays the subject in the title ("How i scaled"). The client carries the claims and the advice to viewers, so it reads as overheard proof.
-- No hard spoken CTA. The description carries the booking link.
-- The client in sD4 (captions: "Arian") is likely Aryan Mahajan from the studio site's case studies, but that is not confirmed.
-- The "60 days" in the title is never stated in the body, and the two follower figures (13.5K mid-call, 30.5K in the cold open) are not reconciled. Treat title numbers as packaging.
+- Moksh is the subject in the title ("How i scaled"); the client carries the claims and the pitch to viewers. In sD4 the "propaganda" framing, "lifetime skill", "followers are cheap" and the soft pitch are the client's, not Moksh's.
+- No spoken CTA. The description carries the booking link.
+- The same C4ck recording was uploaded two days earlier on the testimonials channel as 9nLoz2BYIUc with a client-as-subject title. One recording, two packages.
 
 ### 2.5 Live build
-**Examples:** "Watch me build a profitable personal brand from scratch (LIVE)" (wi6pyq5nXK8, about Nov 2025, 1:04:01, about 8.3K views; a fitness coaching offer for a childhood friend), "How i built a High Ticket Offer for India's best closer (LIVE)" (qmN62Kp4ohg, 21 Mar 2026, about 60 to 80 min est., about 6.7K RYD; an offer called "Dialed" for his closer, Arjun, filmed in Goa).
-**Files:** [qmN](../04-videos/2026-03-21__high-ticket-offer-best-closer.md)
 
-1. Location banter or the relationship origin (no designed cold-open hook; the title and thumbnail do the hooking).
-2. The guest's proof stack, with Moksh adding numbers of his own.
-3. A quick profile audit (is the bio clear on who you help, how, with what results).
-4. The offer template, field by field: name, thesis or market gap, segmentation, headline (made concrete and conditional), ICP, pain points with the cost of doing nothing in hours and dollars, before and after states, unfair advantage, proof inventory, conservative timeline, fulfillment, funnel, pricing from value math, capacity cap, launch assets.
-5. Story sequence or messaging drafted on screen (wi6p: the messaging was drafted with Claude from the ICP and offer docs, per Moksh).
-6. Results teaser or an upbeat sign-off (qmN ended on scaling it "to the moon").
+| Beat | wi6p Peak Form (1:04:01, Oct 2025) | qmN Dialed (1:22:54, Mar 2026) | AnqK PE info product (1:23:12, Apr 2026) |
+|---|---|---|---|
+| Open | 00:00 to 02:55: no designed hook; "my childhood best friend" and how the brand started | 00:00 to 02:11: "What's good Mr. Arjun [Sharin]?... We're in Goa"; Arjun's proof | 00:00 to 01:04: **cold-open montage** of the session's best lines (new for the series) |
+| Board / setup | Miro board handed over on arrival | 04:38 name ("Dialed"); 05:16 to 09:18 market gap | 10:12 to 14:01: four sections (offer, ICP, traffic and lead gen, sales process), then an asset audit |
+| Offer fields | 03:07 headline; 05:43 ICP; 11:13 problems; 14:42 dream outcome and price ($1,500 for 4 months); 15:43 to 46:50 program built live | 09:50 B2B headline; 13:24 ICP; 15:05 pains and hourly-value math; 21:13 edge; 29:59 B2C side; 39:23 proof inventory; 45:42 retention | 16:39 to 33:23 traffic by platform; 33:23 offer; 49:21 problem stack (he asks for 5 problems, pushes to 10, lands 9); 55:51 solutions and the name "Buying a business in a box" |
+| Funnel | 46:50 two-call close; 50:47 Calendly page and quiz | 57:56 profile funnel ("This is what we follow at Meteoric") | 59:44 profile; 1:02:44 sales funnel and Loom pre-sale |
+| Assets | 54:46 to 1:02:48: 9-frame story sequence | 1:01:15 launch kit and formats; 1:05:49 to 1:15:58 pricing | 1:09:50 to 1:23:12: content formats by funnel stage |
+| Close | 1:02:48: "launching an offer within a span of I think 2 hours"; promised update video (none found) | 1:17:02 launch checklist recap; Bali retreat tease | Ends inside the formats section |
 
-Devices: live arithmetic (including visible slips), Moksh restating the guest's answer as a crisp line, warm insults and banter, a literal water break. No spoken CTA in either; the booking link sits in the description.
+Devices: live arithmetic with visible slips, Moksh restating the guest's answer as a rule ("Clients want action items", wi6p [20:34]), warm banter, swearing (bleeped). No spoken CTA; the description carries "Work with me" or "Speak to my team".
 
-### 2.6 Vlog / road-to
-**Example:** "Road to $1 million in 2026 (through my personal brand & AI)" (9SBwERbSze4, Feb 2026, 18:08, about 5.4K views). **File:** [9SB](../04-videos/2026-02-21__road-to-1-million-2026.md)
+### 2.6 Vlog / road-to (9SB, 18:07)
+Cold open in a private cabin with his COO 00:04 to 01:15 (weekly cadence: sales, ops and fulfilment, marketing, full-team calls); the offer being built 01:15 to 02:03; culture and how the COO joined 02:51 to 04:35; "I would never call myself a founder. I would call myself a CEO" 04:48; deep work 07:06; "run your team like a sports team" 09:06; the dropout bet 16:47 to 17:33. **Speaker correction:** the info-coaching critique (11:51 to 15:27), the Delhi line [15:51] and most likely the dropout bet are the COO's, not Moksh's. The $1M in the title is never discussed.
 
-1. In medias res: a private cabin, his COO flew in, they are building a new flagship offer. No numbers up front.
-2. Work-in-progress scenes (whiteboard, deep-work protocol, team talk).
-3. Philosophy riffs set off by the work: CEO not founder, info coaching versus agency, implementing with clients not for them, the fitness-trainer analogy.
-4. Next-day plan and city comparisons (Delhi versus Mumbai).
-5. A public, falsifiable stake as the climax: two consecutive $50k months, then drop out of his degree and take the team and clients to Bali. (Other sources say he finished his economics degree; this is unresolved.)
-6. Energetic sign-off. No spoken CTA.
+### 2.7 Year review (nnMu, 26:10)
+Credential stack 00:00 to 00:50 (his one greeting open of the era: "Hi, what's good people?"); setting and disclaimer 00:50 to 02:21 (Dubai Airbnb, a cigar, "It's not that I'm just bragging" [01:56], "the 12 things that I've learned"); twelve principles 02:21 to 24:59, each about 2 minutes (name it, lesson, story with a number, caveat); close 25:12 to 26:10: thanks to viewers "since 2017", a promised separate video, "cha chia". No booking link.
 
-The $1M in the title is never discussed and AI gets about one mention. He uses titles as aspirational positioning.
-
-### 2.7 Year review
-**Example:** "How i made 2025 my best year yet (hear me out...)" (nnMuox4BtbU, 30 Dec 2025, 26:11, about 13.6K views). **File:** [nnMu](../04-videos/2025-12-30__made-2025-best-year-yet.md)
-
-1. Credential stack in about 60 seconds: name, age 22, founder and CEO, about 143K followers, about $110K from an offer launched five months earlier, making videos since 2017 (all self-reported).
-2. Humble pivot: the numbers are not the point; it all started with talking to a camera.
-3. Sensory setting (Dubai Marina, yachts, a cigar) plus a "not bragging" disclaimer.
-4. Value promised to two audiences: people ahead of him and people starting out.
-5. Twelve principles from his journal. Each runs: name it, the lesson, a personal story with a real number, then a caveat (emergency fund first; ruthless means decisive, not cruel).
-6. Close: thank viewers since 2017, welcome new ones, promise a separate video on the last two years. No booking link, no subscribe ask.
-
-### 2.8 Identity proof / "our work"
-**Example:** "i'm just 22 and i work with multi-millionaires to build their personal brands." (w5ONkdV9OZw, 29 Jul 2026, 26:45, about 8.5K views). **File:** [w5O](../04-videos/2026-07-29__just-22-multi-millionaires.md)
-
-No transcript. What is known: later descriptions (Gstaad onward) link it as "Our work", so it is the channel's cornerstone proof film, and its length matches the studio site's studio film. A structure for a new video of this type, **inferred** from its role and his other proof videos rather than from its content: age-versus-status hook, studio and team on screen, client results and testimonial clips, how the work is done, the kind of founder it is for, a gated booking line. Replace this section once the transcript is in `transcripts/`.
+### 2.8 Studio pitch / "our work" (w5ON, 26:45)
+Now transcribed. Testimonial montage 00:00 to 01:57; hook 01:57 to 02:44 ("There are certain rooms in this world that money can't buy you access into"); promise 02:44 to 03:17; pain mirror 03:17 to 04:47 ("You've got a nine-figure career and a 500 follower Instagram account" [03:34]); why copying fails 04:47 to 05:26; positioning 05:26 to 08:18; the process in eight steps 08:18 to 11:58; client roll call read "from a list... in my hand" 11:58 to 20:35; family not vendor, network, retreat 20:35 to 23:26; FAQ 23:26 to 25:45; two-door CTA and "It's time to go from mediocre to meteoric." 25:45 to 26:45. Scripted and narrated. It is the "Our work" link in every description since 23 Aug 2026; whether it is also the site film "This Is Meteoric" is unconfirmed (runtime match only).
 
 ## 3. Hook construction
 
-His hooks share four constants across every transcript read:
-1. **A scroll-breaking first line.** A contrarian contrast, a pain mirror, a client's before state, a location drop, or a vivid scene. His own rule (Sanskar Show #226): a hook has to interrupt the viewer's scrolling pattern. He said this about reels, but his YouTube openings follow it.
-2. **A hard number inside the first minute.** Followers, dollars, founder count, client revenue band, close rate.
-3. **Two to seven rapid proof points.** Stacked fast, not explained.
-4. **A countable promise.** "The exact system", "six things", "12 lessons", "behind the scenes of", "in about 30 minutes".
+Verbatim first-15-second openings of every top video are in [titles-hooks-ctas](titles-hooks-ctas.md) section 5.1. The constants across the scripted 2025 to 2026 openers:
+1. **A scroll-breaking first line:** a promise ("What I'm going to show you today is the exact system...", H68), a contrast (BU0), a pain mirror (Ze4), a claim (NUp6, pyYG), a stat (0jNq), or a third-party voice (w5ON, sD4, C4ck).
+2. **A hard number inside 15 seconds** in every scripted opener.
+3. **Proof before name.** In 2025 his name comes about 25 seconds in (H68 [00:25]). In 2026 scripted videos he often never says it.
+4. **A countable promise:** "the exact system", "in the next 30 minutes", "six things", "the 3-second profile".
 
-Hook archetypes (pick one per script):
-
-| Archetype | Pattern | Examples |
-|---|---|---|
-| Result-first proof stack | Headline number, then more proof, then promise | H68, nnMu, HPCs |
-| Contrarian contrast | Anyone can get X; almost nobody gets Y; here is my Y | BU0 (views versus revenue) |
-| Pain mirror | List what the viewer already tried and paid for, then diagnose the real gap | Ze4 |
-| Third-party cold open | A client or attendee speaks first and gives the before and after; Moksh speaks second | sD4, qYI |
-| Situational cold open | Drop into a place plus a live task or reflective moment | 9SB, nnMu, qmN |
-| Location plus open-loop story | Beautiful place, a promised story, pay it off as proof | M8Tk |
-| Stat plus test | A striking stat, then a framework the viewer can score themselves on | 0jNq (three-second impression, four questions) |
-| Benefit claim plus "my own playbook" | State the payoff (premium pricing), promise to break down his own brand as the example | NUp6 |
-| Future-self frame | "I'm documenting this so I can compare later" | xQUl |
+His rule for the intro of a pre-sell video, said in a live build: "The intro needs to be about the other people" (AnqK [1:05:00]).
 
 ## 4. Credibility moves
 
-1. **Proof before identity.** The results come before his name (H68), a third party speaks before he does (qYI, sD4), or the credential stack comes before the topic (nnMu, HPCs).
-2. **Then downplay.** Right after the stack he says the numbers are not the point (qYI, nnMu), or that the setting is context, not a flex. The pattern is: stack, then humility, then the real reason.
-3. **Restraint as status.** His own rule (Ze4): show past work calmly; gloating gives people the ick. Flex taste, not price tags (HPCs).
-4. **Status beats told as asides.** Turned-down capital (a Blackstone MD's interest in StuKonnect, about $1.2M to $2M, per his account; a London agency's offer for 50% of Meteoric), deals closing while he is offline, presold inbound, older and richer clients.
-5. **Youth against status.** Age 22 set against millionaire clients, or the client's age set against their wealth. Used in titles and hooks.
-6. **Borrowed validation.** An IPO-bound enterprise leader praising his systems, expensive mentors whose back ends are weaker than his (9SB), name-drops (Russell Brunson, Chris Williamson, Jay Shetty, Hormozi).
-7. **Location as proof.** He films the lifestyle the brand pays for: Gstaad, Monaco, Munich, a Bali retreat, Dubai Marina, Goa, a private cabin.
-8. **Receipts on screen.** Screenshots of follower counts, reel views and ventures (H68), a live profile walkthrough (BU0, 0jNq).
+1. **Proof before identity** (H68, nnMu, HPCs), or a third party speaks first (qYI, sD4, C4ck, w5ON).
+2. **Then downplay:** "at the end of the day numbers don't mean..." (qYI [00:17]); "It's not that I'm just bragging" (nnMu [01:56]).
+3. **Restraint as status:** "The actual top 1% does not care about you showing them that you're making a lot of money, but they care about taste" (HPCs [11:32]). "You don't argue credibility. You simply stack it" (0jNq [12:27]).
+4. **Status told as asides:** a Blackstone MD's interest in StuKonnect ("1.2 to 2 mil", no currency, H68 [06:13]); the 50% offer from the owner of a Bangalore marketing company, which he declined (M8Tk [03:29] to [04:07]; xQUl [09:12]); a deal closed while he had no signal (M8Tk [00:26]).
+5. **Youth against status:** "I'm 22 years old and the biggest unfair advantage that I have is the network of clients" (pyYG [00:00]); "all of my clients are older than me" (xQUl [00:25]).
+6. **Borrowed validation:** name-drops (Huberman "was in touch with me", Daniel Dalen, BeerBiceps, H68 [10:13] to [11:02]).
+7. **Location as proof:** Gstaad, Monaco, Munich, Bali, Dubai Marina, Goa, London.
+8. **Receipts on screen:** follower and reel screenshots (H68), live profile walkthroughs (BU0, 0jNq), a client list read aloud (w5ON).
 
 ## 5. Retention devices
 
-- **Number density.** Almost every segment carries a figure. This is his main retention tool.
-- **Numbered promises.** Viewers stay to collect the list: six traits, 12 lessons, four formats, four story-sequence types.
-- **Open loops.** "That's a separate video", a target he withholds, a deal "pretty confident we will close", a framework introduced early and paid off later, the rest of the system held for the paid offer.
-- **Stories with a number in them.** The day-one $1k template sales after a flight, the scratched Ferrari rim and about $6k in fines, the Mumbai rooftop waiter who comped his bill, the deal closed with no phone signal.
-- **Direct address.** "Let me guess...", rhetorical questions, "think about that", "sorry to break it to you". Second person throughout.
-- **Refrain lines.** Short slogans to wrap a section (see [voice-and-language](voice-and-language.md)).
-- **Polarizing lines.** "your personal brand sucks", "views don't matter", self-labeled contrarian takes.
-- **Audio and visual interrupts.** Music between sections, bell cues, bleeped swearing, props (cigar, mala beads), a sudden tonal shift from business to spirituality.
-- **Public stakes.** A revenue target tied to a life decision, which hooks the next video.
+- **Number density.** Almost every segment carries a figure.
+- **Numbered promises.** Six traits, seven lessons, twelve principles, four story-sequence types.
+- **Open loops.** "I will dive into my story over the last year and a half... in another video" (nnMu [25:25]); deeper videos promised (H68 [29:22]); a held-back framework.
+- **Stories with a number.** "$1,000 in my bank account from just sales on the first day" (H68 [04:39]); "my team closed the $6,000 deal" (M8Tk [00:26]).
+- **Direct address.** "Let me guess" (H68 [08:49]); "Tell me one person you know right now on the algorithm that can do that" (H68 [07:16]); "I'm sorry to break it to you" (Ze4 [05:33]).
+- **Screenshot permission.** "You can take a screenshot of this if you want." (BU0 [30:42])
+- **Refrain lines** and coined labels (see [voice-and-language](voice-and-language.md) section 3).
+- **Polarizing lines.** "your personal brand sucks" (titles); "views don't matter" (Ze4 [12:24]).
+- **Audio interrupts.** Music between sections ([music] tags run through every 2026 transcript), bleeped swearing, props (cigar, paintbrush), a live interruption left in (the mongoose, W3uY [07:48]).
+- **Public stakes.** A revenue target tied to a life decision (9SB).
 
-Rule of thumb from his structure: a new device every 60 to 90 seconds (a loop, a numbered checkpoint, a question, an interrupt, a refrain).
+Rule of thumb from the timings above: a new section or device every 1.5 to 3 minutes in a 9 to 15 minute video; every 3 to 5 minutes in a 30-minute playbook.
 
 ## 6. CTA patterns by type
 
-| Type | Spoken CTA | Where the real ask lives |
+Verbatim spoken CTAs and the dated description history are in [titles-hooks-ctas](titles-hooks-ctas.md) section 6.
+
+| Type | Spoken CTA | Where the ask lives |
 |---|---|---|
-| Own-journey playbook | Gated: book via the description only if you are a serious founder or operator with budget; everyone else keep watching free videos; DM "METEORIC"; check the Start Here and Clients highlights | Description |
-| Traits list (Gstaad) | Soft studio pitch gated to serious operators, then Instagram for a closer look at his life | Description |
-| Travel story monologue (Monaco, Oktoberfest) | None. The proof carries the pitch | Description |
-| Teaching breakdown | Calendly onboarding or strategy call, pitched as exclusive | Description |
-| Case study | None, or "expect the same energy from my team" | Description (booking plus testimonials) |
-| Live build | None. Sometimes a limited-spots line inside the content (10 spots in qmN) | Description |
-| Vlog / road-to | None. The stake itself is the reason to come back | Description |
-| Year review | Relational: thanks, welcome, next-video tease | Instagram link only |
+| Own-journey playbook | Gated: book from the description only if serious, otherwise keep watching free content (H68 [30:12] to [30:36]; BU0 [33:26] to [33:50]) | Description |
+| Traits list | Gated, plus Instagram "where I'm documenting my life a lot more intimately" (Ze4 [14:06] to [14:29]); none in xQUl and pyYG | Description |
+| Travel monologue | None (M8Tk, NUp6) | Description |
+| Teaching breakdown | Calendly onboarding or strategy call, "only for the top 0.1% of founders" (0jNq [17:20]) | Description |
+| Case study | None | Description |
+| Live build | None in the body | Description |
+| Vlog / road-to | None | Description |
+| Year review | Relational thanks, no ask (nnMu [25:50]) | Instagram link only |
+| Studio pitch | Two doors (w5ON [25:45] to [26:16]) | Description |
+| Recorded talk | "Let's get it." (qSNY [46:49]) | Description |
 
-Notes:
-- He never pleads for likes or subscribes in the 2025 to 2026 videos. That was his 2021 habit.
-- Budget thresholds in the BU0 CTA were inconsistent (multiple five figures, $3k to $5k, and $300 to $5,000 at one point). When writing a gated CTA, use a qualifier word ("serious founders", "serious operators") rather than inventing a number, unless Moksh supplies one.
-- His stated philosophy behind the soft CTAs is in every 2026 description: give all the value away free and charge for implementation.
+- No like or subscribe request in any readable transcript of his own, in any era.
+- Budget thresholds he has spoken are inconsistent (BU0: "multiple five figures", "$3,000", "$5,000", "$300 to $5,000" within 25 seconds). Use qualifier words, not numbers, unless Moksh supplies one.
 
-## 7. Description templates
+## 7. Description templates (dated)
 
-| Version | Period and videos | Layout |
+| Version | Period | Layout (verbatim lines) |
 |---|---|---|
-| v1: solo coach | Aug 2025 to Jan 2026 (H68, qYI, BU0) | Happy to answer any questions. Instagram handle. Optional DM "METEORIC" line. A 1-on-1 call line with an investment qualifier ("Multi USD 4 figure Investment", "For serious founders only"). Calendly under his own name |
-| v1b: personal | Dec 2025 (nnMu) | Instagram link only |
-| v2: team plus proof | Feb to May 2026 (9SB, qmN, sD4, C4ck, qSN) | "Speak to my team" or "get in touch" with a Calendly under a team member's name (arjun-meteoricboost). Instagram (Moksh). Testimonials: Instagram @meteoric.boost or the testimonials YouTube channel. qmN adds the guest's Instagram. qSN adds a short paragraph on the client retreat and in-person relationships. Tagline: "We give away all the value for free & charge for the implementation", signed as the Meteoric Boost way with a 🐐 |
-| v3: studio positioning | Jul to Sep 2026 (w5O, Ze4) | Founder intro line (founder of Meteoric Boost, a personal branding studio that builds brands for millionaires). Proof line (80+ brands scaled in the past year, self-reported). Testimonials channel. 60-minute booking link. "Our work" link to w5ONkdV9OZw. Instagram |
+| v1: solo coach | Aug 2025 to Jan 2026 (H68, qYI, wi6p, BU0) | "Happy to answer any questions" + Instagram + "If you want to have a 1 on 1 chat to see if you are a good fit working with me (Multi USD 4 figure Investment) (For serious founders only):" + calendly.com/mokshvasant-meteoricboost/30min (60min by Jan 2026). qYI adds "Dm me the word 'METEORIC' on instagram" and @meteoric.boost |
+| v1b: personal | Dec 2025 (nnMu) | Instagram only |
+| v2: team | Feb to Jul 2026 (9SB, HPCs, qmN, sD4, AnqK, C4ck, qSNY, W3uY) | "get in touch:" / "Speak to my team:" / "work with me:" / "Work with us:" / "Speak to team meteoric:" + calendly.com/arjun-meteoricboost (30min in Feb, then 60min) + "IG (Moksh)" + "IG (Testimonials)" or the testimonials channel + "We give away all the value for free & charge for the implementation, The Meteoric Boost way 🐐". qmN adds the guest's Instagram; qSNY adds a paragraph on the client retreat; AnqK opens "In this video, i build an extremely unique consulting offer..." |
+| v3: studio | 29 Jul to 13 Sep 2026 (w5ON, 0jNq, pyYG, M8Tk, xQUl, Ze4) | "I'm Moksh, the founder of Meteoric Boost, a personal branding studio where we build the top 0.1% personal brands for Millionaires" + (w5ON) "80+ brands scaled in the past year. This is the process, documented." + "Book a call with us:" arjun-meteoricboost/60min + "Our work: https://youtu.be/w5ONkdV9OZw" + Instagram |
+| v3b: site | 18 Oct 2026 (NUp6) | Same as v3, but "Book a call with us: https://www.meteoricboost.com/" |
 
-Other description facts: no chapters on any video checked; category set to Entertainment, not Education; very few tags (Ze4 had five: how to build a personal brand, personal branding, gstaad, moksh vasant, millionaire); the brand name drifts from "Meteoric" (2025) to "Meteoric Boost" (2026).
-
-Links used in descriptions: Instagram @moksh.vasant, Instagram @meteoric.boost (testimonials), YouTube @mokshvasanttestimonials, the team Calendly (calendly.com/arjun-meteoricboost, 60 min), and "Our work" (youtu.be/w5ONkdV9OZw). Who "Arjun" is: probably Arjun Sharin, the closer from qmN, judging by matching names. Not confirmed.
-
-Use v3 for any new video unless Moksh says otherwise.
+No chapters on any main-channel description. 9SB links the testimonials channel by channel ID (`/@UCsqGTbGrDsq6CNxczCZmaJA`). Use v3b for a new video unless Moksh says otherwise.
 
 ## 8. Length and cadence
 
-**Confirmed durations (Piped, Oct 2026):**
+**Durations (transcripts):**
 
 | Range | Videos |
 |---|---|
-| Under 10 min | Monaco 9:06, Oktoberfest 9:33, millions-don't-equal 8:59 |
-| 10 to 20 min | lessons 13:23, Gstaad 14:45, cult 16:22, ecommerce case study 16:59, Instagram teardown 17:43, road-to vlog 18:08 |
-| 20 to 40 min | 2025 review 26:11, "i'm just 22" 26:45, 22-year-old case study 31:00, 130k brand 31:01, $130k business 34:11, aesthetics 36:29 |
-| 40 min plus | don't-build (Bali) 46:56, live build 1:04:01, $52k workshop 1:06:48, Aryan Mahajan collab 2:13:14; qmN about 60 to 80 min (estimate) |
+| Under 10 min | pyYG 8:59, M8Tk 9:06, NUp6 9:32 |
+| 10 to 20 min | xQUl 13:22, Ze4 14:45, W3uY 16:22, C4ck 16:58, 0jNq 17:43, 9SB 18:07 |
+| 20 to 40 min | nnMu 26:10, w5ON 26:45, sD4 31:00, H68 31:01, BU0 34:11, HPCs 36:28 |
+| 40 min plus | qSNY 46:55, wi6p 1:04:01, qYI 1:06:48, qmN 1:22:54, AnqK 1:23:12, 9Ma2 2:13:13 |
 
-**Pattern:** the travel monologues (Sep to Oct 2026) run under 15 minutes. Teaching and proof videos stay at 15 to 37 minutes. Live sessions run an hour or more.
-
-**Cadence of the 2025 to 2026 main channel (20 long-form videos in about 14.5 months):** Aug 10, Sep 29, about Nov, Dec 30 (2025); Jan 12, Feb 21, Mar 21, Mar 30, about Apr, May 23, May 30, Jul 22, Jul 29, about Aug (collab), Aug 26, about Sep (three: Monaco, lessons, Instagram teardown), Sep 12, Oct 18 (2026). Roughly one to two a month, often in pairs a week apart, with a burst of about five between late Aug and mid Oct 2026. Gaps of 1.5 to 3 months happened in late 2025 and mid 2026. In the Monaco video he says he made about 15 YouTube videos in six months.
-- Dates marked "about" come from Piped's relative dates, not exact upload dates.
-- Two videos were premieres (qYI, sD4). Ze4 went up at 23:30 Pacific, which is morning in India, his core audience.
-- About 115 of the channel's 169 uploads are probably Shorts that could not be listed.
-- Context: in Dec 2024 (Epiphanies #2) he planned to grow on Instagram first and move that audience to YouTube and email. YouTube is his long-form trust layer, not his reach engine.
+**Cadence, exact publish dates:** 2025: 11 Aug, 29 Sep, 21 Oct, 30 Dec. 2026: 13 Jan, 22 Feb, 21 Mar, 22 Mar, 31 Mar, 8 Apr, 23 May, 31 May, 22 Jul, 29 Jul, 11 Aug, 23 Aug, 26 Aug, 30 Aug, 6 Sep, 13 Sep, 18 Oct. That is 21 in about 14 months, often in pairs a week apart, with a burst of seven between 11 Aug and 13 Sep 2026 and gaps of about 2 months (Oct to Dec 2025, Jun to Jul 2026). In Monaco he says he made "about 15 YouTube videos in the last 6 months" (M8Tk [02:50]).
+- Shorts: 43 between 27 Sep 2024 and 10 Jun 2025, none since ([shorts-2024-2025](../04-videos/shorts-2024-2025.md)).
+- YouTube is his trust layer: "YouTube lower visibility but higher conversion" (qYI [50:23]); the link in his Instagram bio is a long-form video (0jNq [03:33]).
 
 ## 9. What performs best
 
-| Type | Videos and views (Oct 2026) | Average |
+| Type | Videos and views (2026-10-20) | Average |
 |---|---|---|
-| Own-journey playbook | H68 23.5K, BU0 9.9K, qYI 8.1K | about 13.8K |
-| Year review | nnMu 13.6K | 13.6K |
-| Teaching breakdown | HPCs 10.1K, 0jNq 6.3K | about 8.2K |
-| Identity proof | w5O 8.5K | 8.5K |
-| Live build | wi6p 8.3K, qmN 6.7K (RYD) | about 7.5K |
-| Philosophy / travel series | Monaco 10.3K, lessons 9.3K, Gstaad 7.9K, don't-build 6.6K, cult 3.7K, millions-don't-equal 1.4K (Oktoberfest excluded: one day old) | about 6.5K |
-| Vlog / road-to | 9SB 5.4K | 5.4K |
-| Collab | 9Ma2 5.3K | 5.3K |
-| Client case study | sD4 3.5K, C4ck 3.2K | about 3.4K |
-| Testimonials channel | 9nLo 0.16K | 0.16K |
+| Own-journey playbook | H68 23,552; BU0 9,902; qYI 8,067 | about 13,800 |
+| Year review | nnMu 13,617 | 13,617 |
+| Studio pitch | w5ON 8,629 | 8,629 |
+| Teaching breakdown | HPCs 10,114; 0jNq 6,354 | about 8,200 |
+| Live build | wi6p 8,342; qmN 7,057; AnqK 6,436 | about 7,300 |
+| Traits, monologue, talk | M8Tk 10,379; xQUl 9,328; Ze4 7,978; qSNY 6,614; W3uY 3,675; pyYG 1,395 (NUp6 excluded: two days old) | about 6,600 |
+| Vlog / road-to | 9SB 5,443 | 5,443 |
+| Collab | 9Ma2 5,331 | 5,331 |
+| Client case study | sD4 3,552; C4ck 3,190 | about 3,400 |
+| Testimonials channel | 241 to 1,324 (10 videos) | about 580 |
 
-What this says (directional only: about 20 data points, and older videos have had longer to collect views):
-- **Own-journey videos outperform case studies by about four to one.** Self-focused "How i built / How i made" titles about Moksh's own numbers are his strongest format. The top two videos of the era are both about his own year or his own brand.
-- **Case studies are his weakest main-channel format.** Third-party proof converts buyers but does not pull viewers. Treat them as sales collateral to link from descriptions and DMs, and expect low views.
-- **Testimonials-channel videos get almost no organic views.** They exist to be linked.
-- **The travel series is promising per minute.** Monaco reached about 10.3K at nine minutes. Gstaad sits near the channel average.
-- **Titles aimed only at buyers can cap reach.** "millions don't equal a strong personal brand (here's why)" is the lowest non-case-study upload (1.4K).
-- **Like rates are highest on personal, reflective or teaching videos** (about 6% on nnMu, about 5.5% on qYI, about 5.2% on the cult video) and lower on case studies (about 4%). He argues in Gstaad that his actual buyers rarely like or comment, so a low like rate is not a failure signal on its own.
-- **Old essays still compete.** His 2023 essays "this self improvement theory transformed my life." (20.4K) and "stop negotiating with yourself." (17.4K) beat almost every 2026 upload. What the 2023 essays share: a hook of footage in motion rather than a claim, the named idea landing mid-video or later, a support stack (a borrowed book framework, a pop-culture anchor, his father's advice, then his own practice), a one-line moral near the end, and a soft or absent CTA. The lowercase imperative titles beat the bait titles whose videos did not argue the title (see [early-era synthesis](../04-videos/early-era-synthesis.md)).
+Directional only (21 data points; older videos have had longer to collect views):
+- **Own-journey videos beat case studies about four to one.** His top two founder-era videos are about his own brand and his own year.
+- **Case studies and testimonials are conversion assets**, not reach plays. "Third-party proof" pulls few viewers.
+- **The travel series is strong per minute.** Monaco reached 10,379 at nine minutes.
+- **Titles aimed only at buyers cap reach.** "millions don't equal a strong personal brand (here's why)" (1,395) is the lowest non-case-study upload, and its title phrase is never said.
+- **The 2023 essays still compete.** "this self improvement theory transformed my life." (20,401) and "stop negotiating with yourself." (17,425) beat almost every 2026 upload. They open on footage and a metaphor, land the idea mid-video, and end on a one-line moral with a soft or absent CTA.
+- **He discounts likes as a signal:** "every single one of my clients that has signed up with me, never liked a piece of content or rarely liked a piece of content before signing up with me" (Ze4 [10:19] to [10:32]).
 
-Practical rule for planning: lead the calendar with own-journey and own-numbers videos for reach, use the travel and traits videos for positioning, and treat case studies and testimonials as conversion assets.
+Practical rule: lead the calendar with own-journey and own-numbers videos for reach, use traits and travel videos for positioning, and treat case studies and testimonials as assets to link in DMs and descriptions.
+
+## 10. Testimonial production
+
+How the 10 testimonial videos on the Meteoric Boost testimonials channel are made (Oct 2025 to Jul 2026). Source: [testimonials README](../02-meteoric-boost/testimonials/README.md) and the transcripts.
+
+**Who and where**
+- Moksh interviews every client himself. A team member appears once (the creative director, captioned "Modish", in the Karan Thacker video, k57qG2-WnwI [12:46]).
+- Oct to Nov 2025: calls or simple sit-downs. From Dec 2025: filmed in person in aspirational settings, which double as proof of the relationship: Dubai at the Burj Khalifa (Manav Chawla, Tarun), a meal in Bombay (Kevil Zalavadia), the Gili Islands retreat after Bali (Karan Thacker), a Delhi hotel lobby full of art (Trisha Mohan), a Gurgaon cafe after a Hyrox session (Satvik Gupta).
+- He describes the end state of delivery as "me recording that final testimonial in their house, in their city, which I have flown to with the entire team" (NUp6 [09:09]).
+
+**Cold open (from May 2026)**
+- 55 to 75 seconds before the greeting: the client's sharpest "before" line, the headline numbers and one Moksh insight, cut together over music. Examples: "When I approached you, I told you I don't even post a picture on Instagram." (Trisha, 1h29rLdXY4I [00:00]); the Daksh montage reused as the w5ON open ("If you're thinking about like this guy charges a dime, I'll just say that I believe in [Moksh]...", C4ckCV1xmj8 [15:10] to [15:29]).
+- Live builds adopted the same device in Apr 2026 (AnqK [00:00] to [01:04]).
+
+**Interview questions, in order**
+1. Where are we / welcome (gratitude, the trip, the meal).
+2. Introduce yourself: what you do, who you serve.
+3. Where were you before, and why did you want a personal brand?
+4. Why did you reach out, and why Moksh over the others you were talking to? (Asked in 8 of 9.)
+5. What did we actually do: the process, systems, brand formula.
+6. What was it like working with the team? (Adi and the creative director named in most.)
+7. The numbers: "walk the people through the numbers", "what's the delta". Moksh often prompts with a figure and the client corrects it.
+8. The community (often added as "one more question I missed").
+9. Accountability (Parmeet, Manav, Trisha).
+10. What's next for the brand.
+11. Close, almost word for word: "What would you say to someone who's on the fence of working with me?" (8 of 9; missing only in the short Kevil video.)
+
+**Moksh's restatement.** After almost every answer he restates it with a principle. This is where his best testimonial lines come from: "once you taste the power of inbound, you will never go outbound" (1Y93OJpUHzg [05:57]); "It's these minor tweaks that I sort of am good at making, which changes the entire face of the brand" (k57qG2-WnwI [08:32]); "the documentation of that pursuit is what builds your brand" (z_dxsfu9NZY [13:30]).
+
+**Title formula**
+- Oct 2025 to Jan 2026: `This [ROLE OR INDUSTRY IN CAPS] [closed / hit / built / found] [$ or metric] [with his PERSONAL BRAND / within a month / in just 2 months / with his FIRST REEL]`. Example: "This FINTECH founder closed $50k worth of deals with his Personal Brand".
+- May 2026 on: first person plural, prestige or outcome led: "How we built a personal brand for the VP of Goldman Sachs"; "We built her personal brand to attract billionaires!"; "We exploded this wellness coach's revenue & followers (case study)".
+- Several titles state numbers or claims the client never says (see [titles-hooks-ctas](titles-hooks-ctas.md) section 2.2). For new titles, use only figures the client states on camera or approves.
+
+**Description:** Moksh's Calendly (mokshvasant-meteoricboost/60min) on Oct 2025 to Jan 2026 uploads, then the closer's (arjun-meteoricboost/60min) from May 2026.
+
+**Where they are used:** sent to prospects and linked from the company Instagram page ("proof max", 0jNq [15:17]); the Dialed launch kit includes "2 to 3 B2B testimonial interviews on YouTube" (qmN [1:02:14] to [1:04:21]). Channel views are 241 to 1,324; they are not reach content.
 
 ## Related
+- [Script template](script-template.md) (includes the worked H68 outline)
 - [Titles, hooks and CTAs](titles-hooks-ctas.md)
 - [Voice and language](voice-and-language.md)
-- [Script template](script-template.md)
 - [Short-form and Instagram](short-form-and-instagram.md)
 - [Video index](../04-videos/README.md)
+- [Testimonials channel](../02-meteoric-boost/testimonials/README.md)
 - [Content and distribution mental models](../01-mental-models/content-and-distribution.md)
 - [Sanskar Show #226 (his content method in his own words)](../05-appearances/2026-03-21__sanskar-show-226.md)

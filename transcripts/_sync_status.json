@@ -1,0 +1,26 @@
+{
+  "started": "2026-10-20T10:15:00+00:00",
+  "finished": "2026-10-20T12:30:53.218384+00:00",
+  "saved": [
+    "(initial build, 161 transcripts)"
+  ],
+  "skipped": 0,
+  "failed": {
+    "su5JL54PPmU": "YouTube required sign-in (2017-2019 upload)",
+    "fAOlKPOPy74": "YouTube required sign-in (2017-2019 upload)",
+    "0M4-MQCvYSI": "YouTube required sign-in (2017-2019 upload)",
+    "kQ1DcOLynqE": "YouTube required sign-in (2017-2019 upload)",
+    "iAB5aPXW6fA": "YouTube required sign-in (2017-2019 upload)",
+    "Gb8S1tSd6TE": "YouTube required sign-in (2017-2019 upload)",
+    "9XBLfgDD3MQ": "YouTube required sign-in (2017-2019 upload)",
+    "RpEU8qfkmnU": "YouTube required sign-in (2017-2019 upload)",
+    "hbNCyLWKZe0": "YouTube required sign-in (2017-2019 upload)",
+    "oc_olIt2vzU": "YouTube required sign-in (2017-2019 upload)",
+    "_IkbM6ENa1w": "YouTube required sign-in (2017-2019 upload)",
+    "6N4YdpJB1Yg": "YouTube required sign-in (2017-2019 upload)",
+    "bjuCKtwGlBM": "YouTube required sign-in (2017-2019 upload)"
+  },
+  "blocked": false,
+  "total_transcripts": 161,
+  "note": "Initial build on 2026-10-20: YouTube captions via yt-dlp, plus local Whisper (large-v3-turbo) for 24 videos with no captions. Music covers without speech were skipped."
+}

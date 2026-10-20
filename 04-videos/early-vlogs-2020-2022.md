@@ -1,206 +1,302 @@
 ---
-title: "Early vlogs, 2020 to 2022: burnout, productivity, creativity, and the move to Sydney"
+title: "Creator-era uploads, 2020 to 2023: index, early vlogs, and what they reveal"
 type: video
-era: early vlogs 2020 to 2022
+era: creator era 2017 to 2024 (long-form uploads over 3 minutes found from 2020 to 2023)
 sources:
-  - https://www.youtube.com/watch?v=4tQJUr7N14M
-  - https://www.youtube.com/watch?v=n9GXQoWsYvE
-  - https://www.youtube.com/watch?v=zPXQAJ2fDnM
-  - https://www.youtube.com/watch?v=AVzCiJvNAI0
-  - https://www.youtube.com/watch?v=oo7xrSKhcLw
-  - https://www.youtube.com/watch?v=Slvxa-gFdOA
-  - https://www.youtube.com/watch?v=kz4QLIEy5aA
-  - https://www.youtube.com/watch?v=yqZDRElvh-s
-  - https://www.youtube.com/@mokshvasant (Piped search metadata for durations, views, relative dates)
+  - REPO/transcripts/ (75 creator-era transcripts: 71 YouTube auto-captions and 4 local Whisper transcriptions from audio, all timestamped; listed in the index table below)
+  - https://www.youtube.com/@mokshvasant
   - Epiphanies newsletter #2, #7, #12, #13 (context on the first Meteoric and burnout)
-last_updated: 2026-10-18
-confidence: medium
+last_updated: 2026-10-20
+confidence: medium-high (high for videos with clean captions or Whisper; low for the 12 whose captions are unreadable)
 ---
 
-# Early vlogs, 2020 to 2022
+# Creator-era uploads, 2020 to 2023
 
-Eight short personal vlogs from Moksh Vasant's teenage creator years (final year of school in India through his first year at the University of Sydney), read for what they show about his habits, creativity, burnout, the university move, and his first creator goals.
+Every long-form upload (over 3 minutes) from @mokshvasant before 2025 that has a transcript in `transcripts/`, plus deeper notes on the vlogs that matter most for his biography, habits and filmmaking. Shorts of 3 minutes or less are covered elsewhere.
 
 ## Summary
 
-- **Coverage:** 8 videos. 6 had usable auto-captions (via youtubetotranscript.com). 1 had captions that were almost entirely music and garbled text (the burnout video). 1 could not be fetched after two tries (the creativity video). Everything below is paraphrase; no direct quotes are used because the transcript tool returned summaries, not reliable verbatim lines.
-- **Dates are approximate.** Piped only gave relative dates ("4 years ago" as of 2026-10-18). Where a video's content pins the date more tightly, that is noted and marked as derived.
-- **Views** are Piped snapshots as of Oct 2026. Numbers Moksh states inside videos (subscriber counts, first-day views) are self-reported.
-- **The headline findings:**
-  1. By early 2021, while still in school, Moksh already described himself as someone who became productive only after he "built a system" during his last school year and the lockdown. His systems language predates every business he has run.
-  2. He has a burnout video from roughly 2020 to 2021 titled as a recovery story. Its content could not be verified, but it lands in the same window as the shutdown of his first startup, Meteoric (calisthenics coaching), which he later says died from burnout and weak systems.
-  3. A late 2022 to 2023 video says he spent a gap year after school making videos and co-founding a startup with a friend. This is a new clue for dating the first Meteoric (see conflicts).
-  4. He chose the University of Sydney for a Bachelor of Economics with an innovation and entrepreneurship minor, and joined the entrepreneurship society in his first week. The entrepreneur track was deliberate from day one.
-  5. His creator goals in this era were channel milestones (1,000 subscribers, then 10k), cinematic self-documentation, and imitation of Casey Neistat style creators.
+- **Coverage:** 75 transcripts, published 14 Mar 2020 to 23 Jul 2023. Four (4tQJUr7N14M, yfVG-XkTcBw, HqF_6fwZwgA, Z79hq8ZknUY) had no YouTube captions and were transcribed locally with Whisper from audio; they are clean but not authoritative on names. Twelve others have unreadable auto-captions (YouTube mis-detected the language and produced Devanagari noise) and 3 are music covers; the rest have usable speech. No long-form uploads were found between Jul 2023 and Aug 2025.
+- **Numbers** are self-reported and views are as of 2026-10-20 (from transcript front matter).
+- **Headline findings (all with timestamps below):**
+  1. **The first Meteoric launched in May to June 2021, after the board exams were postponed, already with the Instagram handle @meteoricboost.** On 17 May 2021 he said he and his friend (Whisper: "Dhannil") had been working on it for a week and hoped to "be entrepreneurs on the 23rd of May" (yfVG-XkTcBw [02:18] to [02:35]). On 15 Jun 2021: "I'm starting Meteoric... it's about teaching people calisthenics" (pXLF_xVQdPA [01:13]), with two friends as prototype clients in the previous two weeks [01:39]. The name came from a best friend's line, "it's time to go from mediocre to meteoric", plus his childhood wish to be an astronaut (yfVG-XkTcBw [01:40] to [01:59]). Descriptions from Jun to Aug 2021 link instagram.com/meteoricboost. It was still active in Oct and Dec 2021, and he names it in his 2021 recap ("I started YouTube, I started Meteoric", lrsD3_DWmaQ [04:27]).
+  2. **Home was Jamnagar.** "I live in Jamnagar in Gujarat" (W7kyuk_GShg [00:58], Jan 2022), "I had left Jamnagar on the third September" (fKsl9qOks0M [04:54], Sep 2021), trips measured "from Jamnagar" (gQ8fDE9hfHI [00:40]; iJhdjyh3QMk [00:13]). He calls it a "very small town" (U07BFLrEMus [02:32]) and "a small city" (UQEP8Ko8x18 [01:29]). Mumbai appears only as a place he visits (friends, cousins, a flight hub).
+  3. **The gap was about eight months, not a year.** He took commerce after 10th grade "because I was very interested in being an entrepreneur" (yfVG-XkTcBw [00:00]). CBSE class 12 board exams were cancelled in early June 2021 (W9NW_R6__HM [00:36]); he planned a January intake for a BBA "because I want to be a businessman" (wU0FpT94RIk [01:04]); he left for Sydney on 8 Feb 2022 for a Bachelor of Economics (oo7xrSKhcLw [01:30]).
+  4. **His content theory at 17: creators sell a feeling.** "Content creators give you a certain vibe, they make you feel something, and that feeling is a sort of an escapism for you" (UQEP8Ko8x18 [01:17]). He demonstrates it by recutting one clip with two grades and two soundtracks [02:34] to [03:29].
+  5. **Systems and workflow were explicit early:** a night-before list of four to five tasks and a goal cascade (n9GXQoWsYvE [01:42] to [02:44]), a diary of ideas written before every video (Niljdgf6XWI [00:47]), 6 to 7 hours of editing per good video in blocks (CcuSFI3k9dc [00:51]).
+  6. **Family business exposure:** in Jul 2021 he "started going to the office with my dad just to get to learn new stuff" (UQEP8Ko8x18 [00:31]); in Dec 2021 he joined his father on a factory visit to a large solar panel assembly unit (VfrcYnG5KlY [00:23]). The family business itself is not named in any creator-era transcript.
 
-## Video index (approximate chronological order)
+## Index of every creator-era upload with a transcript
 
-| # | Video | ID | Approx date | Duration | Views (Oct 2026) | Transcript |
-|---|---|---|---|---|---|---|
-| 1 | Talking productivity + playing TT | n9GXQoWsYvE | about early 2021 | 6:03 | 1,344 | full auto-captions (first half clean, second half music and chatter) |
-| 2 | I had a burnout ... and recovered :) | 4tQJUr7N14M | about 2020 to 2021 | 3:51 | 1,361 | metadata only (captions unusable) |
-| 3 | How I stay creative and inspired at age 17 | zPXQAJ2fDnM | about late 2021 | 4:52 | 1,120 | metadata only (fetch failed twice) |
-| 4 | My room is based off of a book! here's HOW ? | AVzCiJvNAI0 | about early 2022 | 12:01 | 5,218 | full auto-captions |
-| 5 | I am off to university.....but where ? | oo7xrSKhcLw | about Feb 2022 | 6:45 | 7,912 | full auto-captions (some lyrics and caption errors) |
-| 6 | I'm starting a new life... | Slvxa-gFdOA | about Feb 2022 | 8:07 | 5,364 | full auto-captions (music interludes) |
-| 7 | We crossed a thousand. | kz4QLIEy5aA | about mid 2022 | 8:31 | 1,435 | full auto-captions (group chatter partly garbled) |
-| 8 | Max Reisinger commented on my video | yqZDRElvh-s | about late 2022 to 2023 | 4:44 | 2,219 | full auto-captions (minor garbling) |
+| # | Published | Title | ID | Duration | Views (2026-10-20) | What it covers | Transcript |
+|---|---|---|---|---|---|---|---|
+| 1 | 2020-03-14 | i took a pill in ibiza (Moksh V cover) | m1s8TbCxdjk | 3:04 | 2,381 | Guitar cover of Mike Posner's song; music only. "My first cover in a very long time" (description). | [file](../transcripts/m1s8TbCxdjk__i-took-a-pill-in-ibiza-moksh-v-cover.md) |
+| 2 | 2020-05-15 | boring vlog, dramatic end! | HL1wv3QYllU | 9:23 | 1,568 | Lockdown vlog ("Hi, I'm back"); captions are Devanagari noise. Unreadable. | [file](../transcripts/HL1wv3QYllU__boring-vlog-dramatic-end.md) |
+| 3 | 2020-06-14 | Modern loneliness - lauv (Moksh V cover ) | 4nK8lfZubKQ | 3:59 | 1,241 | Cover of Lauv's "Modern Loneliness"; music only. | [file](../transcripts/4nK8lfZubKQ__modern-loneliness-lauv-moksh-v-cover.md) |
+| 4 | 2020-08-29 | Kumbalgarh की यात्रा | gQ8fDE9hfHI | 7:43 | 1,309 | "Story time" episode 2: lockdown family trip from Jamnagar to Kumbhalgarh (14-hour drive), stepped pools, safari, drone shots. | [file](../transcripts/gQ8fDE9hfHI__kumbalgarh.md) |
+| 5 | 2021-03-19 | BIGGEST STADIUM IN THE WORLD ! | s-y6tfAMkoA | 8:24 | 1,267 | Road trip with friends to Motera, Ahmedabad, for the 2nd India vs England T20; cricket opinions. The match that pulled him back into vlogging (kz4QLIEy5aA [06:18]). | [file](../transcripts/s-y6tfAMkoA__biggest-stadium-in-the-world.md) |
+| 6 | 2021-05-02 | Update + POLLARD CARNAGE ! | dUWoSuJ03jM | 5:36 | 779 | "Boring update vlog" plus an MI vs CSK IPL game; captions unreadable. | [file](../transcripts/dUWoSuJ03jM__update-pollard-carnage.md) |
+| 7 | 2021-05-05 | IS CREATIVITY REALLY CREATIVE ? | HqF_6fwZwgA | 4:26 | 865 | (Whisper) "Back to regular uploads": is creativity really creative? Kohli's batting is a mix of three or four styles; his own vlog style (time lapses, slow motion, cinematic sequences) is borrowed parts plus a personal touch from his "limitations and strengths". | [file](../transcripts/HqF_6fwZwgA__is-creativity-really-creative.md) |
+| 8 | 2021-05-09 | I AM A FAN BOY | Hom8znRLcJc | 6:22 | 1,243 | Storytelling: his two inspirations. Justin Bieber (why he learned guitar and made music) and Hardik Pandya ("backing yourself"); "I was not always a confident kid". Third video that week. | [file](../transcripts/Hom8znRLcJc__i-am-a-fan-boy.md) |
+| 9 | 2021-05-12 | Getting back on track 💪🏻 | TuoKJaW2gL8 | 4:34 | 1,273 | Calisthenics/handstand comeback vlog; captions unreadable. | [file](../transcripts/TuoKJaW2gL8__getting-back-on-track.md) |
+| 10 | 2021-05-14 | I had a burnout ... and recovered :) | 4tQJUr7N14M | 3:51 | 1,364 | (Whisper) A procrastinated test and Instagram scrolling; his fixed productivity system plus self-pressure made everything "go for a toss"; the fix is switching things up; next day better. Not about Meteoric. | [file](../transcripts/4tQJUr7N14M__i-had-a-burnout-and-recovered.md) |
+| 11 | 2021-05-17 | 17 year old entreprenuer | yfVG-XkTcBw | 4:37 | 1,918 | (Whisper) Took commerce after 10th grade to become an entrepreneur; with his friend (transcribed "Dhannil") he is launching Meteoric, target date 23 May; name from "mediocre to meteoric" and his childhood wish to be an astronaut; goal is experience and confidence for kids in Jamnagar, not money. | [file](../transcripts/yfVG-XkTcBw__17-year-old-entreprenuer.md) |
+| 12 | 2021-05-19 | Catching up with friends + Cyclone Tauktae 🌪 | -m4w4_DHObc | 3:21 | 1,202 | Meets a best friend who was studying for JEE; Cyclone Tauktae rain in mid-May. | [file](../transcripts/-m4w4_DHObc__catching-up-with-friends-cyclone-tauktae.md) |
+| 13 | 2021-05-24 | Equipment......... | xTYXmv03H7A | 3:32 | 694 | Camera equipment (Sony A6600, per tags); captions unreadable. | [file](../transcripts/xTYXmv03H7A__equipment.md) |
+| 14 | 2021-05-26 | Talking CRYPTO ! | O6hrt2mhB4s | 4:15 | 700 | Bitcoin and Dogecoin talk; captions unreadable. | [file](../transcripts/O6hrt2mhB4s__talking-crypto.md) |
+| 15 | 2021-05-30 | I am a class 12th CBSE student :) | H2wUrSQlklI | 4:48 | 1,640 | Online pre-board exam day; 12th grade has lasted 14 months; explains board-exam limbo with a rain-delayed India vs NZ semi-final analogy. Says he is "out of video ideas" after six videos. | [file](../transcripts/H2wUrSQlklI__i-am-a-class-12th-cbse-student.md) |
+| 16 | 2021-06-02 | What course am I taking up for college ? | wU0FpT94RIk | 3:28 | 745 | Plans BBA abroad "because I want to be a businessman"; expects a January intake and six free months if boards are cancelled. Friends do graffiti. | [file](../transcripts/wU0FpT94RIk__what-course-am-i-taking-up-for-college.md) |
+| 17 | 2021-06-04 | CANCELLED | W9NW_R6__HM | 3:52 | 818 | Board exams cancelled: celebration with friends; "I had studied all year for the first time in my life"; "real life begins after school". | [file](../transcripts/W9NW_R6__HM__cancelled.md) |
+| 18 | 2021-06-07 | SPOOKY TALES | Jd_JwVjCrg8 | 5:06 | 1,685 | Night-out horror stories with friends; captions unreadable. | [file](../transcripts/Jd_JwVjCrg8__spooky-tales.md) |
+| 19 | 2021-06-09 | Talking productivity + playing TT | n9GXQoWsYvE | 6:03 | 1,344 | Viewer Q&A on productivity: same wake time, night-before list of four or five tasks, goal cascade, stay organized. Then table tennis. | [file](../transcripts/n9GXQoWsYvE__talking-productivity-playing-tt.md) |
+| 20 | 2021-06-11 | GO KARTING 🏎 | toiDfL1sKck | 5:43 | 1,039 | Go-karting with friends; captions unreadable. | [file](../transcripts/toiDfL1sKck__go-karting.md) |
+| 21 | 2021-06-15 | SNACKS and METEORIC | pXLF_xVQdPA | 7:05 | 915 | Brother's company Snackstar India sends snacks; then "I'm starting Meteoric": a calisthenics coaching startup (Instagram @meteoricboost), first reel shoot, two prototype clients, "astronauts", progress tracker, weekly leaderboard. | [file](../transcripts/pXLF_xVQdPA__snacks-and-meteoric.md) |
+| 22 | 2021-06-17 | PLANS PLANS PLANS | VV7jHqI6-3k | 3:11 | 1,045 | Shows his class 12 notes ("artwork", memory shortcuts); Goa trip collapses; first friends-only trip planned to Kumbhalgarh. | [file](../transcripts/VV7jHqI6-3k__plans-plans-plans.md) |
+| 23 | 2021-06-20 | 14 HOURS OF ENTERTAINMENT | 67L2KygKu78 | 5:25 | 1,112 | Day 1 of the Kumbhalgarh friends trip: 5:30 a.m. start, 14 hours, lost six or seven times. | [file](../transcripts/67L2KygKu78__14-hours-of-entertainment.md) |
+| 24 | 2021-06-26 | Swimming in the rains | eceZlNEKwyI | 4:48 | 948 | Kumbhalgarh day 2: pool, cricket, workout; spent four to five hours of the trip editing a vlog. | [file](../transcripts/eceZlNEKwyI__swimming-in-the-rains.md) |
+| 25 | 2021-06-29 | 'My only riches is life' - Bob Marley | y1p19GGoeyY | 4:41 | 752 | Kumbhalgarh trip continued; captions unreadable. | [file](../transcripts/y1p19GGoeyY__my-only-riches-is-life-bob-marley.md) |
+| 26 | 2021-07-02 | KUMBALHGARH FORT | o_Y9QInCZ7Y | 5:25 | 695 | Kumbhalgarh Fort; captions unreadable. | [file](../transcripts/o_Y9QInCZ7Y__kumbalhgarh-fort.md) |
+| 27 | 2021-07-12 | Content is an ESCAPE | UQEP8Ko8x18 | 3:55 | 735 | His first self-colour-graded video. Starts going to the office with his dad to learn. Thesis: content is escapism; creators sell a feeling, and music plus grade change what the viewer feels. | [file](../transcripts/UQEP8Ko8x18__content-is-an-escape.md) |
+| 28 | 2021-07-19 | Pepsi cans and football games 🥫⚽️ | x5Wp4Aw43tI | 3:54 | 1,189 | Messi's Copa America win; a retro Pepsi can; football with friends. | [file](../transcripts/x5Wp4Aw43tI__pepsi-cans-and-football-games.md) |
+| 29 | 2021-08-02 | All of it is gold | WG6ZRbH6XZw | 5:53 | 633 | Amritsar with his grandparents (via Ahmedabad and Delhi): Golden Temple, a 100-plus-year-old dhaba, meets a childhood friend. Admits he is too self-conscious to vlog in public. | [file](../transcripts/WG6ZRbH6XZw__all-of-it-is-gold.md) |
+| 30 | 2021-08-04 | Chilling and chatting 🌊 | 03WvAQfGGOs | 5:49 | 580 | Q&A: edits in Premiere Pro, considering Final Cut; long hair; oversized tees ("I've always been fat"); why the channel moved from music covers to vlogs. | [file](../transcripts/03WvAQfGGOs__chilling-and-chatting.md) |
+| 31 | 2021-08-06 | Got my results | q7dBWIaOE20 | 6:45 | 2,313 | CBSE results day: about 85.7%, lower than hoped; football tournament; why he loves Suits and Harvey Specter. | [file](../transcripts/q7dBWIaOE20__got-my-results.md) |
+| 32 | 2021-08-09 | What Is friendship for me ? 🌟 | gfOGGtHeLs0 | 4:51 | 1,192 | Friendship Day: memories and experiences outlast friends and bands; cricket at a farm with eight or nine friends. | [file](../transcripts/gfOGGtHeLs0__what-is-friendship-for-me.md) |
+| 33 | 2021-08-12 | I tried new things, basically being COOL | D08yELXnhXM | 3:56 | 896 | Leaving the comfort zone (tortoise in its shell): "I had always been a fat kid and I was very socially awkward"; first handball tournament; a Meteoric shoot. | [file](../transcripts/D08yELXnhXM__i-tried-new-things-basically-being-cool.md) |
+| 34 | 2021-08-15 | How I graduated school | EDDyx-uqmLE | 4:45 | 2,578 | School farewell film; captions unreadable (see breakdown). [Breakdown](2021-08-14__how-i-graduated-school.md) | [file](../transcripts/EDDyx-uqmLE__how-i-graduated-school.md) |
+| 35 | 2021-08-19 | I sold my drone. | pLB7-S_IgLA | 3:54 | 658 | Sells the DJI Spark he got on 12 Dec 2018 for his 16 Dec birthday; at 14 he wanted to do filmmaking and vlogging full time. Confirms the previous video was a student farewell. | [file](../transcripts/pLB7-S_IgLA__i-sold-my-drone.md) |
+| 36 | 2021-08-31 | WHY IS EVERYONE TALKING SNEAKERS | Z79hq8ZknUY | 5:30 | 1,047 | (Whisper) Sneaker culture in India: scarce supply, resale bots, hype pairs as assets (a pair bought near Rs 14,000 resells above Rs 1 lakh); he prefers rare, non-hype "signature" shoes. Edits "for YouTube" and "for Meteoric". | [file](../transcripts/Z79hq8ZknUY__why-is-everyone-talking-sneakers.md) |
+| 37 | 2021-09-21 | Rain 🌧 + test cricket 🏏 | qC8_PPzNllY | 4:34 | 533 | Gloomy rain day; weighted pull-ups with a belt; packing for a 10 to 12 day trip; India vs England test. | [file](../transcripts/qC8_PPzNllY__rain-test-cricket.md) |
+| 38 | 2021-09-25 | BOMBAY WITH THE BOYS ! | 5KfrpxMTxWM | 7:46 | 1,712 | Bombay trip with friends; captions unreadable. | [file](../transcripts/5KfrpxMTxWM__bombay-with-the-boys.md) |
+| 39 | 2021-09-30 | PURPLE skies in Bombay | Z0NdXmP14Lc | 7:02 | 994 | Bombay with Sahil and Sanchu: an arcade (captioned "Smash"), Colaba, Marine Drive, purple skies. | [file](../transcripts/Z0NdXmP14Lc__purple-skies-in-bombay.md) |
+| 40 | 2021-10-06 | Going to a trampoline park and travelling alone in a cab 🚕 | 0S5ed-U6Wo8 | 7:00 | 740 | Bombay: trampoline park, Ola cab fiasco, first solo cab ride; calls himself a small-town boy (captioned "okay town boy") among skyscrapers. | [file](../transcripts/0S5ed-U6Wo8__going-to-a-trampoline-park-and-travelling-alone-in-a-cab.md) |
+| 41 | 2021-10-19 | Sneaker heaven | hTyfMSl_Q3g | 4:44 | 1,369 | Bandra streetwear and sneaker stores (Jaywalking, Mainstreet Marketplace) alone; misses a train to Pune with his sister; annual Osho meditation trip with parents. | [file](../transcripts/hTyfMSl_Q3g__sneaker-heaven.md) |
+| 42 | 2021-10-21 | Eating Biryani with Krishen Riyat | fKsl9qOks0M | 6:14 | 2,454 | Meets fashion creator Krishen Riyat in Pune: sees his productivity system and creative process; resolves to be more organized. Trip: left Jamnagar on 3 Sep, 17 days away. | [file](../transcripts/fKsl9qOks0M__eating-biryani-with-krishen-riyat.md) |
+| 43 | 2021-10-27 | This is how I MISSED my flight back home | pWM4PmNH7Hk | 4:20 | 674 | Uses Instagram only to document his life (photo dumps, "I'm a photographer"); misses the Bombay flight after expressway traffic and takes a later flight (destination captioned "raj court"). | [file](../transcripts/pWM4PmNH7Hk__this-is-how-i-missed-my-flight-back-home.md) |
+| 44 | 2021-10-30 | I PLAYED MARIO TO EDIT BETTER | CcuSFI3k9dc | 4:55 | 1,069 | Editing takes 6 to 7 hours per good video; copies Max Reisinger's arcade-break trick (25-minute edit blocks, one game). Box cricket, Mumbai Indians loss. | [file](../transcripts/CcuSFI3k9dc__i-played-mario-to-edit-better.md) |
+| 45 | 2021-11-14 | HOW WE (almost) WON A CRICKET TOURNAMENT AS UNDERDOGS | Tx1KVmIg9kM | 4:23 | 697 | Box cricket tournament with an auctioned team of strangers: lost first three games, reached the final, runners-up. | [file](../transcripts/Tx1KVmIg9kM__how-we-almost-won-a-cricket-tournament-as-underdogs.md) |
+| 46 | 2021-11-21 | BIG DANDIYA ENERGY + visiting salt works | nYAdfBM4PDs | 5:14 | 2,705 | Navratri dandiya plus a salt works visit (tagged #Business); captions unreadable. | [file](../transcripts/nYAdfBM4PDs__big-dandiya-energy-visiting-salt-works.md) |
+| 47 | 2021-11-30 | Paranthas with no sleep + MSD's 4th IPL title | DNMWw5knz3I | 4:49 | 782 | Navratri ends; IPL final. "I almost have a gap year right now"; friends leaving for college; a productivity book "for YouTube or Meteoric". | [file](../transcripts/DNMWw5knz3I__paranthas-with-no-sleep-msd-s-4th-ipl-title.md) |
+| 48 | 2021-12-04 | How I stay creative and inspired at age 17 | zPXQAJ2fDnM | 4:52 | 1,121 | Designs his own jeans in his father's painting studio; creativity from an "aesthetic mess"; a creator's workspace carries their energy. | [file](../transcripts/zPXQAJ2fDnM__how-i-stay-creative-and-inspired-at-age-17.md) |
+| 49 | 2021-12-08 | The weekend that CHANGED MY LIFE !! | bGt5b2CIelI | 4:57 | 1,094 | Farmhouse weekend and a last class get-together before friends leave for college; a friend asks about Meteoric (separate breakdown). [Breakdown](2021-12-07__weekend-that-changed-my-life.md) | [file](../transcripts/bGt5b2CIelI__the-weekend-that-changed-my-life.md) |
+| 50 | 2021-12-12 | This place could change the world....... | VfrcYnG5KlY | 7:35 | 1,110 | Factory visit with his father to a solar panel assembly unit (captioned "Pixen Energy"); 4-Hour Workweek eye-contact challenge; India vs Pakistan T20 World Cup loss. | [file](../transcripts/VfrcYnG5KlY__this-place-could-change-the-world.md) |
+| 51 | 2021-12-26 | I stayed at an actual palace..... | iJhdjyh3QMk | 5:07 | 1,087 | Diwali trip with parents to a royal palace stay at Devgadh Baria, 9.5 hours from Jamnagar. | [file](../transcripts/iJhdjyh3QMk__i-stayed-at-an-actual-palace.md) |
+| 52 | 2022-01-05 | I celebrated my 18th birthday ALONE…. here's why | gA69kfkfKds | 7:34 | 4,028 | Turning 18 on 16 Dec: Perspectopia-style patch sweatshirt ("even Meteoric is based around the theme of space"); self-reflection over external wishes; a friend helped him start the channel. | [file](../transcripts/gA69kfkfKds__i-celebrated-my-18th-birthday-alone-here-s-why.md) |
+| 53 | 2022-01-19 | Where have I been ? | Niljdgf6XWI | 6:04 | 1,918 | Writes ideas in a diary before filming; editing backlog made him "pessimistic" until he got back on track; Spider-Man; leaving for uni in February; gifts Sahil a book on sharing your process. | [file](../transcripts/Niljdgf6XWI__where-have-i-been.md) |
+| 54 | 2022-01-22 | I had the strangest new year..... | lrsD3_DWmaQ | 6:37 | 1,668 | New Year sunrise at a port; 2021 recap: "I started YouTube, I started Meteoric", plus overthinking; no resolutions for 2022. | [file](../transcripts/lrsD3_DWmaQ__i-had-the-strangest-new-year.md) |
+| 55 | 2022-02-05 | How I explored Calcutta with a songwriter that I met online....... | W7kyuk_GShg | 11:00 | 1,559 | Calcutta for his mama's (maternal uncle's) wedding; meets songwriter Aamir Rizvi from a lockdown Instagram-live music community; recalls writing his first song, "Wings on my back"; first time vlogging in public. "I live in Jamnagar in Gujarat." | [file](../transcripts/W7kyuk_GShg__how-i-explored-calcutta-with-a-songwriter-that-i-met-online.md) |
+| 56 | 2022-02-28 | My room is based off of a book! here's HOW ? | AVzCiJvNAI0 | 12:00 | 5,219 | Room tour based on Steal Like an Artist: workspace for flow, pinboard, unread library, trophies, six sneakers, Sahil's painting. | [file](../transcripts/AVzCiJvNAI0__my-room-is-based-off-of-a-book-here-s-how.md) |
+| 57 | 2022-03-29 | I am off to university.....but where ? | oo7xrSKhcLw | 6:45 | 7,913 | Reveals University of Sydney, Bachelor of Economics (economics major, innovation and entrepreneurship minor); goodbyes; flies 8 Feb 2022 from Ahmedabad via Singapore. | [file](../transcripts/oo7xrSKhcLw__i-am-off-to-university-but-where.md) |
+| 58 | 2022-04-04 | I'm starting a new life... | Slvxa-gFdOA | 8:06 | 5,368 | Welcome fest: joins an entrepreneurship society (14-week accelerator), finance and investing groups; graffiti tunnel. | [file](../transcripts/Slvxa-gFdOA__i-m-starting-a-new-life.md) |
+| 59 | 2022-04-28 | We crossed a thousand. | kz4QLIEy5aA | 8:31 | 1,436 | Crosses 1,000 subscribers after the uni-departure video got 2.6K to 2.7K first-day views; channel backstory (2017 covers, May 2021 commitment). | [file](../transcripts/kz4QLIEy5aA__we-crossed-a-thousand.md) |
+| 60 | 2022-05-29 | we went on an adventure to the blue mountains... | 22t8fcqe20M | 7:10 | 2,365 | Easter trip to the Blue Mountains with friends. | [file](../transcripts/22t8fcqe20M__we-went-on-an-adventure-to-the-blue-mountains.md) |
+| 61 | 2022-08-22 | Where have I been ? | vEXCL11G-DE | 7:28 | 2,707 | Recap filmed at home on mid-year break: Sydney exam weeks, Atomic Habits and The Psychology of Money, innovation and entrepreneurship foundation unit, a solo winter beach dip. | [file](../transcripts/vEXCL11G-DE__where-have-i-been.md) |
+| 62 | 2022-09-20 | HOW we ended up at a racetrack after classes | 2uaKw6rUnyk | 7:58 | 1,498 | Back in Sydney after stitches; startup careers fair; "validating ideas and building ventures" unit (business plan pitched to investors); first vs second semester habits; painting with Sahil; go-karting at Eastern Creek. | [file](../transcripts/2uaKw6rUnyk__how-we-ended-up-at-a-racetrack-after-classes.md) |
+| 63 | 2022-10-09 | This is why I DONT shoot film | fu9pLij3dhs | 4:17 | 2,986 | Mother's film camera won't turn on; Newtown; India beats Pakistan (separate breakdown). [Breakdown](2022-10-08__why-i-dont-shoot-film.md) | [file](../transcripts/fu9pLij3dhs__this-is-why-i-dont-shoot-film.md) |
+| 64 | 2022-10-17 | How did I end up on the iron throne during uni ? | c-axXKkYvfc | 4:27 | 1,187 | Internship interview with a student motorsport team's business side; sits on the Iron Throne on campus; Nike Daybreaks via Max Reisinger. | [file](../transcripts/c-axXKkYvfc__how-did-i-end-up-on-the-iron-throne-during-uni.md) |
+| 65 | 2022-11-08 | I watched the greatest cricket match. | zW7yNFs7VsM | 11:08 | 6,646 | India vs Pakistan T20 World Cup at the MCG after a cancelled flight; Kohli's innings; his reel of it reached 230K views (description). | [file](../transcripts/zW7yNFs7VsM__i-watched-the-greatest-cricket-match.md) |
+| 66 | 2022-12-21 | How I recreated 'Cast away' | d1zvUKJp7Vo | 6:54 | 1,432 | Solo mid-semester break at a secluded Sydney beach; painting as catharsis; struggles to balance uni, gym (three times a week), videos (every two weeks). | [file](../transcripts/d1zvUKJp7Vo__how-i-recreated-cast-away.md) |
+| 67 | 2023-01-07 | What if you were to die tomorrow? | uoW1RWMXWng | 9:58 | 4,077 | Day vlog, 1 Dec 2022 (separate breakdown). [Breakdown](2023-01-06__what-if-you-die-tomorrow.md) | [file](../transcripts/uoW1RWMXWng__what-if-you-were-to-die-tomorrow.md) |
+| 68 | 2023-01-16 | Max Reisinger commented on my video | yqZDRElvh-s | 4:44 | 2,222 | Max Reisinger comments on his video (arranged via Sahil); his gap year after cancelled boards: "I launched a startup with my friend". | [file](../transcripts/yqZDRElvh-s__max-reisinger-commented-on-my-video.md) |
+| 69 | 2023-01-21 | Wisdom from a 19 year old boy | -MGRRBmou1U | 10:47 | 4,324 | 19th birthday plus first Q&A (separate breakdown). [Breakdown](2023-01-20__wisdom-from-a-19-year-old.md) | [file](../transcripts/-MGRRBmou1U__wisdom-from-a-19-year-old-boy.md) |
+| 70 | 2023-02-26 | this is how memories are made. | j-2phVRezVY | 12:12 | 8,266 | Late Dec 2022 in Jamnagar with school friends: 6 to 25 Dec spent on self-improvement, then gym, barbecue, go-karting; "live in the moment". | [file](../transcripts/j-2phVRezVY__this-is-how-memories-are-made.md) |
+| 71 | 2023-03-07 | Why “self improvement” is ruining your life | V6RXQ1_T_DA | 9:58 | 8,241 | Reading list and three-books method (separate breakdown). [Breakdown](2023-03-06__self-improvement-ruining-your-life.md) | [file](../transcripts/V6RXQ1_T_DA__why-self-improvement-is-ruining-your-life.md) |
+| 72 | 2023-03-22 | I’m putting myself out there. | U07BFLrEMus | 13:10 | 9,813 | Semester-start vlog, gym theory (separate breakdown). [Breakdown](2023-03-21__putting-myself-out-there.md) | [file](../transcripts/U07BFLrEMus__i-m-putting-myself-out-there.md) |
+| 73 | 2023-05-07 | stop negotiating with yourself. | hAYX4s6YbCU | 9:55 | 17,425 | Non-negotiables, deep work, Asia Cup (separate breakdown). [Breakdown](2023-05-06__stop-negotiating-with-yourself.md) | [file](../transcripts/hAYX4s6YbCU__stop-negotiating-with-yourself.md) |
+| 74 | 2023-06-06 | you need to start looking. | QtwotES26x8 | 13:23 | 11,853 | Awareness short film (separate breakdown). [Breakdown](2023-06-05__you-need-to-start-looking.md) | [file](../transcripts/QtwotES26x8__you-need-to-start-looking.md) |
+| 75 | 2023-07-23 | this self improvement theory transformed my life. | Ym_hrgh7TJo | 9:33 | 20,401 | Bamboo growth short film (separate breakdown). [Breakdown](2023-07-22__bamboo-self-improvement-theory.md) | [file](../transcripts/Ym_hrgh7TJo__this-self-improvement-theory-transformed-my-life.md) |
 
-The order of videos 1 and 2 relative to each other is not known; both sit in the "5 years ago" window.
+---
+
+## Key vlogs in detail
+
+### Talking productivity + playing TT (n9GXQoWsYvE, 9 Jun 2021)
+
+- **Transcript:** full auto-captions; the productivity half is clean.
+- **Summary.** A viewer question from his Instagram question sticker: how does he stay productive all day? "Productivity is different for different people" [00:40]. He was "never a productive kid"; in the lockdown he started trying [00:50] and is now "a productivity enthusiast". On the 5 a.m. club: "waking up at 5am won't automatically make you productive"; what matters is enough sleep and waking at the same time every day, even if it is 9 a.m. [01:04] to [01:17]. "The single thing that's helped me the most to be productive is planning my day": a to-do list the night before with four to five tasks [01:42]. One task is waking on time, one is working out ("physical exercise helps... give my mind peace" [02:07]), two are the day's work. He writes them in a dedicated book and ticks them off [02:20]. "The goal of having a productivity system is to be able to break down your long-term goals into short-term goals": yearly, monthly, weekly, daily, tasks [02:31] to [02:44]. "Until I got into the 12th grade and until lockdown happened I was never a productive person" [02:56]. Stay organized: "you can't be messy and stay productive" [03:09]. Then table tennis; he lost five of six games [05:11].
+- **What it reveals.** Systems language at 17, before any business. The goal cascade is the same shape as his 2025 90-day sprints (Epiphanies #10) and quarterly "board meeting" (Epiphanies #12).
+
+### SNACKS and METEORIC (pXLF_xVQdPA, 15 Jun 2021)
+
+- **Transcript:** full auto-captions, clean in the Meteoric section. The co-founder's name is garbled (captioned "Daniel" and "Sunderland"); a friend captioned "Daniel" recurs in later vlogs, but the name is not confirmed.
+- **Summary.** "My brother founded this company called Snackstar India": it imports snacks not sold locally and sells them online [00:04]. Then: "So actually, you know, I'm starting Meteoric. Meteoric is the startup that me and [co-founder] are starting. It's about teaching people calisthenics, helping people in their transformation" [01:13]. They are shooting reels for the Instagram page, "at meteoric boost", which has no posts yet, "and only then we're gonna be starting our operations" [01:26]. "In the past two weeks we had run our prototype on two clients, both of them are our friends... we are ready to begin operations" [01:39]. After the shoot: they planned four reels and managed two [02:45]. The pitch [02:58] to [06:43]:
+  - Origin: "me and [co-founder] had always been unfit kids"; one "very skinny" and Moksh "overweight", and both transformed through calisthenics [02:58].
+  - Problem: generic plans are unrealistic and not suited to your level; "you might be able to do it for a month but not longer" [03:21]; strict diets fail because "you need to enjoy a bit of food every single day" [04:12].
+  - Product: weekly workouts matched to the client's level and equipment; "the only prerequisite to perform our workouts is gravity" [04:36]; "consistency equals progress" [05:00]; calorie tracking with no banned foods [05:13]; "we give you the structure and we help you stay accountable" [05:25].
+  - Brand: "the people that have signed up at Meteoric, I like to call them astronauts instead of clients because astronauts sounds cool" [05:38].
+  - Delivery: a per-client progress tracker with a checklist per exercise, calories and coach remarks (his demo shows a client, Chris, and a workout dated 6 June) [05:38] to [06:18]; a weekly leaderboard ranking all astronauts [06:31].
+- **What it reveals.** Answers the Meteoric name and date questions (see conflicts). The structure (accountability, tracking, community ranking, a branded name for clients) is a done-with-you coaching model at 17. The space theme was deliberate: "even Meteoric is based around the theme of space and meteors and astronauts" (gA69kfkfKds [01:41], Dec 2021).
+
+### Content is an ESCAPE (UQEP8Ko8x18, 12 Jul 2021)
+
+- **Transcript:** full auto-captions, clean.
+- **Summary.** "This entire video is going to be shot and color graded by me. This is my first attempt" [00:01]. He wears a shirt "because I started going to the office with my dad just to get to learn new stuff and see what's happening there" [00:31]. The idea: we feel "emotionally connected to the content creators" for the same reason we like friends, "my vibe matches with that guy's vibe" [01:05] to [01:17]. "Content creators give you a certain vibe, they make you feel something, and that feeling is a sort of an escapism for you" [01:17]. "I live in a small city. If I watch travel videos from European travel vloggers or filmmakers, cinematographers, it makes me feel like I'm living their life" [01:29]. He adds a darker reading: people consume content "because of a deep-rooted insecurity in their hearts that they're not content with the life they're living" [02:07]. Then a demo: the same footage with "funky music" and a funky grade feels like a vacation; with a "sentimental color grade" and sad music it makes you "feel sad for me" [03:03] to [03:29]. "The creator makes you feel a certain way... that's what content creation is all about" [03:29].
+- **What it reveals.** His earliest theory of content: feeling first, and grade and music as the levers. (Inference: the root of his later stress on look, grade and music as part of a founder's brand.)
+
+### CANCELLED and Got my results (W9NW_R6__HM, 4 Jun 2021; q7dBWIaOE20, 6 Aug 2021)
+
+- **Summary.** Boards cancelled: friends were working out together, a one-liner in the class group said the exams were off, and they celebrated [00:36] to [01:18]. "I'm also disappointed. I worked hard for the exams. I had studied all year for the first time in my life" [02:25]. "Real life begins after school" [02:39]. Results (filmed 29 Jul 2021): "I just calculated my percentage and it's coming out to be somewhere around 85.7" [02:54]; lower than expected because the marking used his 11th-grade scores, "which were crappy" [03:07]. He then praises *Suits* and Harvey Specter: "assess the situation, read someone's mind and act accordingly, play the odds, play the man" [06:02].
+- **What it reveals.** Confirms CBSE, the class of 2021, and the reason for the gap. Suits is an early negotiation influence (inference for sales: reading the person, settling before court).
+
+### I sold my drone. (pLB7-S_IgLA, 19 Aug 2021)
+
+- **Summary.** He asked his dad in November 2018 for a drone for his 16 December birthday; it arrived on 12 Dec 2018 [00:41] to [01:33] (the unboxing is pVw7Sv87p3E, a Short). "I thought I was like a pro filmmaker back then and I wanted to pursue filmmaking and vlogging on YouTube full time" [00:54]; "the camera the previous year, I got a drone that year, I got a laptop next year" [01:08]. He stopped using it (regulations, attention, batteries) and sold it [02:28] to [02:41]. "The last two videos that I've made have been all about farewells. One video was about us students giving ourselves a farewell" [03:18].
+- **What it reveals.** Gear timeline: camera 2017, drone Dec 2018, laptop 2019 (self-reported). Dates the full-time creator ambition to about age 14 or 15. Tells us what "How I graduated school" was.
+
+### Eating Biryani with Krishen Riyat (fKsl9qOks0M, 21 Oct 2021)
+
+- **Summary.** On the annual family meditation trip to Pune he met the fashion creator Krishen Riyat, whom he first met through his sister's friends in Pune in 2019 [00:25] to [00:52] and whom "a lot of friends of mine in Jamnagar" admire [01:05]. This time he texted Krishen, who invited him and his sister over [01:18]. Krishen "showed me his productivity system, his creative process" [01:57], said he watches Moksh's videos, and wants to start a YouTube channel [02:34] to [02:47]. Krishen manages Main Street TV's Instagram page and works for his father [03:41]. Takeaway: "I'm gonna start being a lot more organized than I already am so that I can work to my full potential and create a lot more content" [03:54]. "I had left Jamnagar on the third September. It's already been 17 days of traveling", with a flight "from Bombay to Jamnagar" [04:54] to [05:07].
+- **What it reveals.** Learning by studying a successful creator's system up close. A second Jamnagar confirmation.
+
+### I PLAYED MARIO TO EDIT BETTER (CcuSFI3k9dc, 30 Oct 2021)
+
+- **Summary.** "Editing looks like this only 20% of the time. The rest 80 looks like this" [00:26]. "6 to 7 hours of editing goes into a good video. I can't edit in one [go]. I have to edit in blocks of hours" over a couple of days [00:51]. Breaks used to become Instagram scrolling, so he copied Max Reisinger ("my current favorite YouTuber" [01:05]): edit for 25 minutes, then allow one game on a retro console [01:32] to [01:45].
+- **What it reveals.** Time-blocked editing, a borrowed system from a creator he studies, and early awareness of phone distraction.
+
+### This place could change the world....... (VfrcYnG5KlY, 12 Dec 2021)
+
+- **Summary.** "I have a factory visit right now with my father" at a company captioned "Pixen Energy Limited" [00:23], described as "Asia's largest" solar panel unit [01:21]; he later corrects himself: "it's an assembly unit almost" [02:12]. "I have never, at least in Jamnagar manufacturing units I've gone to, [had] any of these ID cards" [01:35]. He sat with the person who runs the site, who predicted a near-total switch to renewables "by 2027"; Moksh argued it was not yet feasible [02:39] to [03:06]. He is reading *The 4-Hour Workweek* and tries its eye-contact comfort challenge [00:38]. On viewers: "I don't call them my fans or audience... They're my friends" [04:21].
+- **What it reveals.** Regular exposure to industrial businesses through his father (the family business is not named here). An early "friends, not fans" stance toward audience.
+
+### I celebrated my 18th birthday ALONE.... here's why (gA69kfkfKds, 5 Jan 2022)
+
+- **Summary.** "Today is the 15th of December and tomorrow's the 16th of December, that's my birthday" [00:13]. He irons space-themed patches on a sweatshirt, an idea from Max Reisinger's Perspectopia brand ("an optimistic way of living") [00:43]; "even Meteoric is based around the theme of space and meteors and astronauts" [01:41]. He switched his phone off before midnight "to spend time with myself and reflect" [03:10]. "If you can't feel special without all of that... then what's the point of all these external wishes" [03:51]. Turning 18 is like crossing the Gujarat to Rajasthan border: the milestone says zero kilometres, "but the road is the same" [05:22]. A friend (captioned "my unc") who was beside him when he recorded his first channel video "is one of the biggest reasons why I started making YouTube videos" [06:40].
+- **What it reveals.** Birthdate 16 December (born 2003, derived). The Meteoric brand theme. An inward, self-validating stance on milestones.
+
+### Where have I been ? (Niljdgf6XWI, 19 Jan 2022) and I had the strangest new year (lrsD3_DWmaQ, 22 Jan 2022)
+
+- **Summary.** "This is my diary where I write down all of my thoughts and ideas... I definitely do write stuff before I make a video" [00:47]. A backlog crisis: "I put so much pressure on myself to edit so many videos at once that I stopped making videos... editing mindlessly week after week... started losing hope in the whole process... went off track mentally and then I became a little pessimistic in life" [01:16] to [01:44]. "You always figure out a way to pick yourself up" [01:57]. He will leave for university in February [03:38]. For Sahil's birthday he gives a book on how to "put himself out there, think about the process not the product, sharing something small every single day" [04:31]. New Year's day: "2021 hasn't been the best year of my life. I started YouTube, I started Meteoric, I explored myself a lot more... but I haven't been 100% mentally, overthinking issues" [04:27]. "I tried it out in 2017 for the first time and I fell in love with it back then but I wasn't confident enough to make these videos, which I am now" [05:34]. "No matter what happens with this channel... I really love the process" [05:48].
+- **What it reveals.** A late-2021 overload slump caused by his own publishing pressure, the same overload-crash-reset pattern seen later. Scripting from a written diary already in 2021.
+
+### How I explored Calcutta with a songwriter that I met online (W7kyuk_GShg, 5 Feb 2022)
+
+- **Summary.** In Calcutta for his mama's wedding [00:15]. "He lives in Calcutta, I live in Jamnagar in Gujarat" [00:58]. During the lockdown he found Raghav Meattle's song "City Life" (he covered it, cXWFzZwjK7o), joined the artist's nightly Instagram lives and performed [00:58] to [01:26]. There he met Aamir Rizvi (then 17; Moksh was 16), who helped him write and publish his first original song, "Wings on my back", about dreams "so high in the sky" he needs wings to reach them [01:40] to [02:20]. "For the first time today I tried to vlog in public" [09:47]. "It's very important to have conversations where you really go in depth about your experiences" [09:22]. "I have exactly 14 days left before I leave for university" [10:41].
+- **What it reveals.** Internet-first relationship building from 16. A third explicit Jamnagar statement.
+
+### My room is based off of a book! here's HOW ? (AVzCiJvNAI0, 28 Feb 2022)
+
+- **Summary.** "90% of the creation that I do happens out of my room" [00:00]. The room "is based out of" *Steal Like an Artist* by Austin Kleon, by coincidence [00:26]. The desk must "stimulate me creatively, enable me to get into a flow state" [00:54]. "You're only going to be as good as the stuff you surround yourself with" [01:20]. The pinboard holds his own artwork and notes ("do more of what makes you feel love and connect with yourself" [02:13]). Books on the shelf include *The Psychology of Money*, *The 4-Hour Workweek*, *The 7 Habits of Highly Effective People*, *The Everything Store*, *Rich Dad Poor Dad* and two more Kleon books [04:00]. About 13 books, four or five read: "it's very important to have an unread library" [04:25] to [05:03]. Cricket and karate trophies [05:54]. Six pairs of sneakers; "I don't focus on hype" [06:24] to [06:51]. Sahil's painting goes to university with him [09:06] to [09:44]. Five days left in the room [11:08].
+- **What it reveals.** Environment design as a creativity system, and a reference-collecting method he will later apply to client creative direction (inference).
+
+### I am off to university.....but where ? (oo7xrSKhcLw, 29 Mar 2022)
+
+- **Summary.** Applied to the UK, Australia and Singapore and got into universities in all three [00:40]; chose Australia for weather, culture, cricket and earlier visits [00:53]. "The University of Sydney. I'm going to be pursuing the Bachelor's of Economics course. My major is going to be economics of course and my minor will be innovation and entrepreneurship" [01:05]. Wanted to study abroad since seventh or eighth grade; planned to do 11th and 12th in Singapore but "chickened out" because "I was very immature" [01:17] to [01:30]. "Today is the 7th of February, tomorrow is the 8th"; flying out from Ahmedabad [01:30]. Longest time away from parents so far: about a month; very attached to parents and grandparents [01:56] to [02:10]. A night out with all 16 friends [03:01]. A six-hour drive to Ahmedabad [04:26]. Via Singapore; talked to an Ahmedabad family settled in Melbourne [05:40]. Arrived 11:30 p.m. [06:16].
+- **What it reveals.** His own statement of the university and degree. The entrepreneurship minor was chosen at enrolment. The course plan changed from BBA (Jun 2021) to economics.
+
+### I'm starting a new life... (Slvxa-gFdOA, 4 Apr 2022)
+
+- **Summary.** Welcome fest at "Hogwarts" [00:00]. A friend becomes "the new cameraman... my partner in crime" [00:15]. Day two alone, to "talk to new people" [00:50]. Indian and Pakistani societies, the Asia Cup trials [02:23]. An entrepreneurship society: a basic course and "a 14-week intense program" connecting students "to all these investors, VCs" [02:39]. "One of my goals at university was to meet a lot of people interested in... entrepreneurship, business" [03:50]. Finance, accounting, investing and trading stalls [05:52].
+- **What it reveals.** Networking toward business people from week one.
+
+### We crossed a thousand. (kz4QLIEy5aA, 28 Apr 2022)
+
+- **Summary.** "I crossed a thousand subscribers about four to five days ago. I made this video where I was coming to uni and it just blew up", 2.6K to 2.7K views on day one [00:48]. "In 24 hours 100 new subscribers", from 870 to 970 [01:02] to [01:30]. (Earlier repo text called the breakout a "commuting to university" vlog; it is the video about leaving for university, oo7xrSKhcLw.) Friends predict 10K and "10 million" [02:46], [04:42]. He describes his content: "I document my experiences and then I share my perspective on it, and I'm good with cinematography" [03:59]. Backstory: started in 2017 with music covers, then vlogging, inspired by "Casey Neistat, Peter McKinnon" and a third creator captioned "irfan junior" [05:51] to [06:04]. Going to "the India England match" (the Mar 2021 Motera trip) made him vlog again "after like a year or so" [06:18]. "I started making videos in May 2021. I made a commitment to myself that I tried to post a couple of videos per week" and kept going "even though no one watched" [06:30]. His parents "play my videos on the TV" and send links to family [06:43]. "None of my videos actually ever blew up but the numbers kept on increasing" [06:56]. He uploads "almost once every two weeks" now [07:22].
+- **What it reveals.** Consistency held through low views, then a breakout. Parents as early supporters.
+
+### HOW we ended up at a racetrack after classes (2uaKw6rUnyk, 20 Sep 2022)
+
+- **Summary.** "I ended up cutting my arm at the Singapore airport when I was flying into Sydney", stitches for 14 days [00:10]. A startup careers fair at the Great Hall [00:36]. An entrepreneurship unit, "validating ideas and building ventures": "at the end of the semester you have to make a business plan and pitch it to investors" [02:15]. First vs second semester: "first semester I didn't really study as much... I didn't interact in the classes at all and I probably picked out the wrong classes"; now he prepares and participates [04:47] to [05:13]. He plans more "run and gun" vlogs "because I want to increase the frequency of posting" [05:26]. Back in India mid-year "I got into painting", with Sahil at the farm [05:55]. Go-karting at Eastern Creek with nine friends [07:04].
+- **What it reveals.** Venture-building coursework in 2022. Confirms the mid-2022 trip home and the stitches story told in U07BFLrEMus.
+
+### How did I end up on the iron throne during uni ? (c-axXKkYvfc, 17 Oct 2022)
+
+- **Summary.** An internship interview with Sydney Motorsport, a student motorsport team, for "the business team" [00:42]; "if I don't get an internship I probably work part-time" [00:55]. A marketing unit "which I don't really like" [03:20]. Max Reisinger's room tour led him to Nike Daybreaks [03:32] to [03:59]. Description: "I believe a creator is only the sum of the content he/she consumes on the regular, hence I'll be linking a few videos in the description with every upload."
+- **What it reveals.** Internship hunting from his second semester. A creator-as-sum-of-inputs belief.
+
+### I watched the greatest cricket match. (zW7yNFs7VsM, 8 Nov 2022)
+
+- **Summary.** India vs Pakistan at the MCG, 23 Oct 2022 [00:18]. Tickets sold out within a minute; "an uncle of mine lives in Melbourne and he managed to get me and my friends tickets" [00:57] to [01:11]. Watched "with five Pakistani friends and a few Indian friends" [01:11]. Flight cancelled at 4 a.m., rerouted via Adelaide [01:42] to [02:49]. Kohli's innings; Moksh cried [08:34] to [09:40]. Description: "my most intense edit"; "I posted a reel on my Instagram page a day after the game, and it went viral amassing 230k views so far!"
+- **What it reveals.** His first viral reel, by his own count 230K views shortly after (the repo timeline cites about 284K from EP.28; both self-reported, different dates).
+
+### How I recreated 'Cast away' (d1zvUKJp7Vo, 21 Dec 2022)
+
+- **Summary.** Filmed in September during the mid-semester break; a solo trip within Sydney to an empty beach [00:21] to [02:32]. Balance is hard: "I end up skipping uploads for a couple of weeks"; gym "maybe not five times a week but thrice a week"; "upload a video maybe not every week but once every two weeks" [03:32] to [04:12]. Painting is "a form of catharsis" for racing thoughts [04:49] to [05:02]. "Take time out for yourself, go out alone, do things you love" [05:23]. Description: "I've started colour correcting and grading my videos, it's a skill I've newly learnt."
+- **What it reveals.** Rest and solitude as a deliberate reset.
+
+### Max Reisinger commented on my video (yqZDRElvh-s, 16 Jan 2023)
+
+- **Summary.** Filmed in an emptied Sydney room in Dec 2022, narrated later from home [00:00], [01:39]. Max's comment: "This is awesome, incredible video, keep up the good work man" [00:26]. Backstory: "right after high school I didn't have to give my high school exams because my board exams got scrapped... I had almost a year off from school and college. It was like a gap year almost. All I did during that period was create these videos and I launched a startup with my friend" [01:39] to [01:52]. He found Max through "a day in the life of running three businesses at age 17" [02:05]: Canon 10 to 18 mm wide angles, "a classic fade, punchy colors", uncut long-form, because Max believes "in not robbing people of their attention spans" [02:17] to [02:44]. "He took a gap year right after high school the way I did" [02:56]. He watches Max's videos in bed with headphones at full resolution as "a ritual" [03:10]. The twist: Sahil asked Max for a birthday message; Max asked for Moksh's channel instead and commented [03:23] to [03:50]. He had ordered a Perspectopia hat days earlier [04:03].
+- **What it reveals.** The gap-year startup is Meteoric (consistent with pXLF_xVQdPA). The friend who contacted Max is Sahil (earlier repo text said "a close friend"). The three-businesses teen is Max himself, by context.
+
+### this is how memories are made. (j-2phVRezVY, 26 Feb 2023)
+
+- **Summary.** With school friends scattered, FaceTime kept them close [00:33]. In June 2022 they had one to two months together and a Goa trip [00:48] to [01:01]. This time: "flew in the earliest on the 6th of December, so from the 6th of December to Christmas, for about 20 days, all I did was self-help, self-improvement, doing all sorts of uncomfortable things, hitting the gym regularly, reading every single day, doing ice baths... spent time with my family" [01:38] to [01:52]; friends arrived on the 26th. "Every Breath You Take", a song his dad played with him as a kid [02:26]. "We're like branches of the same tree just growing in different directions" [02:55]. A friend (captioned "tunnel") "started working out at the same time as I did. We did calisthenics together" [06:32] to [06:44]. In Pune with his parents to meditate [10:11]. Reflection: "if I'm in Jamnagar with my friends and I'm thinking about Sydney... there's no point of being in Jamnagar" [10:38] to [10:53]; "I lived in the moment" [11:34].
+- **What it reveals.** Dates his "underground phase" precisely (6 Dec 2022 onward, at home in Jamnagar). Another Jamnagar confirmation.
+
+### How I stay creative and inspired at age 17 (zPXQAJ2fDnM, 4 Dec 2021)
+
+- **Transcript:** now available (full auto-captions). Earlier repo text had metadata only.
+- **Summary.** He designs and paints his own jeans [00:20] to [00:44]. "The thing about creativity is the more messy you are", meaning 15 to 20 colours or objects "put together in an aesthetic way" spark ideas [01:10] to [01:37]. "Every video that I create, [I] sit down and write an idea about that video" and surround the workspace with objects "that have a story behind" them [01:37] to [01:50]. A creator's workspace carries their effort: he felt it at the Jaywalking store and feels it in his father's studio: "I can see all of my dad's paintings at the back" [02:47] to [03:28]. "Does someone else entering my space feel the same way?" [03:40].
+- **What it reveals.** His father paints; creative environment as inheritance. An "aesthetic mess" method for ideation.
+
+### 17 year old entreprenuer (yfVG-XkTcBw, 17 May 2021)
+
+- **Transcript:** local Whisper transcription from audio (no YouTube captions). Clean, but the co-founder's name is spelled four ways ("Dhannil", "Dhannel", "Danil", "Daniel", "Dhannal"); treat it as unconfirmed.
+- **Summary.** "I took up commerce after the 10th grade because I was very interested in being an entrepreneur and having my own business" [00:00]. "I always wanted to be a businessman", and with boards postponed and college "most probably going to be in January next year", he has "six to seven months at hand" to "experience what it's like to be an entrepreneur" [00:24]. "Me and my friend Dhannil, we've been working on this project to launch our own business. It's called Meteoric" [00:43]. The trigger: people DM him about his workout and transformation posts on Instagram, "and instead of answering those questions on DM I want to help people out in a very structured and formatted way" [01:00]. "At least in Jamnagar, the city that I live in", almost nobody knows calisthenics [01:20]. The name: when he was feeling low, a best friend told him "it's time to go from mediocre to meteoric", a line the friend made up on the spot [01:40]; and "I have always been very interested in space... I wanted to be an astronaut in the third grade" [01:59]. "The storyline is me and my friend went from being mediocre kids to meteoric. We're gonna help you guys go from mediocre to meteoric" [01:59]. The offer: workouts, calisthenics skills, tracking food and macros [02:18]. "If everything goes on track we will be entrepreneurs on the 23rd of May" [02:35]. Motive: "the main motto of starting Meteoric isn't to actually earn money" [02:35]; it is confidence for kids who are "overweight or underweight" [02:52] and "spreading the calisthenics culture... at least in my city" [03:08], and "the experience... to be better entrepreneurs in the future" [03:27]. "I don't know if I'll be continuing Meteoric during my college years. If this is a success, I probably will" [03:42]. Description: "A step into the unknown."
+- **What it reveals.** The clearest origin story for the Meteoric name, in his own words at 17. The business started from inbound DMs created by documenting his own transformation (inference: the same content-to-DM path he sells founders today). Explicitly framed as a learning venture, not a money venture.
+
+### I had a burnout ... and recovered :) (4tQJUr7N14M, 14 May 2021)
+
+- **Transcript:** local Whisper transcription from audio. Earlier repo text had metadata only and guessed it might relate to the calisthenics startup; it does not (Meteoric had not launched yet).
+- **Summary.** He procrastinated a test due at 6 p.m., "scrolling through Instagram and writing my test", and left it unfinished; "it's been a very demotivating day" [00:00] to [00:40]. Once you find "a perfect formula" you get "this false sense of security" that it will keep working [01:00] to [01:18]. "I've been following the same routine, the same monotonous tasks of my same system for me to stay productive... with my studies, with YouTube... and I feel like I put a lot of pressure on myself" [01:32]. "It's very, very, very essential to switch things up"; best ideas come "in the weirdest moments" [01:53]; "you can't put your mind into a set rhythm" [02:07]. Next day: "I feel a lot better today" [02:30]. "As soon as you hit rock bottom, when you feel frustrated and burnt out is when you actually start getting your life in order" [03:03]. "You can become a robot and work every single day to your maximum potential... but then why are you even living?" [03:17].
+- **What it reveals.** The earliest recorded burnout (May 2021, school and channel pressure, about 17). Even then he framed the fix as changing the system, not abandoning it. Same pattern recurs in late 2021 (Niljdgf6XWI) and 2025.
+
+### IS CREATIVITY REALLY CREATIVE ? (HqF_6fwZwgA, 5 May 2021) and WHY IS EVERYONE TALKING SNEAKERS (Z79hq8ZknUY, 31 Aug 2021)
+
+- **Transcripts:** local Whisper transcriptions from audio.
+- **Creativity.** "Back to regular uploads, I'm on track" [00:00]. Virat Kohli's batting "is a mixture or a sum of those three to four styles of batting that he saw" [01:09] to [01:42]. His own vlogs: "a lot of time lapses", "slow motion", "cinematic sequences", but "my entire video is not cinematically color graded"; "I pick up inferences from other YouTubers" and add "my own personalized touch" [02:02] to [02:38]. Definition: "if you copy something but you add your own personalized touch to it, that personalized touch that arises out of your limitations and strengths is creativity" [03:12]. "That's what this channel is about, me talking to you guys about... certain thoughts of mine" [03:29].
+- **Sneakers.** "This is the exact place and the exact position I spend 90% of my day. I have to edit for YouTube, I have to edit for Meteoric" [00:30]. On India's sneaker market: hype pairs arrive in "very small lots", "the demand is crazy high", resellers use contacts and bots on raffles [02:47] to [03:40]; "if you own a hype sneaker nowadays, it's not an expense anymore, it's an asset" [03:40], with a rare pair bought for about Rs 14,000 reselling above Rs 1 lakh, "8 to 9 to 10 times" [03:55]. "I wouldn't call myself a sneakerhead"; he prefers shoes "not a lot of people own" so "it's gonna be your signature shoe" [04:11] to [04:46].
+- **What they reveal.** At 17 he already had a theory of style as borrowed parts plus a personal signature, and an eye for scarcity, signalling and resale economics. Meteoric was still producing content in late Aug 2021.
 
 ---
 
-### 1. Talking productivity + playing TT
+## Biography facts from this era (with sources)
 
-- **ID:** n9GXQoWsYvE
-- **URL:** https://www.youtube.com/watch?v=n9GXQoWsYvE
-- **Approx date:** about early 2021 ("5 years ago" on Piped; he mentions being in 12th grade with pre-board exams and the lockdown)
-- **Duration:** 6:03
-- **Views:** 1,344 (as of Oct 2026)
-- **Transcript access:** full auto-captions. The productivity half is clear; the table tennis half is mostly music and fragments.
-
-**Summary.** Moksh answers a viewer question about staying productive all day. He says productivity means different things to different people, and for him (a student and creator) it means studying and making videos. He calls himself a productivity enthusiast, but says he was not productive at all until his final school year and the lockdown, when he started building a system. His routine: wake at the same time every day including weekends, plan the next day the night before with a short list of four or five tasks (waking on time, exercise, and two work tasks), write them in a dedicated notebook and clear it by day's end, exercise for focus and calm, and keep his space organized. He breaks long-term goals into yearly, monthly, weekly, and daily goals, then into concrete tasks. He pushes back on the idea that waking at 5 a.m. makes you productive; sleep and consistency matter more. Planning is the one habit he credits most. The second half is a casual table tennis session with friends.
-
-**What it reveals.**
-- **Systems thinking, in his own words, by about 2021.** He frames his turnaround as building a system, not finding motivation. This is the earliest on-record version of the belief he later writes as "systems before scale" (see the integration section at the end).
-- **Goal cascades.** The yearly to daily breakdown is the same shape as his 2025 habits: four 90-day sprints with three goals each (Epiphanies #10) and a solo quarterly "board meeting" with stress-tested goals (Epiphanies #12).
-- **Small lists over heroic days.** Four or five tasks, two of them real work. He was already designing for consistency rather than intensity.
-- **Contrarian but practical.** He rejects the 5 a.m. trope in favor of sleep and regularity, an early version of his later habit of correcting popular advice.
-
-### 2. I had a burnout ... and recovered :)
-
-- **ID:** 4tQJUr7N14M
-- **URL:** https://www.youtube.com/watch?v=4tQJUr7N14M
-- **Approx date:** about 2020 to 2021 ("5 years ago" on Piped)
-- **Duration:** 3:51
-- **Views:** 1,361 (as of Oct 2026)
-- **Transcript access:** metadata only. Two attempts returned captions that were about 99% music tags and garbled text, with no intelligible statements about the burnout, its causes, or the recovery. **Content not verified; needs a human watch.**
-
-**Summary.** What can be said from the title and metadata: a short video framed as a recovery story, with a smiley in the title signaling that he presents it as resolved, not ongoing. The garbled captions and music tags suggest a music-led edit with little or sparse talking.
-
-**What it reveals (mostly inference, marked).**
-- **Timing match (inference).** The video falls in the same window as the first Meteoric, the online calisthenics coaching startup he co-founded with his best friend from high school. In his newsletter he says it peaked at about 15 clients at once, stalled on weak systems and inexperience, and shut down after both founders burned out (Epiphanies #2 and #7, self-reported). Whether this video is about that burnout, about school pressure, or about something else is **unconfirmed**.
-- **He was open about burnout at 17 or so.** Publicly naming burnout and recovery as a teenager fits his later pattern of sharing vulnerability paired with a lesson (2025 to 2026 podcasts discuss burnout in Aug to Oct 2025; Epiphanies #13 mentions sleep rising from about 5.8 to 7+ hours after a burnout in early 2025).
-- **Recovery as a narrative frame.** Even at this stage the title packages a hard period as a comeback, the same arc he later uses in his founding story.
-
-### 3. How I stay creative and inspired at age 17
-
-- **ID:** zPXQAJ2fDnM
-- **URL:** https://www.youtube.com/watch?v=zPXQAJ2fDnM
-- **Approx date:** about late 2021 (Piped says "4 years ago"; the title's "age 17" with his December birthday points to late 2021 rather than 2022; derived, approximate)
-- **Duration:** 4:52
-- **Views:** 1,120 (as of Oct 2026)
-- **Transcript access:** metadata only. Two fetch attempts failed (server error, then client error).
-
-**Summary.** Not available. The title promises his personal methods for staying creative and inspired.
-
-**What it reveals (from title only).**
-- He was already packaging his own process as content ("How I ..."), the same format he uses for client case studies today.
-- Creativity and inspiration were things he treated as manageable with habits, consistent with the productivity video and the room tour below. Treat this as a light inference until the video is watched.
-
-### 4. My room is based off of a book! here's HOW ?
-
-- **ID:** AVzCiJvNAI0
-- **URL:** https://www.youtube.com/watch?v=AVzCiJvNAI0
-- **Approx date:** about early 2022 (he says he leaves for university in a few days, which fits the Feb 2022 departure in video 5; derived)
-- **Duration:** 12:01
-- **Views:** 5,218 (as of Oct 2026)
-- **Transcript access:** full auto-captions.
-
-**Summary.** A room tour with a twist: he says the room loosely follows Austin Kleon's *Steal Like an Artist*, and that the overlap was a coincidence he noticed later. He says about 90% of his creative work happens in this room, so he set up the desk area to trigger creativity and flow. A pinboard holds his own artwork, motivational notes, sticky notes, small figurines, and keepsakes, things he "stole" because they resonate with him. His shelf has about 13 books, of which he has read four or five; he argues that books shape your decisions just by being around you, before you read them. A top shelf holds sentimental items, family keepsakes, and his cricket and karate trophies. He walks through his six pairs of sneakers and says he prefers sleek, good-looking designs over hype pairs. He also shows a perfume collection, bracelets, a mirror that hides a closet, and a painting a friend made for him that he plans to take to university. He closes by saying he will miss the room and that his parents plan to keep it as it is.
-
-**What it reveals.**
-- **Environment design as a creativity system.** He engineers his surroundings to produce flow, the physical version of the productivity system in video 1.
-- **Taste by collection and imitation.** "Steal Like an Artist" matches his later editing advice (copy the creators you love until your own style appears, Dec 2022 Q&A) and his reference-driven creative direction for clients.
-- **Books as ambient influence.** He openly owns more books than he has read and treats them as identity cues. Books become his main mentors in later years (Naval, Robert Greene, Hormozi).
-- **Aesthetic over hype.** His sneaker logic (sleek design over trend) is the same instinct he later sells to founders: a considered look rather than loud signaling.
-
-### 5. I am off to university.....but where ?
-
-- **ID:** oo7xrSKhcLw
-- **URL:** https://www.youtube.com/watch?v=oo7xrSKhcLw
-- **Approx date:** about Feb 2022 (he says he left on the evening of 8 February; year inferred from the "4 years ago" relative date)
-- **Duration:** 6:45
-- **Views:** 7,912 (as of Oct 2026), the highest of this set
-- **Transcript access:** full auto-captions, with some sung passages and caption errors.
-
-**Summary.** Moksh reveals he is starting at the University of Sydney, studying a Bachelor of Economics with an economics major and an innovation and entrepreneurship minor. He applied to universities in the UK, Australia, and Singapore and got into several, then chose Australia for its weather, relaxed culture, and cricket, and because he had visited a few times and liked it. He says he had wanted to study abroad since about 7th or 8th grade and once planned to finish school in Singapore after 10th grade, but backed out because he felt too immature then; now he feels ready. This is his first time living far from his parents and grandparents (his longest time away before was about a month), and he describes the goodbyes as hard, saying he cried several times in the days before leaving. He had a farewell night with about 16 friends, flew from Ahmedabad via Singapore (with a tight connection and little sleep), chatted on the way with an Indian family settled in Melbourne about India versus Australia, and reached his Sydney accommodation late at night, calling it a new chapter. He says he plans to explore Sydney through hikes and beaches and to film it.
-
-**What it reveals.**
-- **The entrepreneur track was chosen, not stumbled into.** The innovation and entrepreneurship minor confirms this was his direction from enrolment. (Later he says he always planned to become a full-time entrepreneur the day he graduated, Epiphanies #14.)
-- **Readiness as a decision criterion.** He passed on going abroad earlier because he was not ready, then went when he was. He talks about timing and self-assessment rather than pure ambition.
-- **Emotional openness on camera.** He shows the hard goodbyes directly. That candor is a constant from these vlogs to his 2025 to 2026 content.
-- **Confirms the university.** Several research sources name the University of Sydney; this video is his own on-camera statement of the school and degree.
-
-### 6. I'm starting a new life...
-
-- **ID:** Slvxa-gFdOA
-- **URL:** https://www.youtube.com/watch?v=Slvxa-gFdOA
-- **Approx date:** about Feb 2022 (welcome week, shortly after video 5; derived)
-- **Duration:** 8:07
-- **Views:** 5,364 (as of Oct 2026)
-- **Transcript access:** full auto-captions, with music interludes and one lyrics segment (not used).
-
-**Summary.** A welcome-week vlog from the University of Sydney. He compares the campus to Hogwarts and walks through the main quadrangle. On day two he explores the welcome fair alone, visits society stalls, and starts conversations with strangers. He stops at the Indian and Pakistani societies and a cricket activity. He joins an entrepreneurship society that helps students develop ideas, launch products, and practice pitches, and mentions its 14-week accelerator that connects students with investors. He also signs up for finance, investing, and trading groups, saying his goal is to meet people who share his interest in business. Later he visits a graffiti tunnel with a friend who has become his camera operator and vlogging partner, and the day ends with plans for a party.
-
-**What it reveals.**
-- **Network first.** In week one he goes looking for business-minded people on purpose. This foreshadows his later habits: joining 180 Degrees Consulting and a student real-estate investment group in 2023, and building StuKonnect around mentor access in 2025.
-- **Comfort going solo.** He works the fair alone and talks to strangers, an early sign of the cold-approach confidence behind his later cold outreach (two emails and a cold call landed his 2025 search-fund internship, Epiphanies #6).
-- **Finance plus creativity.** He signs up for both investing groups and filming with a friend. The art plus analysis pairing he later names explicitly (bamboo video, 2023) is visible from the start.
-
-### 7. We crossed a thousand.
-
-- **ID:** kz4QLIEy5aA
-- **URL:** https://www.youtube.com/watch?v=kz4QLIEy5aA
-- **Approx date:** about mid 2022 (he is in Sydney and refers to a recent vlog about commuting to university; "4 years ago" on Piped; derived)
-- **Duration:** 8:31
-- **Views:** 1,435 (as of Oct 2026)
-- **Transcript access:** full auto-captions, with some garbled group conversation.
-
-**Summary.** He films at 7:30 a.m. after an all-nighter, unshowered and emotional, to mark crossing 1,000 subscribers a few days earlier. He says a recent vlog about commuting to university got about 2.6k to 2.7k views on its first day, and that he gained about 100 subscribers in 24 hours, going from about 870 to about 970 (self-reported), before a friend called one night to tell him he was close to 1,000. Friends in his residential college celebrate with him, they go out for slushies, and one new friend asks about his content; Moksh describes it as documenting his life with a focus on cinematography. Friends tease him that 10k is next. He tells his backstory: he started on YouTube in 2017 with music covers, then shifted to vlogging, inspired by Casey Neistat, Peter McKinnon, and a third creator whose name the captions garble. He posted irregularly at first; a cricket match (India vs England, as captioned) nudged him back into vlogging, and in May 2021 he committed to posting a couple of videos a week and kept going even when views were low. His parents encouraged him, playing his videos on TV for family. He says putting himself on camera feels vulnerable but he enjoys being a creator. At the time of filming he posts a vlog about every two weeks.
-
-**What it reveals.**
-- **Consistency as the strategy.** His growth story is a commitment (May 2021, two videos a week) held through low views, then a breakout video. That is the same compounding logic as his later "bamboo growth" idea and his pitch to founders.
-- **Milestone-driven goals.** 1,000 subscribers, then 10k. In Dec 2022 he ties his first Q&A to the 1,000 mark and a possible meet-up to 10k to 20k (Wisdom from a 19 year old boy).
-- **Identity: cinematographer who documents.** He describes his content as life documentation with a cinematic focus, the taste-first identity that later becomes Meteoric Boost's creative edge.
-- **Origin dates.** Supports the "started on YouTube in 2017" claim found in later podcasts, with music covers as the first format.
-- **Supportive people as fuel.** Family and friends feature heavily, matching his later emphasis on surroundings and inner circle.
-
-### 8. Max Reisinger commented on my video
-
-- **ID:** yqZDRElvh-s
-- **URL:** https://www.youtube.com/watch?v=yqZDRElvh-s
-- **Approx date:** about late 2022 to 2023 ("3 years ago" on Piped; the story happens a few days before his birthday, so likely filmed in a December; derived)
-- **Duration:** 4:44
-- **Views:** 2,219 (as of Oct 2026)
-- **Transcript access:** full auto-captions, minor garbling.
-
-**Summary.** Moksh wakes to a YouTube notification that Max Reisinger, a creator he admires, has commented on one of his videos with praise and encouragement to keep going. He explains the backstory: after high school he took what he calls a gap year, because his board exams were cancelled, and spent it making videos and co-founding a startup with a friend. Around then he found a day-in-the-life video about a 17-year-old running three businesses (the captions do not make clear whether the teen is Max himself), and he fell for its wide-angle shooting, warm faded color grade, and slow long-form pacing, which he contrasts with short-form apps. He also connected with the creator's optimistic outlook and gap-year path, and says watching these videos became a nightly ritual. The twist: a close friend had asked Max to record a birthday message for Moksh; Max asked for his channel instead and left the comment. Moksh had also just ordered a hat from Perspectopia, the brand tied to Max's optimism philosophy.
-
-**What it reveals.**
-- **Dating clue for the first Meteoric.** His own account places the co-founded startup in a post-school gap year. See the conflicts note below.
-- **Visual taste, named precisely.** Wide angles, warm faded grades, slow pacing. This is the clearest early statement of his look, and it later becomes the "taste is the deliverable" side of his studio.
-- **Role models who mix business and film.** The video that hooked him was about a teen running multiple businesses, shot cinematically. That combination (entrepreneur as subject, film as medium) is exactly what Meteoric Boost sells to founders.
-- **Optimism as a brand.** He notices that Max's brand is a worldview, not just videos, an early read on what a personal brand is.
-
----
+| Fact | Evidence |
+|---|---|
+| Birthday 16 December (born 2003, derived from turning 18 in Dec 2021 and 19 in Dec 2022) | gA69kfkfKds [00:13]; -MGRRBmou1U [00:27]; pLB7-S_IgLA [00:41] |
+| Home city: Jamnagar, Gujarat | yfVG-XkTcBw [01:20] ("Jamnagar, the city that I live in"); W7kyuk_GShg [00:58]; fKsl9qOks0M [04:54]; gQ8fDE9hfHI [00:40]; iJhdjyh3QMk [00:13] (captioned "charm nagar"); hTyfMSl_Q3g [00:48]; j-2phVRezVY [10:38]; VfrcYnG5KlY [01:35] |
+| Describes home as a small town or city | U07BFLrEMus [02:32]; UQEP8Ko8x18 [01:29]; 0S5ed-U6Wo8 [04:49] (captioned) |
+| School: CBSE class 12, class of 2021; boards cancelled; about 85.7% | H2wUrSQlklI [00:01]; W9NW_R6__HM [02:11]; q7dBWIaOE20 [02:54] |
+| School stream: commerce after 10th grade, chosen to become an entrepreneur | yfVG-XkTcBw [00:00] |
+| Course plan May to Jun 2021: BBA abroad, January intake | yfVG-XkTcBw [00:24]; wU0FpT94RIk [01:04], [01:39] |
+| Actual degree: University of Sydney, Bachelor of Economics, economics major, innovation and entrepreneurship minor; left 8 Feb 2022 | oo7xrSKhcLw [01:05], [01:30] |
+| First Meteoric: in build by mid-May 2021 (target launch 23 May), prototype clients late May to early June, announced 15 Jun 2021; co-founder a friend (Whisper: "Dhannil"); Instagram @meteoricboost | yfVG-XkTcBw [00:43], [02:35]; pXLF_xVQdPA [01:13] to [01:39]; descriptions of 67L2KygKu78, eceZlNEKwyI, D08yELXnhXM |
+| Meteoric name: a best friend's line "from mediocre to meteoric" plus his childhood wish to be an astronaut | yfVG-XkTcBw [01:40] to [01:59] |
+| Meteoric still active Aug to Dec 2021 | Z79hq8ZknUY [00:30]; DNMWw5knz3I [02:12]; bGt5b2CIelI [04:29]; lrsD3_DWmaQ [04:27] |
+| Gap: about 8 months (Jun 2021 to Feb 2022), which he calls "almost a gap year" | DNMWw5knz3I [01:29]; yqZDRElvh-s [01:39] |
+| Family: father (paints; takes him to his office and factory visits), mother (had a film camera from her father), a sister, a brother who founded Snackstar India, grandparents he is close to, a mama (maternal uncle) married in Calcutta in early 2022, an uncle in Melbourne, cousins in Mumbai | zPXQAJ2fDnM [03:14]; UQEP8Ko8x18 [00:31]; VfrcYnG5KlY [00:23]; fu9pLij3dhs [00:06]; hTyfMSl_Q3g [02:32]; pXLF_xVQdPA [00:04]; WG6ZRbH6XZw [00:01]; W7kyuk_GShg [00:15]; zW7yNFs7VsM [00:57]; hTyfMSl_Q3g [01:01] |
+| Osho resort in Pune with family: "every year" (Oct 2021) vs "at least once every two years" (Dec 2022); father since the 1990s | hTyfMSl_Q3g [04:02]; -MGRRBmou1U [07:18] |
+| Early insecurity: "always been a fat kid", "very socially awkward", overweight before calisthenics | D08yELXnhXM [01:12]; 03WvAQfGGOs [02:03]; pXLF_xVQdPA [02:58]; Hom8znRLcJc [05:27] |
+| Gear: camera 2017, DJI drone 12 Dec 2018 (sold Aug 2021), laptop 2019; Premiere Pro (2021), Final Cut Pro (by Dec 2022) | pLB7-S_IgLA [00:41], [01:08]; 03WvAQfGGOs [01:13]; -MGRRBmou1U [05:13] |
+| Music: learned guitar because of Justin Bieber; channel started with covers; wrote and released his first original, "Wings on my back", at about 16 | Hom8znRLcJc [02:30]; 03WvAQfGGOs [03:08]; W7kyuk_GShg [02:07] |
+| Uni (2022): first semester weak (little study, wrong units); second semester engaged; venture unit with a pitch to investors; internship hunting (Sydney Motorsport business team) | 2uaKw6rUnyk [02:15], [04:47]; c-axXKkYvfc [00:42] |
+| Sydney housing: shared 5-bedroom apartment, then a studio (2022), then shared-facilities accommodation (Queen Mary Building, 2023, inferred); lived near Newtown (Aug 2022) | uoW1RWMXWng [03:39] to [04:54]; U07BFLrEMus [12:20]; fu9pLij3dhs [02:22] |
+| Home at Christmas 2022 from 6 Dec to early Feb 2023 (the "underground phase") | uoW1RWMXWng [02:27]; j-2phVRezVY [01:38] |
+| First viral reel: India vs Pakistan at the MCG, 230K views (Nov 2022, self-reported) | zW7yNFs7VsM description |
 
 ## Conflicts and open questions from this era
 
-- **When the first Meteoric ran.** Newsletter: co-founded at 17 in 2020 (Epiphanies #2, #7). Sanskar Goyal captions suggest about 2021. The Max Reisinger video places "co-founding a startup with a friend" in his post-school gap year (school ended about Aug 2021, Sydney from about Feb 2022). A garbled Dec 2021 caption ("what about meteoric, what's the plan", in "The weekend that CHANGED MY LIFE !!") fits the gap-year window. Not resolved: it may have started in 2020 and continued into the gap year.
-- **Burnout video content.** Unverified. Do not state that it is about the calisthenics startup until someone watches it.
-- **Semester timeline.** Video 5 puts his Sydney start around Feb 2022. The 2023 bamboo video describes his third semester spent at home in India before flying back in February. These can both be true but the exact semester sequence is not confirmed.
-- **Unnamed influence.** A third early creator influence is garbled in captions here and in the Dec 2022 Q&A.
+- **First Meteoric dates and name (now OPEN-QUESTIONS 19, for the 2020 vs 2021 framing only).** The transcripts settle most of this: on 17 May 2021 he and his friend had been building it for a week and targeted 23 May 2021 to launch (yfVG-XkTcBw [02:18] to [02:35]); prototype clients ran in late May to early June; he announced "I'm starting Meteoric" on 15 Jun 2021 with the @meteoricboost Instagram handle already chosen (pXLF_xVQdPA [01:13] to [01:39]). He was 17. The name was Meteoric from the start (yfVG-XkTcBw [00:43]). His newsletter's "2020" is not supported by any creator-era transcript: the readable 2020 to May 2021 vlogs never mention Meteoric (several from that window are unreadable, so absence is not proof). Possible reconciliation (inference): the idea or a school product-launch exercise predates the launch. The Dec 2021 "what about Meteoric" caption is real (bGt5b2CIelI [04:29]).
+- **Home city (settled).** Every creator-era reference points to Jamnagar. The one "Delhi" line found in this era (U07BFLrEMus [00:20]) is song lyrics, not speech.
+- **Degree (settled later).** This era confirms enrolment in a Bachelor of Economics (oo7xrSKhcLw [01:05]); his graduation is confirmed in Aug 2026 (9Ma2bozEqGM [1:20:59]).
+- **Underground phase timing.** He was home from 6 Dec 2022 to early Feb 2023 (about two months). The bamboo video calls the following Sydney semester his "third semester"; repo text that said he spent the third semester at home was wrong.
+- **Osho frequency.** "Every year" (hTyfMSl_Q3g [04:02]) vs "at least once every two years" (-MGRRBmou1U [07:18]).
+- **Viral MCG reel views.** 230K (description, Nov 2022) vs about 284K (EP.28, Oct 2023). Probably the same reel counted at different dates; keep both.
+- **Third early influence.** Captioned "irfan junior" (kz4QLIEy5aA [06:04]); unconfirmed.
+- **Co-founder's name.** Whisper renders it "Dhannil", "Dhannel", "Danil", "Daniel" and "Dhannal" (yfVG-XkTcBw [00:43] to [03:42]); auto-captions say "Daniel" (pXLF_xVQdPA [02:58]). OPEN-QUESTIONS item 9 asks whether the fitness-coach friend in wi6pyq5nXK8 is "Dhanil Shah"; it may be the same best friend (the Jan 2026 video says the fitness client was his high-school best friend). Unconfirmed; do not merge without Moksh.
+- **Burnout video.** Now transcribed (4tQJUr7N14M, May 2021): a school-and-YouTube pressure slump before Meteoric launched. Do not link it to the startup's later shutdown.
 
 ## What this era explains about Moksh today
 
-1. **Systems are his oldest belief.** Before any client, he credited a planning system (same wake time, night-before list of four or five tasks, goal cascade) for turning him from unproductive to productive. When he later says the first Meteoric died of weak systems and burnout, and that systems decide whether anything scales, he is restating a lesson he first learned on himself.
-2. **Burnout is a recurring signal, not a one-off.** A teenage burnout video (about 2020 to 2021), the first startup's burnout shutdown, a burnout in early 2025, and Aug to Oct 2025 all show the same pattern: overload, crash, then a rebuilt routine. An AI working for him should treat sleep, routine, and delegation as business inputs, and should flag schedules that copy the overload pattern.
-3. **Consistency compounds.** His channel story (commit in May 2021, push through low views, cross 1,000 in 2022) is the lived proof behind his compounding and "bamboo growth" language and behind the long-horizon promise he makes to founders.
-4. **Taste first, then strategy.** Room design from *Steal Like an Artist*, sleek-over-hype sneakers, a precise description of the cinematic look he loves: his eye came before his frameworks, which is why look and feel sit at the center of Meteoric Boost.
-5. **Imitate, then distill.** He built his style by collecting and copying creators he admired (Neistat, McKinnon, Reisinger). Expect him to develop a client's style the same way: references, imitation, iteration, signature.
-6. **The entrepreneur path was deliberate.** An entrepreneurship minor, a society with an accelerator in week one, finance groups, and a gap-year startup. Meteoric Boost is a return to a direction he picked as a teenager, and he even reused the first startup's name.
-7. **Document, don't perform.** His content was always life documentation with a cinematic finish, and he shared hard moments (goodbyes, burnout) openly. That is the instinct behind building founder brands from their real lives rather than invented personas.
+1. **He has been building brands since 17, with a name he kept, from a content-to-DM funnel.** Meteoric began because his transformation posts drew DMs he wanted to answer "in a very structured and formatted way" (yfVG-XkTcBw [01:00]), the same documentation-to-inbound path he sells founders now (inference). Meteoric v1 had a handle (@meteoricboost), a theme (space, astronauts), a reel shoot before launch, prototype clients, a tracker and a leaderboard. Meteoric Boost reuses the name and the handle style. (The handle match is observed; that the current account is the same account is unconfirmed.)
+2. **Feeling first is his oldest content theory.** At 17 he argued creators sell a vibe and showed how grade and music change it (UQEP8Ko8x18). That is the root of look and feel as a deliverable for founders.
+3. **Systems are his oldest belief.** Night-before lists and goal cascades (2021), a written idea diary (2021), time-blocked editing (2021), non-negotiables (2023). The first Meteoric's later failure "from weak systems" sits on top of a person who already loved systems.
+4. **Overload, crash, reset is a recurring pattern.** May 2021 ("I put a lot of pressure on myself", 4tQJUr7N14M [01:32]) and the late-2021 editing backlog that made him "pessimistic" (Niljdgf6XWI [01:29]) are verified early instances, before the 2025 burnouts.
+5. **Imitate, then distill.** Bieber (music, sneakers), Neistat and McKinnon (vlogging), Max Reisinger (wide angles, warm fades, long-form, the patch sweatshirt, Daybreaks, the editing break), Krishen Riyat (organization). He studies one creator's system closely and adopts parts of it.
+6. **Taste comes with family roots.** His father paints, his mother documented her school years on film, his grandfather gave her the camera. He frames his own documentation as continuing that.
+7. **Business was a stated goal at 17.** "I want to be a businessman" (Jun 2021), then an entrepreneurship minor, venture units and startup fairs. Meteoric Boost is a return to that direction.
+8. **Friends and supporters are part of the story.** Sahil (art, the Max Reisinger message), the friend who helped start the channel, parents playing his videos on TV. He calls viewers friends, not fans (VfrcYnG5KlY [04:21]).
 
 ## Related
 
@@ -208,8 +304,10 @@ The order of videos 1 and 2 relative to each other is not known; both sit in the
 - [How I graduated school (2021-08)](2021-08-14__how-i-graduated-school.md)
 - [The weekend that CHANGED MY LIFE !! (2021-12)](2021-12-07__weekend-that-changed-my-life.md)
 - [This is why I DONT shoot film (2022-10)](2022-10-08__why-i-dont-shoot-film.md)
+- [What if you were to die tomorrow? (2023-01)](2023-01-06__what-if-you-die-tomorrow.md)
 - [Wisdom from a 19 year old boy (2023-01)](2023-01-20__wisdom-from-a-19-year-old.md)
 - [this self improvement theory transformed my life. (2023-07)](2023-07-22__bamboo-self-improvement-theory.md)
+- [Transcript index](../transcripts/INDEX.md)
 - [Timeline](../00-identity/timeline.md)
 - [Business and operations mental models](../01-mental-models/business-and-operations.md)
 - [Mindset and life mental models](../01-mental-models/mindset-and-life.md)
