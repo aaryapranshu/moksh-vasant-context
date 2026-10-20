@@ -6,7 +6,7 @@ last_updated: 2026-10-20
 
 # Moksh Vasant: master brief
 
-**How to use this file.** This is the one-file summary of the repo, built to paste into a chat or a Claude Project. The repo holds the detail and full citations; every claim here comes from a linked file, so go there before quoting a number or a client.
+**How to use this file.** This is the one-file summary of Moksh's public record: what he has said on YouTube, in Shorts, testimonials and podcasts. It adds to his OS's own context; for current or private facts, those files win. Paste it into a chat or a Claude Project when you can't load the repo. The repo holds the detail and full citations; every claim here comes from a linked file, so go there before quoting a number or a client.
 
 Ground rules: every revenue, client and follower figure is self-reported unless marked "observed" or tagged [Aarya, 20 Oct 2026]. Never merge or round figures. Citations are YouTube video IDs with transcript timestamps, e.g. (qSNYWCyKGyo [06:32]). Newer views beat older ones unless the question is about his history.
 

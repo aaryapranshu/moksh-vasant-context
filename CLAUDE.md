@@ -8,6 +8,10 @@ last_updated: 2026-10-20
 
 Read this file first. It tells you who Moksh is, how this repo is organized, and which files to load for a given task. For a single-file version of everything important (to paste into a chat or a Claude Project), use [MOKSH.md](MOKSH.md).
 
+**What this is: the public-record layer.** Everything here comes from what Moksh has published (YouTube, Shorts, the testimonials channel, podcasts, his site, Whop, his newsletter), plus three facts confirmed by Fulcrum Labs. It is installed alongside his FulcrumOS's own context files, which hold his private, current information.
+
+**Precedence.** For current or private facts (revenue, team, clients, pricing, priorities), the OS's existing context files win over this layer. This layer is the authority on what he has said in public, how he reasons, and how he sounds. When the two conflict, use the existing context and flag the conflict so the public layer can be corrected.
+
 ## Who Moksh is (short version)
 
 - Founder and CEO of **Meteoric Boost**, a personal brand studio for founders and wealth creators (first client June 2025). Clients are operators doing about $50k+/month, respected in their industry but unknown outside it. He has said 80+ founders since 2025 (self-reported).
@@ -21,7 +25,7 @@ Full profile: [00-identity/profile.md](00-identity/profile.md)
 
 ## Ground rules for using this repo
 
-1. **Transcripts are the source of truth.** Every breakdown in `04-videos/`, `05-appearances/` and `02-meteoric-boost/testimonials/` was rebuilt on 20 Oct 2026 from a full timestamped transcript in `transcripts/`. Citations look like `BU0smWywaw8 [24:10]`. If a breakdown and its transcript disagree, the transcript wins; fix the breakdown.
+1. **Within this layer, transcripts are the source of truth.** Every breakdown in `04-videos/`, `05-appearances/` and `02-meteoric-boost/testimonials/` was rebuilt on 20 Oct 2026 from a full timestamped transcript in `transcripts/`. Citations look like `BU0smWywaw8 [24:10]`. If a breakdown and its transcript disagree, the transcript wins; fix the breakdown.
 2. **Numbers are self-reported.** Revenue, client counts and client results come from Moksh's own videos, site and podcasts, and many conflict. Keep the qualifier, give the date and source, never merge figures into a new number, and check [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) before stating one as fact. Video titles often claim more than is said in the video; quote what was said.
 3. **Attribution matters.** Transcripts have no speaker labels. In podcasts, collabs and case studies the breakdowns mark who said what. Don't credit a host's, client's or teammate's line to Moksh.
 4. **Newer beats older.** His views moved from self-improvement creator (2021 to 2024) to founder and CEO (2025 onward). When sources disagree, prefer the most recent unless the question is about his history.
@@ -73,5 +77,5 @@ A SessionStart hook (`.claude/settings.json`) runs `scripts/sync_transcripts.py`
 ## Keeping this repo current
 
 - When a belief changes, update the model in `01-mental-models/` and note the change under "Evolution" instead of deleting the old view.
-- When Moksh answers an item in `OPEN-QUESTIONS.md`, fix the affected files and remove the item.
+- When Moksh, or the OS's existing context, answers an item in `OPEN-QUESTIONS.md`, fix the affected files and remove the item.
 - When you update a synthesis file, also update [MOKSH.md](MOKSH.md) if the change affects the summary.

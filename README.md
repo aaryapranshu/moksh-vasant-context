@@ -2,6 +2,8 @@
 
 Everything you've published publicly, turned into structured context an AI can work from: how you think about personal brands, how Meteoric Boost runs, how you sell, and how you script and package your videos.
 
+It's an **add-on** to the context your FulcrumOS already has. Your existing files stay the source of truth for private and current facts; this layer adds your public record, your reasoning and your voice.
+
 Built for FulcrumOS (or any Claude Code setup). Drop the folder in and the AI reads `CLAUDE.md` first, which routes it to the right files for each task. `MOKSH.md` is the one-file version.
 
 Every claim traces to a timestamped moment in one of **161 full transcripts** of your videos, Shorts, client testimonials and podcast appearances.
@@ -36,7 +38,7 @@ OPEN-QUESTIONS.md         gaps and conflicts only you can answer
 git clone --depth 1 https://github.com/aaryapranshu/moksh-vasant-context.git /tmp/moksh-ctx && bash /tmp/moksh-ctx/install.sh && rm -rf /tmp/moksh-ctx
 ```
 
-It copies everything into `context/moksh-vasant/`, adds a short pointer to your `CLAUDE.md`, and adds the transcript-sync hook to `.claude/settings.json` (your existing settings are kept). Re-run the same command any time to update.
+It copies everything into `context/moksh-vasant-public/`, adds a short pointer to your `CLAUDE.md` (with the rule that your existing context wins on conflicts), and adds the transcript-sync hook to `.claude/settings.json` (your existing settings are kept). Re-run the same command any time to update.
 
 **Claude.ai Projects or any chat:** upload `MOKSH.md` for the essentials, or the folders plus `CLAUDE.md` for everything, and tell the project to read `CLAUDE.md` first. Skip `transcripts/` if space is tight: the breakdowns carry the timestamps.
 

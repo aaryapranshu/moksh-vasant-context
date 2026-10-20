@@ -6,7 +6,7 @@
 #     && bash /tmp/moksh-ctx/install.sh && rm -rf /tmp/moksh-ctx
 #
 # What it does (safe to re-run; re-running updates the files):
-#   1. Copies this repo into ./context/moksh-vasant/ (no nested .git).
+#   1. Copies this repo into ./context/moksh-vasant-public/ (no nested .git).
 #   2. Adds a short pointer block to ./CLAUDE.md so the AI knows the context exists.
 #   3. Adds the transcript-sync SessionStart hook to ./.claude/settings.json
 #      (hooks in a nested folder don't fire on their own).
@@ -15,7 +15,7 @@ set -euo pipefail
 
 SRC="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 WS="$(pwd)"
-REL="${MOKSH_CONTEXT_DIR:-context/moksh-vasant}"
+REL="${MOKSH_CONTEXT_DIR:-context/moksh-vasant-public}"
 DEST="$WS/$REL"
 
 if [ "$SRC" = "$DEST" ] || [ "$SRC" = "$WS" ]; then
@@ -24,7 +24,7 @@ if [ "$SRC" = "$DEST" ] || [ "$SRC" = "$WS" ]; then
 fi
 command -v python3 >/dev/null || { echo "python3 is required." >&2; exit 1; }
 
-echo "Installing Moksh Vasant context into $REL/"
+echo "Installing the Moksh Vasant public-record layer into $REL/"
 mkdir -p "$DEST"
 rsync -a --delete \
   --exclude ".git/" --exclude ".transcript-tools/" --exclude "__pycache__/" \
@@ -37,13 +37,13 @@ python3 - "$WS/CLAUDE.md" "$REL" <<'PY'
 import sys, re, pathlib
 path, rel = pathlib.Path(sys.argv[1]), sys.argv[2]
 block = f"""<!-- moksh-context:start -->
-## Moksh Vasant context
+## Public-record layer (Moksh Vasant)
 
-Everything Moksh has published (161 timestamped transcripts, mental models, Meteoric Boost, sales process, content playbook) lives in `{rel}/`.
+`{rel}/` adds everything Moksh has said in public to the context this OS already has: 161 timestamped transcripts (YouTube, Shorts, testimonials, podcasts) turned into his mental models, sales process, client proof and voice.
 
-- For anything about Moksh, Meteoric Boost, his clients, his content or writing in his voice: read `{rel}/CLAUDE.md` first. It routes each task to the right files.
-- Quick context for any task: `{rel}/MOKSH.md` (one-file brief).
-- Transcripts are the source of truth; numbers are self-reported; don't guess. Open items: `{rel}/OPEN-QUESTIONS.md`.
+- **Precedence:** this OS's existing context files are the source of truth for current, private facts (numbers, team, clients, priorities). The public layer is for what he has said on the record, how he thinks, and how he sounds. Where the two conflict, the existing context wins, and the conflict is worth flagging.
+- Use it for: scripts, reels, story sequences, titles and hooks in his voice; offer builds; sales-call prep; client-brand critiques; client proof; "what did I say about X" (with timestamps). Read `{rel}/CLAUDE.md` first: it routes each task to the right files.
+- One-file brief: `{rel}/MOKSH.md`. Public numbers are self-reported and often conflict; never merge them. Gaps: `{rel}/OPEN-QUESTIONS.md`.
 <!-- moksh-context:end -->
 """
 text = path.read_text(encoding="utf-8") if path.exists() else ""

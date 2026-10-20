@@ -8,6 +8,8 @@ last_updated: 2026-10-20
 
 Things the public sources and transcripts can't settle. They are ordered by how much an answer would improve the repo. Each cites video IDs and timestamps so Moksh can check fast. When one is answered, update the affected files and delete the item.
 
+**Check the OS first.** This layer sits next to Moksh's own FulcrumOS context, which may already answer some of these (revenue, pricing, team, client names). Before asking him, look there. If the existing context answers an item, fix the affected files in this layer, note the source as "existing OS context", and delete the item. Only ask Moksh about what neither source settles.
+
 Settled on 20 Oct 2026 and removed: home city (born and raised in Jamnagar, based in Bombay today), degree (finished at the University of Sydney; graduation ceremony in 9Ma2bozEqGM [1:20:59 to 1:22:14]), the Meteoric name in 2021 (yfVG-XkTcBw [00:43]; pXLF_xVQdPA [01:26]), company start (founded Apr 2025, first clients 8 Jun 2025), the six caption-less videos (all transcribed locally with Whisper), and the identities of Aryan Mahajan, Daksh Manocha and Devesh Arora ("Dish"). See [00-identity/timeline.md](00-identity/timeline.md).
 
 ## High impact: numbers and claims the AI will repeat
